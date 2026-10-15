@@ -19891,5 +19891,107 @@ html.dy-lock,html.dy-lock body{overflow:hidden}
   .ryear-bar-track{width:min(28px,100%)}
 }
 </style>
+<style id="f951-modales">
+/* ===== F9.5.1 · Modales auxiliares unificados (usa variables de tema) ===== */
+.modal-bg,.info-modal-bg,.hito-modal-bg{background:color-mix(in srgb,var(--text) 55%,transparent);-webkit-backdrop-filter:blur(6px);backdrop-filter:blur(6px)}
+body.theme-halloween .modal-bg,body.theme-halloween .info-modal-bg,body.theme-halloween .hito-modal-bg,
+body.theme-christmas .modal-bg,body.theme-christmas .info-modal-bg,body.theme-christmas .hito-modal-bg{background:rgba(8,5,10,.78)}
+
+.modal,.auth-modal,.reset-modal,.info-modal,.hito-card{
+  background:var(--surface);color:var(--text);
+  border:1px solid var(--border);border-radius:var(--radius-lg);
+  box-shadow:var(--component-shadow-float);
+  font-family:var(--font-body);
+}
+.modal-title,.auth-title,.info-modal-title{font-family:var(--font-display);color:var(--text);letter-spacing:.005em;line-height:1.2;text-wrap:balance}
+.auth-title,.info-modal-title{font-size:clamp(1.35rem,1.1rem + 1vw,1.75rem)}
+
+/* Controles de cierre / compartir unificados */
+.modal-close,.auth-close,.hito-close,.info-modal-close,.modal-share-btn{
+  display:inline-flex;align-items:center;justify-content:center;
+  min-width:40px;min-height:40px;border-radius:999px;
+  background:color-mix(in srgb,var(--surface) 88%,transparent);
+  color:var(--text);border:1px solid var(--border);
+  box-shadow:0 2px 8px color-mix(in srgb,var(--text) 18%,transparent);
+  cursor:pointer;transition:background .18s,border-color .18s,color .18s,transform .18s;
+}
+.modal-close:hover,.auth-close:hover,.hito-close:hover,.info-modal-close:hover,.modal-share-btn:hover{
+  background:var(--accent-soft);border-color:var(--accent);color:var(--accent);
+}
+.modal-close:active,.auth-close:active,.hito-close:active,.info-modal-close:active,.modal-share-btn:active{transform:scale(.94)}
+.modal-close:focus-visible,.auth-close:focus-visible,.hito-close:focus-visible,.info-modal-close:focus-visible,.modal-share-btn:focus-visible,
+.modal :focus-visible,.auth-modal :focus-visible,.reset-modal :focus-visible,.info-modal :focus-visible,.hito-card :focus-visible{
+  outline:none;box-shadow:var(--component-focus-ring)}
+
+/* Formularios */
+.auth-form input,.auth-modal input,.reset-modal input,.tg-input-wrap input,.bingo-manual-input,.bingo-book-search input,
+.modal textarea,.modal select,.info-modal input,.info-modal textarea{
+  width:100%;min-height:44px;padding:.6rem .85rem;box-sizing:border-box;
+  background:var(--surface-2);color:var(--text);
+  border:1px solid var(--border);border-radius:var(--radius);
+  font-family:var(--font-body);font-size:max(16px,var(--fs-ui));
+  transition:border-color .18s,box-shadow .18s,background .18s;
+}
+.auth-form input::placeholder,.tg-input-wrap input::placeholder,.bingo-manual-input::placeholder{color:var(--muted)}
+.auth-form input:hover,.tg-input-wrap input:hover,.bingo-manual-input:hover{border-color:var(--border-2,var(--border))}
+.auth-form input:focus,.tg-input-wrap input:focus,.bingo-manual-input:focus,.bingo-book-search input:focus,.modal textarea:focus{
+  outline:none;border-color:var(--accent);background:var(--surface);box-shadow:var(--component-focus-ring)}
+.auth-form label,.modal label{font-size:var(--fs-label);color:var(--muted);font-weight:600;letter-spacing:.02em}
+.auth-form{display:flex;flex-direction:column;gap:.85rem}
+
+/* Botones */
+.btn-primary,.bingo-btn-primary,.vote-submit{
+  min-height:44px;padding:.6rem 1.25rem;border-radius:var(--radius);
+  background:var(--accent);color:#fff;border:1px solid transparent;
+  font-family:var(--font-body);font-size:var(--fs-ui);font-weight:600;
+  box-shadow:0 4px 14px color-mix(in srgb,var(--accent) 30%,transparent);
+  cursor:pointer;transition:background .18s,transform .18s,box-shadow .18s,opacity .18s;
+}
+.btn-primary:hover,.bingo-btn-primary:hover,.vote-submit:hover{background:var(--accent-2,var(--accent));transform:translateY(-1px)}
+.btn-primary:active,.bingo-btn-primary:active,.vote-submit:active{transform:translateY(0)}
+.btn-primary[disabled],.bingo-btn-primary[disabled],.vote-submit[disabled]{opacity:.55;cursor:not-allowed;transform:none;box-shadow:none}
+.bingo-btn-danger,.vote-delete{
+  min-height:44px;padding:.6rem 1.1rem;border-radius:var(--radius);
+  background:var(--error-soft);color:var(--error);border:1px solid color-mix(in srgb,var(--error) 40%,transparent);
+  font-family:var(--font-body);font-size:var(--fs-ui);font-weight:600;cursor:pointer;transition:background .18s,border-color .18s}
+.bingo-btn-danger:hover,.vote-delete:hover{border-color:var(--error);background:color-mix(in srgb,var(--error) 18%,var(--surface))}
+
+/* Mensajes */
+.auth-error,.sol-msg{border-radius:var(--radius);font-size:var(--fs-meta);line-height:1.45}
+.auth-error{background:var(--error-soft);color:var(--error);border:1px solid color-mix(in srgb,var(--error) 35%,transparent);padding:.6rem .8rem}
+.toast{border-radius:var(--radius);background:var(--surface-2);color:var(--text);border:1px solid var(--border);box-shadow:var(--component-shadow-float);font-size:var(--fs-ui)}
+
+/* Contenido de info-modal */
+.info-modal-body,.info-modal-content{font-size:var(--fs-body);line-height:1.65;color:var(--text)}
+.info-modal p{color:var(--text)}
+.info-highlight{background:var(--accent-soft);border:1px solid color-mix(in srgb,var(--accent) 30%,transparent);border-left:3px solid var(--accent);border-radius:var(--radius);padding:.8rem 1rem}
+.info-section{margin-top:1.1rem;padding-top:1rem;border-top:1px solid var(--border)}
+.info-section h3,.info-section h4{font-family:var(--font-display);color:var(--text)}
+
+/* Bingo y leído */
+.bingo-cell-modal-body,.rd-modal-body{padding:1.25rem 1.4rem;display:flex;flex-direction:column;gap:.9rem;color:var(--text)}
+
+/* Scroll interno: ✕ siempre visible, nada oculto */
+.modal,.auth-modal,.reset-modal,.info-modal,.hito-card{max-height:calc(100dvh - 2rem - var(--f762-safe-y,0px));overflow-y:auto;overscroll-behavior:contain;-webkit-overflow-scrolling:touch;scrollbar-width:thin;scrollbar-color:var(--border-2,var(--border)) transparent}
+.modal-close,.auth-close,.hito-close,.info-modal-close{z-index:3}
+
+/* Tablet */
+@media (min-width:601px) and (max-width:1024px){
+  .modal,.info-modal{width:min(92vw,680px)}
+  .auth-modal,.reset-modal{width:min(92vw,440px)}
+  .bingo-cell-modal-body,.rd-modal-body{padding:1.15rem 1.25rem}
+}
+/* Móvil */
+@media (max-width:600px){
+  .modal,.auth-modal,.reset-modal,.info-modal,.hito-card{border-radius:var(--radius);max-height:calc(100dvh - 1rem - var(--f762-safe-y,0px))}
+  .bingo-cell-modal-body,.rd-modal-body{padding:1rem}
+  .btn-primary,.bingo-btn-primary,.bingo-btn-danger,.vote-submit,.vote-delete{width:100%}
+  .modal-close,.auth-close,.hito-close,.info-modal-close,.modal-share-btn{min-width:44px;min-height:44px}
+}
+@media (prefers-reduced-motion:reduce){
+  .modal-close,.auth-close,.hito-close,.info-modal-close,.modal-share-btn,.btn-primary,.bingo-btn-primary,.vote-submit,.auth-form input{transition:none}
+  .btn-primary:hover,.bingo-btn-primary:hover,.vote-submit:hover{transform:none}
+}
+</style>
 </body>
 </html>
