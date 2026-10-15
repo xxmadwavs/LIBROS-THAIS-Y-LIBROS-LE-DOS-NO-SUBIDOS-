@@ -750,5 +750,91 @@
     "canal_month": null,
     "my_rec": false,
     "my_rec_categories": []
+  },
+  {
+    "id": "b_1792056476979_44mj8",
+    "title": "Wild Protectress",
+    "authors": [
+      "before july"
+    ],
+    "year": null,
+    "cover": "https://m.media-amazon.com/images/I/81c-l47jY9L._SL1500_.jpg",
+    "synopsis": "Aranrak Pithaksakul, una incansable defensora de la naturaleza, ha dedicado su vida a proteger la naturaleza salvaje de Khao Nang Nuea, el mismo paraje que su madre defendió hasta la muerte.\nTras resultar gravemente herida durante una misión, Aranrak queda al cuidado de la doctora Nakharintra, también conocida como la doctora Narin. A medida que Narin la ayuda a recuperarse, la creciente cercanía entre ambas se va convirtiendo poco a poco en amor.\nPero justo cuando su relación empieza a florecer, Narin desaparece sin decir una palabra. Dos años más tarde, regresa. Solo que esta vez, Narin ya no es la doctora que Aranrak conocía. Ahora es una mujer de negocios e hija de un poderoso magnate local dedicado a la explotación de recursos naturales, y llega con planes para construir un complejo turístico de lujo cerca del parque nacional.\nAtrapada entre la mujer a la que aún ama y la naturaleza que ha jurado proteger, Aranrak debe enfrentarse a una elección imposible.\nCuando el amor y el deber se sitúan en bandos opuestos, ¿cuál elegirá?",
+    "pages": null,
+    "isbn": null,
+    "wattpad": null,
+    "ship": [],
+    "genres": [
+      "Romance",
+      "Contemporánea",
+      "Drama"
+    ],
+    "subgenres": [
+      "Crimen"
+    ],
+    "identidades": [
+      "Femme"
+    ],
+    "characters": [
+      "Doctora / Médica",
+      "Guardabosques"
+    ],
+    "dinamicas": [
+      "Femme × Femme",
+      "Protectora × Delicada",
+      "Feroz × Tierna"
+    ],
+    "tropes": [
+      "Second Chance Romance",
+      "Opposites Attract",
+      "Forced Proximity"
+    ],
+    "edad": [],
+    "pais_cultura": [
+      "Tailandia"
+    ],
+    "ubicaciones": [
+      {
+        "pais": "Tailandia",
+        "region": null,
+        "ciudad": "Bangkok",
+        "localidad": null,
+        "lugares": []
+      },
+      {
+        "pais": "Tailandia",
+        "region": "Nakhon Si Thammarat",
+        "ciudad": null,
+        "localidad": "Parque Nacional Khao Nang Nuea",
+        "lugares": []
+      }
+    ],
+    "epoca": "Contemporánea",
+    "periodo": null,
+    "tipo_mundo": "Realista",
+    "entornos": [
+      "Parque Nacional"
+    ],
+    "idioma_original": "Tailandés",
+    "pais_origen": [
+      "Tailandia"
+    ],
+    "ambientacion": [],
+    "content_warnings": [],
+    "spicy": 3,
+    "formato": null,
+    "adaptacion": null,
+    "sagaName": null,
+    "sagaNum": null,
+    "source": "thais",
+    "editions": [],
+    "saficlub": false,
+    "safi_categories": [],
+    "thaiclub": false,
+    "thai_categories": [],
+    "canal_rec": false,
+    "canal_month": null,
+    "my_rec": false,
+    "my_rec_categories": []
   }
 ]
