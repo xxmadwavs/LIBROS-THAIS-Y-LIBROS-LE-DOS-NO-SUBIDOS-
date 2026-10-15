@@ -1,0 +1,3398 @@
+{
+  "version": 1,
+  "descripcion": "Ciudades cartografiables de Tinta Sapphic para 'Mi mundo sapphic'. Solo ciudades reales confirmadas; barrios, distritos y lugares NO van en \"ciudades\"; provincias, estados y regiones van en \"regiones\". Independiente de world_map_data.json.",
+  "coordenadas": "lat/lon en grados decimales (WGS84, centro urbano aproximado, 3 decimales). Son el dato de referencia.",
+  "proyeccion_mapa": {
+    "nombre": "Natural Earth",
+    "viewBox": "0 0 1000 444",
+    "nota": "x,y de cada ciudad están precalculados en el espacio SVG de world_map_data.json (calibración con sus marcadores: error medio <1 px). Derivados de lat/lon; si algo no cuadra, recalcular desde lat/lon.",
+    "parametros": {
+      "cx": 499.9187,
+      "cy": 254.9876,
+      "kx": 3.22876,
+      "ky": 185.24272
+    }
+  },
+  "ciudades": [
+    {
+      "id": "th-bangkok",
+      "ciudad": "Bangkok",
+      "pais": "Tailandia",
+      "pais_iso": "TH",
+      "region": null,
+      "lat": 13.756,
+      "lon": 100.502,
+      "x": 780.0,
+      "y": 210.2,
+      "aliases": [
+        "Krung Thep",
+        "Bankok"
+      ]
+    },
+    {
+      "id": "th-chiang-mai",
+      "ciudad": "Chiang Mai",
+      "pais": "Tailandia",
+      "pais_iso": "TH",
+      "region": "Chiang Mai",
+      "lat": 18.788,
+      "lon": 98.985,
+      "x": 773.6,
+      "y": 193.7,
+      "aliases": []
+    },
+    {
+      "id": "th-chiang-rai",
+      "ciudad": "Chiang Rai",
+      "pais": "Tailandia",
+      "pais_iso": "TH",
+      "region": "Chiang Rai",
+      "lat": 19.91,
+      "lon": 99.841,
+      "x": 775.4,
+      "y": 190.0,
+      "aliases": []
+    },
+    {
+      "id": "th-hua-hin",
+      "ciudad": "Hua Hin",
+      "pais": "Tailandia",
+      "pais_iso": "TH",
+      "region": "Prachuap Khiri Khan",
+      "lat": 12.568,
+      "lon": 99.958,
+      "x": 778.9,
+      "y": 214.0,
+      "aliases": [
+        "Hua-Hin"
+      ]
+    },
+    {
+      "id": "th-mae-sot",
+      "ciudad": "Mae Sot",
+      "pais": "Tailandia",
+      "pais_iso": "TH",
+      "region": "Tak",
+      "lat": 16.717,
+      "lon": 98.571,
+      "x": 773.4,
+      "y": 200.5,
+      "aliases": []
+    },
+    {
+      "id": "th-rangsit",
+      "ciudad": "Rangsit",
+      "pais": "Tailandia",
+      "pais_iso": "TH",
+      "region": "Pathum Thani",
+      "lat": 13.989,
+      "lon": 100.618,
+      "x": 780.2,
+      "y": 209.4,
+      "aliases": []
+    },
+    {
+      "id": "jp-kitakyushu",
+      "ciudad": "Kitakyushu",
+      "pais": "Japón",
+      "pais_iso": "JP",
+      "region": "Fukuoka",
+      "lat": 33.883,
+      "lon": 130.875,
+      "x": 847.6,
+      "y": 144.2,
+      "aliases": [
+        "Kita-Kyushu",
+        "Kitakyūshū"
+      ]
+    },
+    {
+      "id": "th-ayutthaya",
+      "ciudad": "Ayutthaya",
+      "pais": "Tailandia",
+      "pais_iso": "TH",
+      "region": "Phra Nakhon Si Ayutthaya",
+      "lat": 14.353,
+      "lon": 100.568,
+      "x": 779.9,
+      "y": 208.2,
+      "aliases": [
+        "Phra Nakhon Si Ayutthaya"
+      ]
+    },
+    {
+      "id": "th-chonburi",
+      "ciudad": "Chonburi",
+      "pais": "Tailandia",
+      "pais_iso": "TH",
+      "region": "Chonburi",
+      "lat": 13.361,
+      "lon": 100.984,
+      "x": 781.5,
+      "y": 211.4,
+      "aliases": [
+        "Chon Buri"
+      ]
+    },
+    {
+      "id": "th-phop-phra",
+      "ciudad": "Phop Phra",
+      "pais": "Tailandia",
+      "pais_iso": "TH",
+      "region": "Tak",
+      "lat": 16.3,
+      "lon": 98.68,
+      "x": 773.9,
+      "y": 201.8,
+      "aliases": []
+    },
+    {
+      "id": "th-sam-ngao",
+      "ciudad": "Sam Ngao",
+      "pais": "Tailandia",
+      "pais_iso": "TH",
+      "region": "Tak",
+      "lat": 17.297,
+      "lon": 99.0,
+      "x": 774.4,
+      "y": 198.6,
+      "aliases": []
+    },
+    {
+      "id": "fr-lyon",
+      "ciudad": "Lyon",
+      "pais": "Francia",
+      "pais_iso": "FR",
+      "region": "Auvernia-Ródano-Alpes",
+      "lat": 45.764,
+      "lon": 4.836,
+      "x": 512.1,
+      "y": 105.6,
+      "aliases": [
+        "Lyón"
+      ]
+    },
+    {
+      "id": "fr-paris",
+      "ciudad": "París",
+      "pais": "Francia",
+      "pais_iso": "FR",
+      "region": "Isla de Francia",
+      "lat": 48.857,
+      "lon": 2.352,
+      "x": 505.8,
+      "y": 95.8,
+      "aliases": [
+        "Paris"
+      ]
+    },
+    {
+      "id": "ru-moscu",
+      "ciudad": "Moscú",
+      "pais": "Rusia",
+      "pais_iso": "RU",
+      "region": null,
+      "lat": 55.756,
+      "lon": 37.617,
+      "x": 589.2,
+      "y": 74.3,
+      "aliases": [
+        "Moscow",
+        "Moskva"
+      ]
+    },
+    {
+      "id": "tr-estambul",
+      "ciudad": "Estambul",
+      "pais": "Turquía",
+      "pais_iso": "TR",
+      "region": "Estambul",
+      "lat": 41.008,
+      "lon": 28.978,
+      "x": 574.7,
+      "y": 121.0,
+      "aliases": [
+        "Constantinopla",
+        "Istanbul",
+        "Bizancio"
+      ]
+    },
+    {
+      "id": "us-nueva-york",
+      "ciudad": "Nueva York",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "region": "Nueva York",
+      "lat": 40.713,
+      "lon": -74.006,
+      "x": 308.6,
+      "y": 121.9,
+      "aliases": [
+        "New York",
+        "New York City",
+        "NYC"
+      ]
+    },
+    {
+      "id": "us-richmond",
+      "ciudad": "Richmond",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "region": "Virginia",
+      "lat": 37.541,
+      "lon": -77.436,
+      "x": 297.0,
+      "y": 132.3,
+      "aliases": []
+    },
+    {
+      "id": "us-miami",
+      "ciudad": "Miami",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "region": "Florida",
+      "lat": 25.762,
+      "lon": -80.192,
+      "x": 281.5,
+      "y": 170.9,
+      "aliases": []
+    },
+    {
+      "id": "us-boston",
+      "ciudad": "Boston",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "region": "Massachusetts",
+      "lat": 42.36,
+      "lon": -71.059,
+      "x": 317.6,
+      "y": 116.6,
+      "aliases": []
+    },
+    {
+      "id": "us-filadelfia",
+      "ciudad": "Filadelfia",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "region": "Pensilvania",
+      "lat": 39.953,
+      "lon": -75.165,
+      "x": 305.0,
+      "y": 124.4,
+      "aliases": [
+        "Philadelphia"
+      ]
+    },
+    {
+      "id": "us-washington-dc",
+      "ciudad": "Washington D. C.",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "region": null,
+      "lat": 38.907,
+      "lon": -77.037,
+      "x": 299.2,
+      "y": 127.8,
+      "aliases": [
+        "Washington",
+        "Washington D.C.",
+        "Washington DC"
+      ]
+    },
+    {
+      "id": "us-atlanta",
+      "ciudad": "Atlanta",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "region": "Georgia",
+      "lat": 33.749,
+      "lon": -84.388,
+      "x": 275.6,
+      "y": 144.7,
+      "aliases": []
+    },
+    {
+      "id": "ca-toronto",
+      "ciudad": "Toronto",
+      "pais": "Canadá",
+      "pais_iso": "CA",
+      "region": "Ontario",
+      "lat": 43.653,
+      "lon": -79.383,
+      "x": 297.5,
+      "y": 112.4,
+      "aliases": []
+    },
+    {
+      "id": "gb-londres",
+      "ciudad": "Londres",
+      "pais": "Reino Unido",
+      "pais_iso": "GB",
+      "region": "Gran Londres",
+      "lat": 51.507,
+      "lon": -0.128,
+      "x": 499.6,
+      "y": 87.4,
+      "aliases": [
+        "London",
+        "Londrés"
+      ]
+    },
+    {
+      "id": "is-reikiavik",
+      "ciudad": "Reikiavik",
+      "pais": "Islandia",
+      "pais_iso": "IS",
+      "region": "Capital",
+      "lat": 64.147,
+      "lon": -21.942,
+      "x": 451.0,
+      "y": 49.4,
+      "aliases": [
+        "Reykjavik",
+        "Reykjavík"
+      ]
+    },
+    {
+      "id": "is-vik-i-myrdal",
+      "ciudad": "Vík í Mýrdal",
+      "pais": "Islandia",
+      "pais_iso": "IS",
+      "region": "Sur",
+      "lat": 63.419,
+      "lon": -19.006,
+      "x": 457.3,
+      "y": 51.5,
+      "aliases": [
+        "Vik i Myrdal"
+      ]
+    },
+    {
+      "id": "ro-bucarest",
+      "ciudad": "Bucarest",
+      "pais": "Rumanía",
+      "pais_iso": "RO",
+      "region": "Bucarest",
+      "lat": 44.427,
+      "lon": 26.103,
+      "x": 566.2,
+      "y": 109.9,
+      "aliases": [
+        "Bucharest",
+        "București"
+      ]
+    },
+    {
+      "id": "ru-san-petersburgo",
+      "ciudad": "San Petersburgo",
+      "pais": "Rusia",
+      "pais_iso": "RU",
+      "region": "San Petersburgo",
+      "lat": 59.934,
+      "lon": 30.336,
+      "x": 569.8,
+      "y": 61.7,
+      "aliases": [
+        "Leningrado",
+        "Petrogrado",
+        "Saint Petersburg"
+      ]
+    },
+    {
+      "id": "us-los-angeles",
+      "ciudad": "Los Ángeles",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "region": "California",
+      "lat": 34.052,
+      "lon": -118.244,
+      "x": 185.9,
+      "y": 143.7,
+      "aliases": [
+        "Los Angeles",
+        "LA"
+      ]
+    },
+    {
+      "id": "ar-buenos-aires",
+      "ciudad": "Buenos Aires",
+      "pais": "Argentina",
+      "pais_iso": "AR",
+      "region": "Ciudad Autónoma de Buenos Aires",
+      "lat": -34.604,
+      "lon": -58.382,
+      "x": 345.2,
+      "y": 368.1,
+      "aliases": []
+    },
+    {
+      "id": "ar-la-plata",
+      "ciudad": "La Plata",
+      "pais": "Argentina",
+      "pais_iso": "AR",
+      "region": "Buenos Aires",
+      "lat": -34.921,
+      "lon": -57.954,
+      "x": 346.5,
+      "y": 369.1,
+      "aliases": []
+    },
+    {
+      "id": "es-madrid",
+      "ciudad": "Madrid",
+      "pais": "España",
+      "pais_iso": "ES",
+      "region": "Comunidad de Madrid",
+      "lat": 40.417,
+      "lon": -3.704,
+      "x": 490.3,
+      "y": 122.9,
+      "aliases": []
+    },
+    {
+      "id": "me-podgorica",
+      "ciudad": "Podgorica",
+      "pais": "Montenegro",
+      "pais_iso": "ME",
+      "region": null,
+      "lat": 42.441,
+      "lon": 19.263,
+      "x": 549.3,
+      "y": 116.3,
+      "aliases": []
+    },
+    {
+      "id": "ba-sarajevo",
+      "ciudad": "Sarajevo",
+      "pais": "Bosnia y Herzegovina",
+      "pais_iso": "BA",
+      "region": "Cantón de Sarajevo",
+      "lat": 43.856,
+      "lon": 18.413,
+      "x": 546.8,
+      "y": 111.8,
+      "aliases": []
+    },
+    {
+      "id": "ba-srebrenica",
+      "ciudad": "Srebrenica",
+      "pais": "Bosnia y Herzegovina",
+      "pais_iso": "BA",
+      "region": "República Srpska",
+      "lat": 44.105,
+      "lon": 19.298,
+      "x": 549.0,
+      "y": 111.0,
+      "aliases": []
+    },
+    {
+      "id": "th-pattaya",
+      "ciudad": "Pattaya",
+      "pais": "Tailandia",
+      "pais_iso": "TH",
+      "region": "Chonburi",
+      "lat": 12.927,
+      "lon": 100.877,
+      "x": 781.3,
+      "y": 212.9,
+      "aliases": []
+    },
+    {
+      "id": "th-chanthaburi",
+      "ciudad": "Chanthaburi",
+      "pais": "Tailandia",
+      "pais_iso": "TH",
+      "region": "Chanthaburi",
+      "lat": 12.61,
+      "lon": 102.104,
+      "x": 784.8,
+      "y": 213.9,
+      "aliases": []
+    },
+    {
+      "id": "us-seattle",
+      "ciudad": "Seattle",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "region": "Washington",
+      "lat": 47.606,
+      "lon": -122.332,
+      "x": 194.4,
+      "y": 99.7,
+      "aliases": []
+    },
+    {
+      "id": "us-cincinnati",
+      "ciudad": "Cincinnati",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "region": "Ohio",
+      "lat": 39.103,
+      "lon": -84.512,
+      "x": 279.9,
+      "y": 127.2,
+      "aliases": []
+    },
+    {
+      "id": "gb-canterbury",
+      "ciudad": "Canterbury",
+      "pais": "Reino Unido",
+      "pais_iso": "GB",
+      "region": "Kent",
+      "lat": 51.28,
+      "lon": 1.08,
+      "x": 502.6,
+      "y": 88.1,
+      "aliases": []
+    },
+    {
+      "id": "it-amalfi",
+      "ciudad": "Amalfi",
+      "pais": "Italia",
+      "pais_iso": "IT",
+      "region": "Campania",
+      "lat": 40.634,
+      "lon": 14.603,
+      "x": 537.7,
+      "y": 122.2,
+      "aliases": []
+    },
+    {
+      "id": "au-melbourne",
+      "ciudad": "Melbourne",
+      "pais": "Australia",
+      "pais_iso": "AU",
+      "region": "Victoria",
+      "lat": -37.814,
+      "lon": 144.963,
+      "x": 879.3,
+      "y": 378.6,
+      "aliases": []
+    },
+    {
+      "id": "de-berlin",
+      "ciudad": "Berlín",
+      "pais": "Alemania",
+      "pais_iso": "DE",
+      "region": null,
+      "lat": 52.52,
+      "lon": 13.405,
+      "x": 532.4,
+      "y": 84.3,
+      "aliases": [
+        "Berlin"
+      ]
+    },
+    {
+      "id": "at-viena",
+      "ciudad": "Viena",
+      "pais": "Austria",
+      "pais_iso": "AT",
+      "region": null,
+      "lat": 48.208,
+      "lon": 16.374,
+      "x": 540.7,
+      "y": 97.8,
+      "aliases": [
+        "Vienna",
+        "Wien"
+      ]
+    },
+    {
+      "id": "fr-niza",
+      "ciudad": "Niza",
+      "pais": "Francia",
+      "pais_iso": "FR",
+      "region": "Provenza-Alpes-Costa Azul",
+      "lat": 43.71,
+      "lon": 7.262,
+      "x": 518.4,
+      "y": 112.2,
+      "aliases": [
+        "Nice"
+      ]
+    },
+    {
+      "id": "it-milan",
+      "ciudad": "Milán",
+      "pais": "Italia",
+      "pais_iso": "IT",
+      "region": "Lombardía",
+      "lat": 45.464,
+      "lon": 9.19,
+      "x": 523.1,
+      "y": 106.6,
+      "aliases": [
+        "Milan",
+        "Milano"
+      ]
+    },
+    {
+      "id": "it-roma",
+      "ciudad": "Roma",
+      "pais": "Italia",
+      "pais_iso": "IT",
+      "region": "Lacio",
+      "lat": 41.903,
+      "lon": 12.496,
+      "x": 532.0,
+      "y": 118.1,
+      "aliases": [
+        "Rome"
+      ]
+    },
+    {
+      "id": "it-venecia",
+      "ciudad": "Venecia",
+      "pais": "Italia",
+      "pais_iso": "IT",
+      "region": "Véneto",
+      "lat": 45.438,
+      "lon": 12.336,
+      "x": 531.1,
+      "y": 106.7,
+      "aliases": [
+        "Venice",
+        "Venezia"
+      ]
+    },
+    {
+      "id": "jp-osaka",
+      "ciudad": "Osaka",
+      "pais": "Japón",
+      "pais_iso": "JP",
+      "region": "Osaka",
+      "lat": 34.694,
+      "lon": 135.502,
+      "x": 858.9,
+      "y": 141.6,
+      "aliases": [
+        "Ōsaka"
+      ]
+    },
+    {
+      "id": "fr-montpellier",
+      "ciudad": "Montpellier",
+      "pais": "Francia",
+      "pais_iso": "FR",
+      "region": "Occitania",
+      "lat": 43.611,
+      "lon": 3.877,
+      "x": 509.8,
+      "y": 112.6,
+      "aliases": []
+    },
+    {
+      "id": "th-phuket",
+      "ciudad": "Phuket",
+      "pais": "Tailandia",
+      "pais_iso": "TH",
+      "region": "Phuket",
+      "lat": 7.88,
+      "lon": 98.392,
+      "x": 775.7,
+      "y": 229.3,
+      "aliases": []
+    },
+    {
+      "id": "th-ratchaburi",
+      "ciudad": "Ratchaburi",
+      "pais": "Tailandia",
+      "pais_iso": "TH",
+      "region": "Ratchaburi",
+      "lat": 13.528,
+      "lon": 99.813,
+      "x": 778.1,
+      "y": 210.9,
+      "aliases": []
+    },
+    {
+      "id": "tw-taipei",
+      "ciudad": "Taipéi",
+      "pais": "Taiwán",
+      "pais_iso": "TW",
+      "region": null,
+      "lat": 25.033,
+      "lon": 121.565,
+      "x": 831.6,
+      "y": 173.3,
+      "aliases": [
+        "Taipei",
+        "Taibéi"
+      ]
+    },
+    {
+      "id": "ma-tanger",
+      "ciudad": "Tánger",
+      "pais": "Marruecos",
+      "pais_iso": "MA",
+      "region": "Tánger-Tetuán-Alhucemas",
+      "lat": 35.759,
+      "lon": -5.834,
+      "x": 484.5,
+      "y": 138.1,
+      "aliases": [
+        "Tanger",
+        "Tangier"
+      ]
+    },
+    {
+      "id": "nl-amsterdam",
+      "ciudad": "Ámsterdam",
+      "pais": "Países Bajos",
+      "pais_iso": "NL",
+      "region": "Holanda Septentrional",
+      "lat": 52.37,
+      "lon": 4.895,
+      "x": 511.8,
+      "y": 84.7,
+      "aliases": [
+        "Amsterdam"
+      ]
+    },
+    {
+      "id": "ng-aba",
+      "ciudad": "Aba",
+      "pais": "Nigeria",
+      "pais_iso": "NG",
+      "region": "Abia",
+      "lat": 5.107,
+      "lon": 7.367,
+      "x": 520.6,
+      "y": 238.4,
+      "aliases": []
+    },
+    {
+      "id": "ng-abeokuta",
+      "ciudad": "Abeokuta",
+      "pais": "Nigeria",
+      "pais_iso": "NG",
+      "region": "Ogun",
+      "lat": 7.161,
+      "lon": 3.348,
+      "x": 509.3,
+      "y": 231.7,
+      "aliases": []
+    },
+    {
+      "id": "ng-nnewi",
+      "ciudad": "Nnewi",
+      "pais": "Nigeria",
+      "pais_iso": "NG",
+      "region": "Anambra",
+      "lat": 6.017,
+      "lon": 6.917,
+      "x": 519.3,
+      "y": 235.4,
+      "aliases": []
+    },
+    {
+      "id": "ng-ojoto",
+      "ciudad": "Ojoto",
+      "pais": "Nigeria",
+      "pais_iso": "NG",
+      "region": "Anambra",
+      "lat": 6.05,
+      "lon": 6.87,
+      "x": 519.2,
+      "y": 235.3,
+      "aliases": []
+    },
+    {
+      "id": "ng-oraifite",
+      "ciudad": "Oraifite",
+      "pais": "Nigeria",
+      "pais_iso": "NG",
+      "region": "Anambra",
+      "lat": 6.0,
+      "lon": 6.85,
+      "x": 519.1,
+      "y": 235.4,
+      "aliases": []
+    },
+    {
+      "id": "th-nakhon-pathom",
+      "ciudad": "Nakhon Pathom",
+      "pais": "Tailandia",
+      "pais_iso": "TH",
+      "region": "Nakhon Pathom",
+      "lat": 13.819,
+      "lon": 100.044,
+      "x": 778.7,
+      "y": 209.9,
+      "aliases": []
+    },
+    {
+      "id": "th-surat-thani",
+      "ciudad": "Surat Thani",
+      "pais": "Tailandia",
+      "pais_iso": "TH",
+      "region": "Surat Thani",
+      "lat": 9.138,
+      "lon": 99.321,
+      "x": 778.1,
+      "y": 225.2,
+      "aliases": []
+    },
+    {
+      "id": "th-saraburi",
+      "ciudad": "Saraburi",
+      "pais": "Tailandia",
+      "pais_iso": "TH",
+      "region": "Saraburi",
+      "lat": 14.529,
+      "lon": 100.911,
+      "x": 780.8,
+      "y": 207.6,
+      "aliases": []
+    },
+    {
+      "id": "th-mukdahan",
+      "ciudad": "Mukdahan",
+      "pais": "Tailandia",
+      "pais_iso": "TH",
+      "region": "Mukdahan",
+      "lat": 16.543,
+      "lon": 104.723,
+      "x": 790.6,
+      "y": 201.1,
+      "aliases": []
+    },
+    {
+      "id": "jp-tokio",
+      "ciudad": "Tokio",
+      "pais": "Japón",
+      "pais_iso": "JP",
+      "region": "Tokio",
+      "lat": 35.682,
+      "lon": 139.692,
+      "x": 868.6,
+      "y": 138.3,
+      "aliases": [
+        "Tokyo",
+        "Tōkyō"
+      ]
+    },
+    {
+      "id": "gb-middlesbrough",
+      "ciudad": "Middlesbrough",
+      "pais": "Reino Unido",
+      "pais_iso": "GB",
+      "region": null,
+      "lat": 54.576,
+      "lon": -1.235,
+      "x": 497.0,
+      "y": 77.9,
+      "aliases": []
+    },
+    {
+      "id": "gb-glasgow",
+      "ciudad": "Glasgow",
+      "pais": "Reino Unido",
+      "pais_iso": "GB",
+      "region": "Glasgow",
+      "lat": 55.864,
+      "lon": -4.252,
+      "x": 489.8,
+      "y": 74.0,
+      "aliases": []
+    },
+    {
+      "id": "gb-edimburgo",
+      "ciudad": "Edimburgo",
+      "pais": "Reino Unido",
+      "pais_iso": "GB",
+      "region": "Edimburgo",
+      "lat": 55.953,
+      "lon": -3.188,
+      "x": 492.4,
+      "y": 73.7,
+      "aliases": [
+        "Edinburgh"
+      ]
+    },
+    {
+      "id": "cn-shanghai",
+      "ciudad": "Shanghái",
+      "pais": "China",
+      "pais_iso": "CN",
+      "region": "Shanghái",
+      "lat": 31.23,
+      "lon": 121.474,
+      "x": 825.6,
+      "y": 152.9,
+      "aliases": [
+        "Shanghai"
+      ]
+    },
+    {
+      "id": "cn-pekin",
+      "ciudad": "Pekín",
+      "pais": "China",
+      "pais_iso": "CN",
+      "region": "Pekín",
+      "lat": 39.904,
+      "lon": 116.407,
+      "x": 801.9,
+      "y": 124.6,
+      "aliases": [
+        "Beijing",
+        "Pequín"
+      ]
+    },
+    {
+      "id": "cn-qingdao",
+      "ciudad": "Qingdao",
+      "pais": "China",
+      "pais_iso": "CN",
+      "region": "Shandong",
+      "lat": 36.067,
+      "lon": 120.383,
+      "x": 817.2,
+      "y": 137.1,
+      "aliases": [
+        "Tsingtao"
+      ]
+    },
+    {
+      "id": "cn-xi-an",
+      "ciudad": "Xi'an",
+      "pais": "China",
+      "pais_iso": "CN",
+      "region": "Shaanxi",
+      "lat": 34.342,
+      "lon": 108.94,
+      "x": 788.9,
+      "y": 142.7,
+      "aliases": [
+        "Xian",
+        "Xi’an"
+      ]
+    },
+    {
+      "id": "cn-hengdian",
+      "ciudad": "Hengdian",
+      "pais": "China",
+      "pais_iso": "CN",
+      "region": "Zhejiang",
+      "lat": 29.147,
+      "lon": 120.311,
+      "x": 824.5,
+      "y": 159.8,
+      "aliases": []
+    },
+    {
+      "id": "cn-dongyang",
+      "ciudad": "Dongyang",
+      "pais": "China",
+      "pais_iso": "CN",
+      "region": "Zhejiang",
+      "lat": 29.289,
+      "lon": 120.241,
+      "x": 824.2,
+      "y": 159.3,
+      "aliases": []
+    },
+    {
+      "id": "cn-jinhua",
+      "ciudad": "Jinhua",
+      "pais": "China",
+      "pais_iso": "CN",
+      "region": "Zhejiang",
+      "lat": 29.079,
+      "lon": 119.647,
+      "x": 822.8,
+      "y": 160.0,
+      "aliases": []
+    },
+    {
+      "id": "ru-ulan-ude",
+      "ciudad": "Ulan-Ude",
+      "pais": "Rusia",
+      "pais_iso": "RU",
+      "region": "Buriatia",
+      "lat": 51.834,
+      "lon": 107.584,
+      "x": 762.0,
+      "y": 86.4,
+      "aliases": [
+        "Ulán-Udé",
+        "Ulan Ude"
+      ]
+    },
+    {
+      "id": "ru-tomsk",
+      "ciudad": "Tomsk",
+      "pais": "Rusia",
+      "pais_iso": "RU",
+      "region": "Tomsk",
+      "lat": 56.485,
+      "lon": 84.948,
+      "x": 700.6,
+      "y": 72.1,
+      "aliases": []
+    },
+    {
+      "id": "kr-incheon",
+      "ciudad": "Incheon",
+      "pais": "Corea del Sur",
+      "pais_iso": "KR",
+      "region": "Incheon",
+      "lat": 37.456,
+      "lon": 126.705,
+      "x": 832.0,
+      "y": 132.5,
+      "aliases": [
+        "Inchon",
+        "Incheón"
+      ]
+    },
+    {
+      "id": "ph-manila",
+      "ciudad": "Manila",
+      "pais": "Filipinas",
+      "pais_iso": "PH",
+      "region": "Metro Manila",
+      "lat": 14.599,
+      "lon": 120.984,
+      "x": 836.7,
+      "y": 207.4,
+      "aliases": [
+        "Manila"
+      ]
+    },
+    {
+      "id": "ph-cebu",
+      "ciudad": "Cebú",
+      "pais": "Filipinas",
+      "pais_iso": "PH",
+      "region": "Cebú",
+      "lat": 10.316,
+      "lon": 123.885,
+      "x": 846.5,
+      "y": 221.4,
+      "aliases": [
+        "Cebu",
+        "Cebu City"
+      ]
+    },
+    {
+      "id": "ph-coron",
+      "ciudad": "Coron",
+      "pais": "Filipinas",
+      "pais_iso": "PH",
+      "region": "Palawan",
+      "lat": 12.002,
+      "lon": 120.205,
+      "x": 835.6,
+      "y": 215.9,
+      "aliases": []
+    },
+    {
+      "id": "ph-sagada",
+      "ciudad": "Sagada",
+      "pais": "Filipinas",
+      "pais_iso": "PH",
+      "region": "Provincia de la Montaña",
+      "lat": 17.084,
+      "lon": 120.903,
+      "x": 835.2,
+      "y": 199.3,
+      "aliases": []
+    },
+    {
+      "id": "us-san-francisco",
+      "ciudad": "San Francisco",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "region": "California",
+      "lat": 37.775,
+      "lon": -122.419,
+      "x": 179.4,
+      "y": 131.5,
+      "aliases": []
+    },
+    {
+      "id": "no-oslo",
+      "ciudad": "Oslo",
+      "pais": "Noruega",
+      "pais_iso": "NO",
+      "region": null,
+      "lat": 59.914,
+      "lon": 10.752,
+      "x": 524.7,
+      "y": 61.7,
+      "aliases": []
+    },
+    {
+      "id": "no-troms",
+      "ciudad": "Tromsø",
+      "pais": "Noruega",
+      "pais_iso": "NO",
+      "region": "Troms",
+      "lat": 69.649,
+      "lon": 18.956,
+      "x": 540.2,
+      "y": 33.9,
+      "aliases": [
+        "Tromso"
+      ]
+    },
+    {
+      "id": "au-sidney",
+      "ciudad": "Sídney",
+      "pais": "Australia",
+      "pais_iso": "AU",
+      "region": "Nueva Gales del Sur",
+      "lat": -33.869,
+      "lon": 151.209,
+      "x": 901.7,
+      "y": 365.7,
+      "aliases": [
+        "Sydney",
+        "Sidney"
+      ]
+    },
+    {
+      "id": "sg-singapur",
+      "ciudad": "Singapur",
+      "pais": "Singapur",
+      "pais_iso": "SG",
+      "region": null,
+      "lat": 1.29,
+      "lon": 103.85,
+      "x": 791.8,
+      "y": 250.8,
+      "aliases": [
+        "Singapore"
+      ]
+    },
+    {
+      "id": "pk-karachi",
+      "ciudad": "Karachi",
+      "pais": "Pakistán",
+      "pais_iso": "PK",
+      "region": "Sind",
+      "lat": 24.861,
+      "lon": 67.01,
+      "x": 682.8,
+      "y": 173.8,
+      "aliases": []
+    },
+    {
+      "id": "ca-ottawa",
+      "ciudad": "Ottawa",
+      "pais": "Canadá",
+      "pais_iso": "CA",
+      "region": "Ontario",
+      "lat": 45.421,
+      "lon": -75.697,
+      "x": 308.6,
+      "y": 106.7,
+      "aliases": []
+    },
+    {
+      "id": "es-gijon",
+      "ciudad": "Gijón",
+      "pais": "España",
+      "pais_iso": "ES",
+      "region": "Principado de Asturias",
+      "lat": 43.545,
+      "lon": -5.662,
+      "x": 485.5,
+      "y": 112.8,
+      "aliases": [
+        "Xixón"
+      ]
+    },
+    {
+      "id": "es-oviedo",
+      "ciudad": "Oviedo",
+      "pais": "España",
+      "pais_iso": "ES",
+      "region": "Principado de Asturias",
+      "lat": 43.361,
+      "lon": -5.849,
+      "x": 485.0,
+      "y": 113.4,
+      "aliases": [
+        "Uviéu"
+      ]
+    },
+    {
+      "id": "es-llanes",
+      "ciudad": "Llanes",
+      "pais": "España",
+      "pais_iso": "ES",
+      "region": "Principado de Asturias",
+      "lat": 43.42,
+      "lon": -4.755,
+      "x": 487.8,
+      "y": 113.2,
+      "aliases": []
+    },
+    {
+      "id": "es-tazones",
+      "ciudad": "Tazones",
+      "pais": "España",
+      "pais_iso": "ES",
+      "region": "Principado de Asturias",
+      "lat": 43.54,
+      "lon": -5.4,
+      "x": 486.1,
+      "y": 112.8,
+      "aliases": []
+    },
+    {
+      "id": "es-santiago-de-compostela",
+      "ciudad": "Santiago de Compostela",
+      "pais": "España",
+      "pais_iso": "ES",
+      "region": "Galicia",
+      "lat": 42.878,
+      "lon": -8.544,
+      "x": 478.1,
+      "y": 114.9,
+      "aliases": [
+        "Santiago"
+      ]
+    },
+    {
+      "id": "es-barcelona",
+      "ciudad": "Barcelona",
+      "pais": "España",
+      "pais_iso": "ES",
+      "region": "Cataluña",
+      "lat": 41.385,
+      "lon": 2.173,
+      "x": 505.5,
+      "y": 119.8,
+      "aliases": []
+    },
+    {
+      "id": "es-otxandio",
+      "ciudad": "Otxandio",
+      "pais": "España",
+      "pais_iso": "ES",
+      "region": "País Vasco",
+      "lat": 43.017,
+      "lon": -2.65,
+      "x": 493.1,
+      "y": 114.5,
+      "aliases": [
+        "Ochandiano"
+      ]
+    },
+    {
+      "id": "us-davenport",
+      "ciudad": "Davenport",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "region": "Iowa",
+      "lat": 41.524,
+      "lon": -90.578,
+      "x": 266.6,
+      "y": 119.3,
+      "aliases": [],
+      "nota": "El libro la sitúa en Minnesota, pero la única Davenport relevante está en Iowa; se cartografía ahí"
+    },
+    {
+      "id": "us-stillwater",
+      "ciudad": "Stillwater",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "region": "Iowa",
+      "lat": 42.08,
+      "lon": -93.5,
+      "x": 259.7,
+      "y": 117.5,
+      "aliases": [],
+      "aprox": true,
+      "nota": "Ubicación aproximada (centro de Iowa): no se ha localizado el punto exacto"
+    },
+    {
+      "id": "es-moural",
+      "ciudad": "Moural",
+      "pais": "España",
+      "pais_iso": "ES",
+      "region": "Galicia",
+      "lat": 42.8,
+      "lon": -7.9,
+      "x": 479.7,
+      "y": 115.2,
+      "aliases": [],
+      "aprox": true,
+      "nota": "Ubicación aproximada (centro de Galicia): no se ha localizado el punto exacto"
+    },
+    {
+      "id": "at-riegersburg",
+      "ciudad": "Riegersburg",
+      "pais": "Austria",
+      "pais_iso": "AT",
+      "region": "Estiria",
+      "lat": 47.0,
+      "lon": 15.93,
+      "x": 539.8,
+      "y": 101.7,
+      "aliases": [],
+      "nota": "Se ha elegido Riegersburg (Estiria, con su castillo) entre varios homónimos; cambiar si el libro se refiere a la de Baja Austria"
+    },
+    {
+      "id": "cn-jiangcheng",
+      "ciudad": "Jiangcheng",
+      "pais": "China",
+      "pais_iso": "CN",
+      "region": "Guangdong",
+      "lat": 21.86,
+      "lon": 111.97,
+      "x": 807.6,
+      "y": 183.7,
+      "aliases": [],
+      "nota": "Homónimo elegido: distrito Jiangcheng de Yangjiang (Guangdong); también existe Jiangcheng en Yunnan"
+    },
+    {
+      "id": "cn-haicheng",
+      "ciudad": "Haicheng",
+      "pais": "China",
+      "pais_iso": "CN",
+      "region": "Liaoning",
+      "lat": 40.88,
+      "lon": 122.75,
+      "x": 817.0,
+      "y": 121.4,
+      "aliases": [],
+      "nota": "Homónimo elegido: Haicheng (Anshan, Liaoning)"
+    },
+    {
+      "id": "cn-jincheng",
+      "ciudad": "Jincheng",
+      "pais": "China",
+      "pais_iso": "CN",
+      "region": "Shanxi",
+      "lat": 35.49,
+      "lon": 112.85,
+      "x": 798.0,
+      "y": 139.0,
+      "aliases": [],
+      "nota": "Homónimo elegido: Jincheng (Shanxi)"
+    },
+    {
+      "id": "cn-lingzhou",
+      "ciudad": "Lingzhou",
+      "pais": "China",
+      "pais_iso": "CN",
+      "region": "Ningxia",
+      "lat": 38.1,
+      "lon": 106.34,
+      "x": 777.9,
+      "y": 130.4,
+      "aliases": [],
+      "aprox": true,
+      "nota": "Ubicación aproximada: nombre histórico de la zona de Lingwu (Ningxia)"
+    },
+    {
+      "id": "cn-beicheng",
+      "ciudad": "Beicheng",
+      "pais": "China",
+      "pais_iso": "CN",
+      "region": null,
+      "lat": 35.0,
+      "lon": 103.0,
+      "x": 772.5,
+      "y": 140.6,
+      "aliases": [],
+      "aprox": true,
+      "nota": "Ubicación aproximada (centro de China): varios homónimos, no se ha determinado cuál"
+    },
+    {
+      "id": "au-willow-creek",
+      "ciudad": "Willow Creek",
+      "pais": "Australia",
+      "pais_iso": "AU",
+      "region": null,
+      "lat": -25.0,
+      "lon": 134.0,
+      "x": 865.5,
+      "y": 336.6,
+      "aliases": [],
+      "aprox": true,
+      "nota": "Ubicación aproximada (centro de Australia): no se ha localizado el punto exacto"
+    },
+    {
+      "id": "ph-la-union",
+      "ciudad": "La Unión",
+      "pais": "Filipinas",
+      "pais_iso": "PH",
+      "region": "La Unión",
+      "lat": 16.616,
+      "lon": 120.317,
+      "x": 833.8,
+      "y": 200.8,
+      "aliases": [
+        "La Union"
+      ],
+      "aprox": true,
+      "nota": "Se sitúa en San Fernando, capital de la provincia de La Unión"
+    },
+    {
+      "id": "th-ban-pho",
+      "ciudad": "Ban Pho",
+      "pais": "Tailandia",
+      "pais_iso": "TH",
+      "region": "Chachoengsao",
+      "lat": 13.63,
+      "lon": 101.12,
+      "x": 781.7,
+      "y": 210.6,
+      "aliases": [],
+      "aprox": true,
+      "nota": "Ubicación aproximada: distrito de Ban Pho (Chachoengsao)"
+    },
+    {
+      "id": "dk-copenhague",
+      "ciudad": "Copenhague",
+      "pais": "Dinamarca",
+      "pais_iso": "DK",
+      "region": "Región Capital",
+      "lat": 55.676,
+      "lon": 12.568,
+      "x": 529.8,
+      "y": 74.5,
+      "aliases": [
+        "Copenhagen",
+        "København"
+      ]
+    },
+    {
+      "id": "es-elche",
+      "ciudad": "Elche",
+      "pais": "España",
+      "pais_iso": "ES",
+      "region": "Alicante",
+      "lat": 38.267,
+      "lon": -0.698,
+      "x": 498.1,
+      "y": 129.9,
+      "aliases": [
+        "Elx"
+      ]
+    },
+    {
+      "id": "es-girona",
+      "ciudad": "Girona",
+      "pais": "España",
+      "pais_iso": "ES",
+      "region": "Cataluña",
+      "lat": 41.979,
+      "lon": 2.821,
+      "x": 507.2,
+      "y": 117.8,
+      "aliases": [
+        "Gerona"
+      ]
+    },
+    {
+      "id": "es-palma-de-mallorca",
+      "ciudad": "Palma de Mallorca",
+      "pais": "España",
+      "pais_iso": "ES",
+      "region": "Islas Baleares",
+      "lat": 39.57,
+      "lon": 2.65,
+      "x": 506.8,
+      "y": 125.7,
+      "aliases": [
+        "Palma"
+      ]
+    },
+    {
+      "id": "us-austin",
+      "ciudad": "Austin",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "region": "Texas",
+      "lat": 30.267,
+      "lon": -97.743,
+      "x": 237.1,
+      "y": 156.1,
+      "aliases": []
+    },
+    {
+      "id": "us-chicago",
+      "ciudad": "Chicago",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "region": "Illinois",
+      "lat": 41.878,
+      "lon": -87.63,
+      "x": 274.6,
+      "y": 118.2,
+      "aliases": []
+    },
+    {
+      "id": "us-san-diego",
+      "ciudad": "San Diego",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "region": "California",
+      "lat": 32.716,
+      "lon": -117.161,
+      "x": 187.4,
+      "y": 148.1,
+      "aliases": []
+    },
+    {
+      "id": "fr-marsella",
+      "ciudad": "Marsella",
+      "pais": "Francia",
+      "pais_iso": "FR",
+      "region": "Provenza-Alpes-Costa Azul",
+      "lat": 43.296,
+      "lon": 5.37,
+      "x": 513.6,
+      "y": 113.6,
+      "aliases": [
+        "Marseille"
+      ]
+    },
+    {
+      "id": "hu-budapest",
+      "ciudad": "Budapest",
+      "pais": "Hungría",
+      "pais_iso": "HU",
+      "region": null,
+      "lat": 47.498,
+      "lon": 19.04,
+      "x": 547.5,
+      "y": 100.1,
+      "aliases": []
+    },
+    {
+      "id": "gb-chester",
+      "ciudad": "Chester",
+      "pais": "Inglaterra",
+      "pais_iso": "GB",
+      "region": "Cheshire",
+      "lat": 53.19,
+      "lon": -2.89,
+      "x": 492.9,
+      "y": 82.2,
+      "aliases": []
+    },
+    {
+      "id": "gb-manchester",
+      "ciudad": "Mánchester",
+      "pais": "Inglaterra",
+      "pais_iso": "GB",
+      "region": "Gran Mánchester",
+      "lat": 53.481,
+      "lon": -2.243,
+      "x": 494.5,
+      "y": 81.3,
+      "aliases": [
+        "Manchester"
+      ]
+    },
+    {
+      "id": "ie-dublin",
+      "ciudad": "Dublín",
+      "pais": "Irlanda",
+      "pais_iso": "IE",
+      "region": "Leinster",
+      "lat": 53.35,
+      "lon": -6.26,
+      "x": 484.8,
+      "y": 81.7,
+      "aliases": [
+        "Dublin"
+      ]
+    },
+    {
+      "id": "it-cagliari",
+      "ciudad": "Cagliari",
+      "pais": "Italia",
+      "pais_iso": "IT",
+      "region": "Cerdeña",
+      "lat": 39.223,
+      "lon": 9.122,
+      "x": 523.7,
+      "y": 126.8,
+      "aliases": []
+    },
+    {
+      "id": "it-civitavecchia",
+      "ciudad": "Civitavecchia",
+      "pais": "Italia",
+      "pais_iso": "IT",
+      "region": "Lacio",
+      "lat": 42.093,
+      "lon": 11.797,
+      "x": 530.2,
+      "y": 117.5,
+      "aliases": []
+    },
+    {
+      "id": "it-florencia",
+      "ciudad": "Florencia",
+      "pais": "Italia",
+      "pais_iso": "IT",
+      "region": "Toscana",
+      "lat": 43.77,
+      "lon": 11.256,
+      "x": 528.6,
+      "y": 112.0,
+      "aliases": [
+        "Firenze",
+        "Florence"
+      ]
+    },
+    {
+      "id": "it-genova",
+      "ciudad": "Génova",
+      "pais": "Italia",
+      "pais_iso": "IT",
+      "region": "Liguria",
+      "lat": 44.407,
+      "lon": 8.934,
+      "x": 522.6,
+      "y": 110.0,
+      "aliases": [
+        "Genova",
+        "Genoa"
+      ]
+    },
+    {
+      "id": "it-napoles",
+      "ciudad": "Nápoles",
+      "pais": "Italia",
+      "pais_iso": "IT",
+      "region": "Campania",
+      "lat": 40.852,
+      "lon": 14.268,
+      "x": 536.8,
+      "y": 121.5,
+      "aliases": [
+        "Napoli",
+        "Naples"
+      ]
+    },
+    {
+      "id": "it-palermo",
+      "ciudad": "Palermo",
+      "pais": "Italia",
+      "pais_iso": "IT",
+      "region": "Sicilia",
+      "lat": 38.116,
+      "lon": 13.361,
+      "x": 534.8,
+      "y": 130.4,
+      "aliases": []
+    },
+    {
+      "id": "jp-kioto",
+      "ciudad": "Kioto",
+      "pais": "Japón",
+      "pais_iso": "JP",
+      "region": "Kioto",
+      "lat": 35.012,
+      "lon": 135.768,
+      "x": 859.2,
+      "y": 140.5,
+      "aliases": [
+        "Kyoto",
+        "Kyōto"
+      ]
+    },
+    {
+      "id": "mv-ukulhas",
+      "ciudad": "Ukulhas",
+      "pais": "Maldivas",
+      "pais_iso": "MV",
+      "region": "Atolón Alif Alif",
+      "lat": 4.2,
+      "lon": 72.87,
+      "x": 704.6,
+      "y": 241.3,
+      "aliases": []
+    },
+    {
+      "id": "cz-praga",
+      "ciudad": "Praga",
+      "pais": "República Checa",
+      "pais_iso": "CZ",
+      "region": "Praga",
+      "lat": 50.075,
+      "lon": 14.438,
+      "x": 535.5,
+      "y": 91.9,
+      "aliases": [
+        "Praha",
+        "Prague"
+      ]
+    },
+    {
+      "id": "va-ciudad-del-vaticano",
+      "ciudad": "Ciudad del Vaticano",
+      "pais": "Vaticano",
+      "pais_iso": "VA",
+      "region": null,
+      "lat": 41.903,
+      "lon": 12.453,
+      "x": 531.9,
+      "y": 118.1,
+      "aliases": [
+        "Vaticano",
+        "Vatican City"
+      ]
+    },
+    {
+      "id": "us-allentown",
+      "ciudad": "Allentown",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "region": "Pensilvania",
+      "lat": 40.608,
+      "lon": -75.49,
+      "x": 304.7,
+      "y": 122.3,
+      "aliases": []
+    },
+    {
+      "id": "us-charleston",
+      "ciudad": "Charleston",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "region": "Carolina del Sur",
+      "lat": 32.776,
+      "lon": -79.931,
+      "x": 286.7,
+      "y": 147.9,
+      "aliases": [],
+      "nota": "Homónimo elegido: Charleston (Carolina del Sur); también existe en Virginia Occidental"
+    },
+    {
+      "id": "us-frisco",
+      "ciudad": "Frisco",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "region": "Texas",
+      "lat": 33.151,
+      "lon": -96.824,
+      "x": 242.0,
+      "y": 146.6,
+      "aliases": [],
+      "nota": "Homónimo elegido: Frisco (Texas)"
+    },
+    {
+      "id": "us-houston",
+      "ciudad": "Houston",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "region": "Texas",
+      "lat": 29.76,
+      "lon": -95.37,
+      "x": 243.1,
+      "y": 157.8,
+      "aliases": []
+    },
+    {
+      "id": "us-king-of-prussia",
+      "ciudad": "King of Prussia",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "region": "Pensilvania",
+      "lat": 40.101,
+      "lon": -75.384,
+      "x": 304.5,
+      "y": 123.9,
+      "aliases": []
+    },
+    {
+      "id": "us-kingsford",
+      "ciudad": "Kingsford",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "region": "Nueva York",
+      "lat": 42.9,
+      "lon": -75.5,
+      "x": 306.7,
+      "y": 114.8,
+      "aliases": [],
+      "aprox": true,
+      "nota": "Ubicación aproximada (centro de Nueva York): no se ha localizado el punto exacto; la Kingsford conocida está en Míchigan"
+    },
+    {
+      "id": "us-lake-oswego",
+      "ciudad": "Lake Oswego",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "region": "Oregón",
+      "lat": 45.42,
+      "lon": -122.67,
+      "x": 189.9,
+      "y": 106.7,
+      "aliases": []
+    },
+    {
+      "id": "us-las-vegas",
+      "ciudad": "Las Vegas",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "region": "Nevada",
+      "lat": 36.17,
+      "lon": -115.14,
+      "x": 196.6,
+      "y": 136.7,
+      "aliases": []
+    },
+    {
+      "id": "us-lumina-valley",
+      "ciudad": "Lumina Valley",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "region": "Colorado",
+      "lat": 39.0,
+      "lon": -105.55,
+      "x": 225.0,
+      "y": 127.5,
+      "aliases": [],
+      "aprox": true,
+      "nota": "Ubicación aproximada (centro de Colorado): no se ha localizado el punto exacto"
+    },
+    {
+      "id": "us-minneapolis",
+      "ciudad": "Minneapolis",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "region": "Minnesota",
+      "lat": 44.98,
+      "lon": -93.265,
+      "x": 263.7,
+      "y": 108.1,
+      "aliases": []
+    },
+    {
+      "id": "us-newton",
+      "ciudad": "Newton",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "region": "Massachusetts",
+      "lat": 42.337,
+      "lon": -71.209,
+      "x": 317.2,
+      "y": 116.7,
+      "aliases": []
+    },
+    {
+      "id": "us-nueva-orleans",
+      "ciudad": "Nueva Orleans",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "region": "Luisiana",
+      "lat": 29.951,
+      "lon": -90.072,
+      "x": 257.5,
+      "y": 157.1,
+      "aliases": [
+        "New Orleans"
+      ]
+    },
+    {
+      "id": "us-oakland",
+      "ciudad": "Oakland",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "region": "California",
+      "lat": 37.804,
+      "lon": -122.271,
+      "x": 179.9,
+      "y": 131.4,
+      "aliases": []
+    },
+    {
+      "id": "us-portland",
+      "ciudad": "Portland",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "region": "Oregón",
+      "lat": 45.515,
+      "lon": -122.679,
+      "x": 190.1,
+      "y": 106.4,
+      "aliases": [],
+      "nota": "Homónimo elegido: Portland (Oregón); también existe en Maine"
+    },
+    {
+      "id": "us-provincetown",
+      "ciudad": "Provincetown",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "region": "Massachusetts",
+      "lat": 42.052,
+      "lon": -70.186,
+      "x": 319.6,
+      "y": 117.6,
+      "aliases": []
+    },
+    {
+      "id": "us-savannah",
+      "ciudad": "Savannah",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "region": "Georgia",
+      "lat": 32.081,
+      "lon": -81.091,
+      "x": 283.1,
+      "y": 150.1,
+      "aliases": []
+    },
+    {
+      "id": "us-washington-d-c",
+      "ciudad": "Washington, D. C.",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "region": null,
+      "lat": 38.907,
+      "lon": -77.037,
+      "x": 299.2,
+      "y": 127.8,
+      "aliases": [
+        "Washington D.C.",
+        "Washington DC",
+        "Washington, D.C."
+      ]
+    },
+    {
+      "id": "us-watertown",
+      "ciudad": "Watertown",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "region": "Dakota del Sur",
+      "lat": 44.899,
+      "lon": -97.115,
+      "x": 253.9,
+      "y": 108.4,
+      "aliases": []
+    },
+    {
+      "id": "us-west-chester",
+      "ciudad": "West Chester",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "region": "Pensilvania",
+      "lat": 39.96,
+      "lon": -75.606,
+      "x": 303.8,
+      "y": 124.4,
+      "aliases": []
+    },
+    {
+      "id": "ca-montreal",
+      "ciudad": "Montreal",
+      "pais": "Canadá",
+      "pais_iso": "CA",
+      "region": "Quebec",
+      "lat": 45.502,
+      "lon": -73.567,
+      "x": 314.1,
+      "y": 106.5,
+      "aliases": [
+        "Montréal"
+      ]
+    },
+    {
+      "id": "kr-seul",
+      "ciudad": "Seúl",
+      "pais": "Corea del Sur",
+      "pais_iso": "KR",
+      "region": null,
+      "lat": 37.567,
+      "lon": 126.978,
+      "x": 832.6,
+      "y": 132.2,
+      "aliases": [
+        "Seoul"
+      ]
+    },
+    {
+      "id": "br-rio-de-janeiro",
+      "ciudad": "Río de Janeiro",
+      "pais": "Brasil",
+      "pais_iso": "BR",
+      "region": "Río de Janeiro",
+      "lat": -22.907,
+      "lon": -43.173,
+      "x": 381.5,
+      "y": 329.7,
+      "aliases": [
+        "Rio de Janeiro"
+      ]
+    },
+    {
+      "id": "fr-saint-tropez",
+      "ciudad": "Saint-Tropez",
+      "pais": "Francia",
+      "pais_iso": "FR",
+      "region": "Provenza-Alpes-Costa Azul",
+      "lat": 43.272,
+      "lon": 6.64,
+      "x": 516.9,
+      "y": 113.6,
+      "aliases": [
+        "Saint Tropez"
+      ]
+    },
+    {
+      "id": "mc-montecarlo",
+      "ciudad": "Montecarlo",
+      "pais": "Mónaco",
+      "pais_iso": "MC",
+      "region": null,
+      "lat": 43.738,
+      "lon": 7.424,
+      "x": 518.8,
+      "y": 112.1,
+      "aliases": [
+        "Monte Carlo",
+        "Monte-Carlo"
+      ]
+    },
+    {
+      "id": "ch-st-moritz",
+      "ciudad": "St. Moritz",
+      "pais": "Suiza",
+      "pais_iso": "CH",
+      "region": "Grisones",
+      "lat": 46.49,
+      "lon": 9.836,
+      "x": 524.6,
+      "y": 103.3,
+      "aliases": [
+        "Sankt Moritz",
+        "Saint-Moritz",
+        "St Moritz"
+      ]
+    },
+    {
+      "id": "gr-coves",
+      "ciudad": "Coves",
+      "pais": "Grecia",
+      "pais_iso": "GR",
+      "region": null,
+      "lat": 39.07,
+      "lon": 21.82,
+      "x": 556.7,
+      "y": 127.3,
+      "aliases": [],
+      "aprox": true,
+      "nota": "Ubicación aproximada (centro de Grecia): no se ha localizado el punto exacto"
+    },
+    {
+      "id": "us-aspen",
+      "ciudad": "Aspen",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "region": "Colorado",
+      "lat": 39.191,
+      "lon": -106.818,
+      "x": 221.9,
+      "y": 126.9,
+      "aliases": []
+    },
+    {
+      "id": "us-burlington",
+      "ciudad": "Burlington",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "region": "Vermont",
+      "lat": 44.476,
+      "lon": -73.212,
+      "x": 314.0,
+      "y": 109.8,
+      "aliases": [],
+      "nota": "Homónimo elegido: Burlington (Vermont); hay varias en EE. UU."
+    },
+    {
+      "id": "us-cleveland",
+      "ciudad": "Cleveland",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "region": "Ohio",
+      "lat": 41.499,
+      "lon": -81.694,
+      "x": 289.5,
+      "y": 119.4,
+      "aliases": []
+    },
+    {
+      "id": "us-columbus",
+      "ciudad": "Columbus",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "region": "Ohio",
+      "lat": 39.961,
+      "lon": -82.999,
+      "x": 284.6,
+      "y": 124.4,
+      "aliases": []
+    },
+    {
+      "id": "us-nashville",
+      "ciudad": "Nashville",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "region": "Tennessee",
+      "lat": 36.163,
+      "lon": -86.782,
+      "x": 271.3,
+      "y": 136.8,
+      "aliases": []
+    },
+    {
+      "id": "us-pittsburgh",
+      "ciudad": "Pittsburgh",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "region": "Pensilvania",
+      "lat": 40.441,
+      "lon": -79.996,
+      "x": 292.9,
+      "y": 122.8,
+      "aliases": []
+    },
+    {
+      "id": "us-sacramento",
+      "ciudad": "Sacramento",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "region": "California",
+      "lat": 38.582,
+      "lon": -121.494,
+      "x": 182.9,
+      "y": 128.9,
+      "aliases": []
+    },
+    {
+      "id": "gb-exeter",
+      "ciudad": "Exeter",
+      "pais": "Reino Unido",
+      "pais_iso": "GB",
+      "region": "Devon",
+      "lat": 50.726,
+      "lon": -3.527,
+      "x": 491.3,
+      "y": 89.9,
+      "aliases": []
+    },
+    {
+      "id": "gb-york",
+      "ciudad": "York",
+      "pais": "Reino Unido",
+      "pais_iso": "GB",
+      "region": "Yorkshire del Norte",
+      "lat": 53.96,
+      "lon": -1.081,
+      "x": 497.3,
+      "y": 79.8,
+      "aliases": []
+    },
+    {
+      "id": "de-hamburgo",
+      "ciudad": "Hamburgo",
+      "pais": "Alemania",
+      "pais_iso": "DE",
+      "region": "Hamburgo",
+      "lat": 53.551,
+      "lon": 9.994,
+      "x": 524.0,
+      "y": 81.1,
+      "aliases": [
+        "Hamburg"
+      ]
+    },
+    {
+      "id": "es-cordoba",
+      "ciudad": "Córdoba",
+      "pais": "España",
+      "pais_iso": "ES",
+      "region": "Andalucía",
+      "lat": 37.888,
+      "lon": -4.779,
+      "x": 487.4,
+      "y": 131.1,
+      "aliases": [
+        "Cordoba"
+      ]
+    },
+    {
+      "id": "es-malaga",
+      "ciudad": "Málaga",
+      "pais": "España",
+      "pais_iso": "ES",
+      "region": "Andalucía",
+      "lat": 36.72,
+      "lon": -4.42,
+      "x": 488.3,
+      "y": 135.0,
+      "aliases": [
+        "Malaga"
+      ]
+    },
+    {
+      "id": "es-ronda",
+      "ciudad": "Ronda",
+      "pais": "España",
+      "pais_iso": "ES",
+      "region": "Andalucía",
+      "lat": 36.742,
+      "lon": -5.167,
+      "x": 486.3,
+      "y": 134.9,
+      "aliases": []
+    },
+    {
+      "id": "es-sevilla",
+      "ciudad": "Sevilla",
+      "pais": "España",
+      "pais_iso": "ES",
+      "region": "Andalucía",
+      "lat": 37.389,
+      "lon": -5.984,
+      "x": 484.2,
+      "y": 132.8,
+      "aliases": [
+        "Seville"
+      ]
+    },
+    {
+      "id": "gr-atenas",
+      "ciudad": "Atenas",
+      "pais": "Grecia",
+      "pais_iso": "GR",
+      "region": "Ática",
+      "lat": 37.984,
+      "lon": 23.728,
+      "x": 562.0,
+      "y": 130.8,
+      "aliases": [
+        "Athens",
+        "Athína"
+      ]
+    },
+    {
+      "id": "gr-mykonos",
+      "ciudad": "Mykonos",
+      "pais": "Grecia",
+      "pais_iso": "GR",
+      "region": "Egeo Meridional",
+      "lat": 37.446,
+      "lon": 25.329,
+      "x": 566.3,
+      "y": 132.6,
+      "aliases": [
+        "Míconos"
+      ]
+    },
+    {
+      "id": "gr-naxos",
+      "ciudad": "Naxos",
+      "pais": "Grecia",
+      "pais_iso": "GR",
+      "region": "Egeo Meridional",
+      "lat": 37.103,
+      "lon": 25.376,
+      "x": 566.5,
+      "y": 133.7,
+      "aliases": []
+    },
+    {
+      "id": "us-bend",
+      "ciudad": "Bend",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "region": "Oregón",
+      "lat": 44.058,
+      "lon": -121.315,
+      "x": 191.2,
+      "y": 111.1,
+      "aliases": []
+    },
+    {
+      "id": "us-redmond",
+      "ciudad": "Redmond",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "region": "Oregón",
+      "lat": 44.272,
+      "lon": -121.174,
+      "x": 191.9,
+      "y": 110.4,
+      "aliases": [],
+      "nota": "Homónimo elegido: Redmond (Oregón), junto a Bend en el libro; también existe en Washington"
+    },
+    {
+      "id": "us-dallas",
+      "ciudad": "Dallas",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "region": "Texas",
+      "lat": 32.777,
+      "lon": -96.797,
+      "x": 241.8,
+      "y": 147.9,
+      "aliases": []
+    },
+    {
+      "id": "us-denver",
+      "ciudad": "Denver",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "region": "Colorado",
+      "lat": 39.739,
+      "lon": -104.99,
+      "x": 227.3,
+      "y": 125.1,
+      "aliases": []
+    },
+    {
+      "id": "us-dodge-city",
+      "ciudad": "Dodge City",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "region": "Kansas",
+      "lat": 37.752,
+      "lon": -100.017,
+      "x": 238.1,
+      "y": 131.6,
+      "aliases": []
+    },
+    {
+      "id": "us-indianapolis",
+      "ciudad": "Indianapolis",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "region": "Indiana",
+      "lat": 39.768,
+      "lon": -86.158,
+      "x": 276.3,
+      "y": 125.0,
+      "aliases": []
+    },
+    {
+      "id": "us-irvine",
+      "ciudad": "Irvine",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "region": "California",
+      "lat": 33.684,
+      "lon": -117.826,
+      "x": 186.7,
+      "y": 144.9,
+      "aliases": []
+    },
+    {
+      "id": "us-kansas-city",
+      "ciudad": "Kansas City",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "region": "Misuri",
+      "lat": 39.1,
+      "lon": -94.579,
+      "x": 253.7,
+      "y": 127.2,
+      "aliases": [],
+      "nota": "Homónimo elegido: Kansas City (Misuri); también existe en Kansas"
+    },
+    {
+      "id": "us-kayenta",
+      "ciudad": "Kayenta",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "region": "Arizona",
+      "lat": 36.727,
+      "lon": -110.255,
+      "x": 210.1,
+      "y": 134.9,
+      "aliases": []
+    },
+    {
+      "id": "us-napa",
+      "ciudad": "Napa",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "region": "California",
+      "lat": 38.297,
+      "lon": -122.286,
+      "x": 180.5,
+      "y": 129.8,
+      "aliases": []
+    },
+    {
+      "id": "us-newport",
+      "ciudad": "Newport",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "region": "Rhode Island",
+      "lat": 41.49,
+      "lon": -71.313,
+      "x": 316.2,
+      "y": 119.4,
+      "aliases": []
+    },
+    {
+      "id": "us-pagosa-springs",
+      "ciudad": "Pagosa Springs",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "region": "Colorado",
+      "lat": 37.269,
+      "lon": -107.01,
+      "x": 219.2,
+      "y": 133.2,
+      "aliases": []
+    },
+    {
+      "id": "us-san-antonio",
+      "ciudad": "San Antonio",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "region": "Texas",
+      "lat": 29.424,
+      "lon": -98.494,
+      "x": 234.4,
+      "y": 158.9,
+      "aliases": []
+    },
+    {
+      "id": "us-santa-cruz",
+      "ciudad": "Santa Cruz",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "region": "California",
+      "lat": 36.974,
+      "lon": -122.03,
+      "x": 179.4,
+      "y": 134.1,
+      "aliases": [],
+      "nota": "Homónimo elegido: Santa Cruz (California)"
+    },
+    {
+      "id": "us-santa-fe",
+      "ciudad": "Santa Fe",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "region": "Nuevo México",
+      "lat": 35.687,
+      "lon": -105.938,
+      "x": 220.3,
+      "y": 138.3,
+      "aliases": []
+    },
+    {
+      "id": "us-sausalito",
+      "ciudad": "Sausalito",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "region": "California",
+      "lat": 37.859,
+      "lon": -122.485,
+      "x": 179.4,
+      "y": 131.2,
+      "aliases": []
+    },
+    {
+      "id": "us-st-louis",
+      "ciudad": "St. Louis",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "region": "Misuri",
+      "lat": 38.627,
+      "lon": -90.199,
+      "x": 264.6,
+      "y": 128.7,
+      "aliases": [
+        "Saint Louis",
+        "San Luis"
+      ]
+    },
+    {
+      "id": "us-belmont",
+      "ciudad": "Belmont",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "region": "Massachusetts",
+      "lat": 42.396,
+      "lon": -71.178,
+      "x": 317.3,
+      "y": 116.5,
+      "aliases": [],
+      "nota": "Homónimo elegido: Belmont (Massachusetts), junto a Boston en el libro"
+    },
+    {
+      "id": "ru-cheliabinsk",
+      "ciudad": "Cheliábinsk",
+      "pais": "Rusia",
+      "pais_iso": "RU",
+      "region": "Cheliábinsk",
+      "lat": 55.16,
+      "lon": 61.4,
+      "x": 646.3,
+      "y": 76.1,
+      "aliases": [
+        "Chelyabinsk"
+      ]
+    },
+    {
+      "id": "ch-zurich",
+      "ciudad": "Zúrich",
+      "pais": "Suiza",
+      "pais_iso": "CH",
+      "region": "Zúrich",
+      "lat": 47.377,
+      "lon": 8.541,
+      "x": 521.3,
+      "y": 100.5,
+      "aliases": [
+        "Zurich"
+      ]
+    },
+    {
+      "id": "us-elmwood",
+      "ciudad": "Elmwood",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "region": "Massachusetts",
+      "lat": 42.3,
+      "lon": -72.1,
+      "x": 314.9,
+      "y": 116.8,
+      "aliases": [],
+      "aprox": true,
+      "nota": "Ubicación aproximada (centro de Massachusetts): no se ha localizado el punto exacto"
+    },
+    {
+      "id": "us-pineford",
+      "ciudad": "Pineford",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "region": "Tennessee",
+      "lat": 35.8,
+      "lon": -86.4,
+      "x": 272.0,
+      "y": 138.0,
+      "aliases": [],
+      "aprox": true,
+      "nota": "Ubicación aproximada (centro de Tennessee): no se ha localizado el punto exacto"
+    },
+    {
+      "id": "us-prosperity",
+      "ciudad": "Prosperity",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "region": "Texas",
+      "lat": 31.5,
+      "lon": -99.3,
+      "x": 233.9,
+      "y": 152.0,
+      "aliases": [],
+      "aprox": true,
+      "nota": "Ubicación aproximada (centro de Texas): no se ha localizado el punto exacto"
+    },
+    {
+      "id": "us-winter-river",
+      "ciudad": "Winter River",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "region": "Colorado",
+      "lat": 39.0,
+      "lon": -105.55,
+      "x": 225.0,
+      "y": 127.5,
+      "aliases": [],
+      "aprox": true,
+      "nota": "Ubicación aproximada (centro de Colorado): no se ha localizado el punto exacto"
+    },
+    {
+      "id": "us-phoenix-ridge",
+      "ciudad": "Phoenix Ridge",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "region": null,
+      "lat": 39.8,
+      "lon": -98.6,
+      "x": 244.0,
+      "y": 124.9,
+      "aliases": [],
+      "aprox": true,
+      "nota": "Ubicación aproximada (centro de EE. UU.): sin región en el libro, no se ha localizado el punto exacto"
+    },
+    {
+      "id": "us-redpine",
+      "ciudad": "Redpine",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "region": null,
+      "lat": 39.8,
+      "lon": -98.6,
+      "x": 244.0,
+      "y": 124.9,
+      "aliases": [],
+      "aprox": true,
+      "nota": "Ubicación aproximada (centro de EE. UU.): sin región en el libro, no se ha localizado el punto exacto"
+    },
+    {
+      "id": "us-thunder-peak",
+      "ciudad": "Thunder Peak",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "region": null,
+      "lat": 39.8,
+      "lon": -98.6,
+      "x": 244.0,
+      "y": 124.9,
+      "aliases": [],
+      "aprox": true,
+      "nota": "Ubicación aproximada (centro de EE. UU.): sin región en el libro, no se ha localizado el punto exacto"
+    },
+    {
+      "id": "ca-beaumont",
+      "ciudad": "Beaumont",
+      "pais": "Canadá",
+      "pais_iso": "CA",
+      "region": "Ontario",
+      "lat": 49.0,
+      "lon": -83.0,
+      "x": 294.3,
+      "y": 95.3,
+      "aliases": [],
+      "aprox": true,
+      "nota": "Ubicación aproximada (centro de Ontario): no se ha localizado el punto exacto"
+    },
+    {
+      "id": "ca-londres",
+      "ciudad": "Londres",
+      "pais": "Canadá",
+      "pais_iso": "CA",
+      "region": "Ontario",
+      "lat": 42.985,
+      "lon": -81.246,
+      "x": 292.1,
+      "y": 114.6,
+      "aliases": [
+        "London"
+      ],
+      "nota": "Londres de Ontario"
+    },
+    {
+      "id": "ca-vancouver",
+      "ciudad": "Vancouver",
+      "pais": "Canadá",
+      "pais_iso": "CA",
+      "region": "Columbia Británica",
+      "lat": 49.283,
+      "lon": -123.121,
+      "x": 195.4,
+      "y": 94.4,
+      "aliases": []
+    },
+    {
+      "id": "us-detroit",
+      "ciudad": "Detroit",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "region": "Michigan",
+      "lat": 42.331,
+      "lon": -83.046,
+      "x": 286.8,
+      "y": 116.7,
+      "aliases": []
+    },
+    {
+      "id": "us-ensfield",
+      "ciudad": "Ensfield",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "region": "Washington",
+      "lat": 47.4,
+      "lon": -120.5,
+      "x": 198.6,
+      "y": 100.4,
+      "aliases": [],
+      "aprox": true,
+      "nota": "Ubicación aproximada (centro del estado de Washington): no se ha localizado el punto exacto"
+    },
+    {
+      "id": "us-stramford",
+      "ciudad": "Stramford",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "region": "Oklahoma",
+      "lat": 35.5,
+      "lon": -97.5,
+      "x": 242.4,
+      "y": 138.9,
+      "aliases": [],
+      "aprox": true,
+      "nota": "Ubicación aproximada (centro de Oklahoma): no se ha localizado el punto exacto"
+    },
+    {
+      "id": "us-whistle-stop",
+      "ciudad": "Whistle Stop",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "region": "Alabama",
+      "lat": 32.8,
+      "lon": -86.8,
+      "x": 268.4,
+      "y": 147.8,
+      "aliases": [],
+      "aprox": true,
+      "nota": "Ubicación aproximada (centro de Alabama): no se ha localizado el punto exacto"
+    },
+    {
+      "id": "nl-la-haya",
+      "ciudad": "La Haya",
+      "pais": "Países Bajos",
+      "pais_iso": "NL",
+      "region": "Holanda Meridional",
+      "lat": 52.078,
+      "lon": 4.313,
+      "x": 510.4,
+      "y": 85.6,
+      "aliases": [
+        "Den Haag",
+        "The Hague"
+      ]
+    },
+    {
+      "id": "ru-sochi",
+      "ciudad": "Sochi",
+      "pais": "Rusia",
+      "pais_iso": "RU",
+      "region": "Krasnodar",
+      "lat": 43.585,
+      "lon": 39.72,
+      "x": 601.2,
+      "y": 112.6,
+      "aliases": [
+        "Sotchi"
+      ]
+    },
+    {
+      "id": "ar-pilar",
+      "ciudad": "Pilar",
+      "pais": "Argentina",
+      "pais_iso": "AR",
+      "region": "Buenos Aires",
+      "lat": -34.458,
+      "lon": -58.914,
+      "x": 343.7,
+      "y": 367.6,
+      "aliases": []
+    },
+    {
+      "id": "au-byron-bay",
+      "ciudad": "Byron Bay",
+      "pais": "Australia",
+      "pais_iso": "AU",
+      "region": "Nueva Gales del Sur",
+      "lat": -28.643,
+      "lon": 153.612,
+      "x": 915.0,
+      "y": 348.6,
+      "aliases": []
+    },
+    {
+      "id": "es-almeria",
+      "ciudad": "Almería",
+      "pais": "España",
+      "pais_iso": "ES",
+      "region": "Andalucía",
+      "lat": 36.834,
+      "lon": -2.464,
+      "x": 493.4,
+      "y": 134.6,
+      "aliases": [
+        "Almeria"
+      ]
+    },
+    {
+      "id": "es-aviles",
+      "ciudad": "Avilés",
+      "pais": "España",
+      "pais_iso": "ES",
+      "region": "Principado de Asturias",
+      "lat": 43.556,
+      "lon": -5.924,
+      "x": 484.8,
+      "y": 112.7,
+      "aliases": [
+        "Aviles"
+      ]
+    },
+    {
+      "id": "es-bilbao",
+      "ciudad": "Bilbao",
+      "pais": "España",
+      "pais_iso": "ES",
+      "region": "País Vasco",
+      "lat": 43.263,
+      "lon": -2.935,
+      "x": 492.4,
+      "y": 113.7,
+      "aliases": [
+        "Bilbo"
+      ]
+    },
+    {
+      "id": "es-catarroja",
+      "ciudad": "Catarroja",
+      "pais": "España",
+      "pais_iso": "ES",
+      "region": "Comunidad Valenciana",
+      "lat": 39.402,
+      "lon": -0.401,
+      "x": 498.9,
+      "y": 126.2,
+      "aliases": []
+    },
+    {
+      "id": "es-cudillero",
+      "ciudad": "Cudillero",
+      "pais": "España",
+      "pais_iso": "ES",
+      "region": "Principado de Asturias",
+      "lat": 43.563,
+      "lon": -6.145,
+      "x": 484.2,
+      "y": 112.7,
+      "aliases": []
+    },
+    {
+      "id": "es-cadiz",
+      "ciudad": "Cádiz",
+      "pais": "España",
+      "pais_iso": "ES",
+      "region": "Andalucía",
+      "lat": 36.527,
+      "lon": -6.289,
+      "x": 483.4,
+      "y": 135.6,
+      "aliases": [
+        "Cadiz"
+      ]
+    },
+    {
+      "id": "es-el-ejido",
+      "ciudad": "El Ejido",
+      "pais": "España",
+      "pais_iso": "ES",
+      "region": "Andalucía",
+      "lat": 36.776,
+      "lon": -2.815,
+      "x": 492.5,
+      "y": 134.8,
+      "aliases": []
+    },
+    {
+      "id": "es-gandia",
+      "ciudad": "Gandía",
+      "pais": "España",
+      "pais_iso": "ES",
+      "region": "Comunidad Valenciana",
+      "lat": 38.968,
+      "lon": -0.181,
+      "x": 499.4,
+      "y": 127.6,
+      "aliases": [
+        "Gandia"
+      ]
+    },
+    {
+      "id": "es-granada",
+      "ciudad": "Granada",
+      "pais": "España",
+      "pais_iso": "ES",
+      "region": "Andalucía",
+      "lat": 37.177,
+      "lon": -3.599,
+      "x": 490.5,
+      "y": 133.5,
+      "aliases": []
+    },
+    {
+      "id": "es-mostoles",
+      "ciudad": "Móstoles",
+      "pais": "España",
+      "pais_iso": "ES",
+      "region": "Comunidad de Madrid",
+      "lat": 40.323,
+      "lon": -3.865,
+      "x": 489.9,
+      "y": 123.2,
+      "aliases": [
+        "Mostoles"
+      ]
+    },
+    {
+      "id": "es-santander",
+      "ciudad": "Santander",
+      "pais": "España",
+      "pais_iso": "ES",
+      "region": "Cantabria",
+      "lat": 43.462,
+      "lon": -3.81,
+      "x": 490.2,
+      "y": 113.0,
+      "aliases": []
+    },
+    {
+      "id": "es-tarifa",
+      "ciudad": "Tarifa",
+      "pais": "España",
+      "pais_iso": "ES",
+      "region": "Andalucía",
+      "lat": 36.014,
+      "lon": -5.604,
+      "x": 485.1,
+      "y": 137.3,
+      "aliases": []
+    },
+    {
+      "id": "es-valencia",
+      "ciudad": "Valencia",
+      "pais": "España",
+      "pais_iso": "ES",
+      "region": "Comunidad Valenciana",
+      "lat": 39.47,
+      "lon": -0.376,
+      "x": 498.9,
+      "y": 126.0,
+      "aliases": [
+        "València"
+      ]
+    },
+    {
+      "id": "us-albuquerque",
+      "ciudad": "Albuquerque",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "region": "Nuevo México",
+      "lat": 35.084,
+      "lon": -106.651,
+      "x": 217.8,
+      "y": 140.3,
+      "aliases": []
+    },
+    {
+      "id": "us-asheville",
+      "ciudad": "Asheville",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "region": "Carolina del Norte",
+      "lat": 35.595,
+      "lon": -82.551,
+      "x": 282.0,
+      "y": 138.6,
+      "aliases": []
+    },
+    {
+      "id": "us-charlotte",
+      "ciudad": "Charlotte",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "region": "Carolina del Norte",
+      "lat": 35.227,
+      "lon": -80.843,
+      "x": 286.2,
+      "y": 139.8,
+      "aliases": []
+    },
+    {
+      "id": "us-clarkston",
+      "ciudad": "Clarkston",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "region": "Washington",
+      "lat": 46.416,
+      "lon": -117.045,
+      "x": 205.7,
+      "y": 103.5,
+      "aliases": []
+    },
+    {
+      "id": "us-cortez",
+      "ciudad": "Cortez",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "region": "Colorado",
+      "lat": 37.349,
+      "lon": -108.586,
+      "x": 215.2,
+      "y": 132.9,
+      "aliases": []
+    },
+    {
+      "id": "us-honolulu",
+      "ciudad": "Honolulu",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "region": "Hawái",
+      "lat": 21.307,
+      "lon": -157.858,
+      "x": 65.6,
+      "y": 185.5,
+      "aliases": []
+    },
+    {
+      "id": "us-malibu",
+      "ciudad": "Malibú",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "region": "California",
+      "lat": 34.026,
+      "lon": -118.781,
+      "x": 184.5,
+      "y": 143.8,
+      "aliases": [
+        "Malibu"
+      ]
+    },
+    {
+      "id": "us-ocean-springs",
+      "ciudad": "Ocean Springs",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "region": "Mississippi",
+      "lat": 30.411,
+      "lon": -88.828,
+      "x": 261.2,
+      "y": 155.6,
+      "aliases": []
+    },
+    {
+      "id": "us-orlando",
+      "ciudad": "Orlando",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "region": "Florida",
+      "lat": 28.538,
+      "lon": -81.379,
+      "x": 280.0,
+      "y": 161.8,
+      "aliases": []
+    },
+    {
+      "id": "us-salem",
+      "ciudad": "Salem",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "region": "Massachusetts",
+      "lat": 42.519,
+      "lon": -70.896,
+      "x": 318.2,
+      "y": 116.1,
+      "aliases": []
+    },
+    {
+      "id": "us-santa-monica",
+      "ciudad": "Santa Mónica",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "region": "California",
+      "lat": 34.019,
+      "lon": -118.491,
+      "x": 185.3,
+      "y": 143.8,
+      "aliases": [
+        "Santa Monica"
+      ]
+    },
+    {
+      "id": "us-shreveport",
+      "ciudad": "Shreveport",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "region": "Luisiana",
+      "lat": 32.525,
+      "lon": -93.75,
+      "x": 249.7,
+      "y": 148.7,
+      "aliases": []
+    },
+    {
+      "id": "us-snoqualmie",
+      "ciudad": "Snoqualmie",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "region": "Washington",
+      "lat": 47.529,
+      "lon": -121.826,
+      "x": 195.5,
+      "y": 100.0,
+      "aliases": []
+    },
+    {
+      "id": "gb-bath",
+      "ciudad": "Bath",
+      "pais": "Inglaterra",
+      "pais_iso": "GB",
+      "region": "Somerset",
+      "lat": 51.381,
+      "lon": -2.359,
+      "x": 494.2,
+      "y": 87.8,
+      "aliases": []
+    },
+    {
+      "id": "gb-oxford",
+      "ciudad": "Oxford",
+      "pais": "Reino Unido",
+      "pais_iso": "GB",
+      "region": "Oxfordshire",
+      "lat": 51.752,
+      "lon": -1.258,
+      "x": 496.9,
+      "y": 86.7,
+      "aliases": []
+    },
+    {
+      "id": "gb-gibraltar",
+      "ciudad": "Gibraltar",
+      "pais": "Reino Unido",
+      "pais_iso": "GB",
+      "region": null,
+      "lat": 36.141,
+      "lon": -5.354,
+      "x": 485.8,
+      "y": 136.8,
+      "aliases": []
+    }
+  ],
+  "regiones_nota": "Provincias, estados y regiones mencionados en los libros. lat/lon son el centro aproximado del territorio (no de su capital); x,y con la misma proyección que las ciudades.",
+  "regiones": [
+    {
+      "id": "th-tak",
+      "nombre": "Tak",
+      "tipo": "provincia",
+      "pais": "Tailandia",
+      "pais_iso": "TH",
+      "lat": 16.6,
+      "lon": 98.9,
+      "x": 774.4,
+      "y": 200.9,
+      "aliases": []
+    },
+    {
+      "id": "th-suphan-buri",
+      "nombre": "Suphan Buri",
+      "tipo": "provincia",
+      "pais": "Tailandia",
+      "pais_iso": "TH",
+      "lat": 14.5,
+      "lon": 99.95,
+      "x": 778.2,
+      "y": 207.7,
+      "aliases": [
+        "Suphan"
+      ]
+    },
+    {
+      "id": "th-prachuap-khiri-khan",
+      "nombre": "Prachuap Khiri Khan",
+      "tipo": "provincia",
+      "pais": "Tailandia",
+      "pais_iso": "TH",
+      "lat": 11.9,
+      "lon": 99.65,
+      "x": 778.2,
+      "y": 216.2,
+      "aliases": []
+    },
+    {
+      "id": "th-samut-prakan",
+      "nombre": "Samut Prakan",
+      "tipo": "provincia",
+      "pais": "Tailandia",
+      "pais_iso": "TH",
+      "lat": 13.6,
+      "lon": 100.6,
+      "x": 780.3,
+      "y": 210.7,
+      "aliases": []
+    },
+    {
+      "id": "th-nong-khai",
+      "nombre": "Nong Khai",
+      "tipo": "provincia",
+      "pais": "Tailandia",
+      "pais_iso": "TH",
+      "lat": 17.95,
+      "lon": 102.6,
+      "x": 784.0,
+      "y": 196.5,
+      "aliases": []
+    },
+    {
+      "id": "us-iowa",
+      "nombre": "Iowa",
+      "tipo": "estado",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "lat": 42.08,
+      "lon": -93.5,
+      "x": 259.7,
+      "y": 117.5,
+      "aliases": []
+    },
+    {
+      "id": "us-utah",
+      "nombre": "Utah",
+      "tipo": "estado",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "lat": 39.32,
+      "lon": -111.09,
+      "x": 211.0,
+      "y": 126.5,
+      "aliases": []
+    },
+    {
+      "id": "us-california",
+      "nombre": "California",
+      "tipo": "estado",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "lat": 37.25,
+      "lon": -119.75,
+      "x": 185.8,
+      "y": 133.2,
+      "aliases": []
+    },
+    {
+      "id": "gb-cornwall",
+      "nombre": "Cornwall",
+      "tipo": "condado",
+      "pais": "Inglaterra",
+      "pais_iso": "GB",
+      "lat": 50.4,
+      "lon": -4.85,
+      "x": 488.0,
+      "y": 90.9,
+      "aliases": [
+        "Cornualles"
+      ]
+    },
+    {
+      "id": "gr-thessaly",
+      "nombre": "Thessaly",
+      "tipo": "región",
+      "pais": "Grecia",
+      "pais_iso": "GR",
+      "lat": 39.55,
+      "lon": 22.0,
+      "x": 557.1,
+      "y": 125.7,
+      "aliases": [
+        "Tesalia",
+        "Thessalia"
+      ]
+    }
+  ],
+  "pendientes_verificacion": [
+    {
+      "ciudad": "Prachuap Khiri Khan",
+      "pais": "Tailandia",
+      "motivo": "Nombre de provincia y de su capital; confirmar cuál se refiere en el libro"
+    },
+    {
+      "ciudad": "Samut Prakan",
+      "pais": "Tailandia",
+      "motivo": "Nombre de provincia y de su capital; confirmar cuál se refiere en el libro"
+    },
+    {
+      "ciudad": "Nong Khai",
+      "pais": "Tailandia",
+      "motivo": "Nombre de provincia y de su capital; confirmar cuál se refiere en el libro"
+    },
+    {
+      "ciudad": "Suphan",
+      "pais": "Tailandia",
+      "motivo": "Nombre incompleto (¿Suphan Buri?); confirmar clasificación"
+    },
+    {
+      "ciudad": "Ojoto / Oraifite",
+      "pais": "Nigeria",
+      "motivo": "Coordenadas aproximadas (Anambra); afinar si se necesita más precisión"
+    },
+    {
+      "ciudad": "China",
+      "pais": "China",
+      "motivo": "El campo ciudad contiene el nombre del país; probablemente un error en books_data.json"
+    },
+    {
+      "ciudad": "Inglaterra",
+      "pais": "Inglaterra",
+      "motivo": "El campo ciudad contiene el nombre del país (libro «Tú te lo pierdes»); probablemente un error en books_data.json"
+    },
+    {
+      "ciudad": "Manuel",
+      "pais": "España",
+      "motivo": "Aparece con Catarroja y Gandía (Comunidad Valenciana) en «Una luz tímida». Existe un municipio llamado Manuel en Valencia, pero no está confirmado que sea el del libro"
+    },
+    {
+      "ciudad": "Gainesville",
+      "pais": "Estados Unidos",
+      "motivo": "Sin estado en books_data.json; hay varias (Florida, Georgia, Texas…). Confirmar cuál"
+    },
+    {
+      "ciudad": "San Marcos",
+      "pais": "Estados Unidos",
+      "motivo": "Sin estado en books_data.json; hay varias (Texas, California…). Confirmar cuál"
+    },
+    {
+      "ciudad": "Rockport",
+      "pais": "Estados Unidos",
+      "motivo": "Sin estado en books_data.json; hay varias (Massachusetts, Maine, Texas…). Confirmar cuál"
+    },
+    {
+      "ciudad": "Greenrock Valley",
+      "pais": "Estados Unidos",
+      "motivo": "No se localiza como ciudad real (¿ficticia?); libro «Puppy Love» (Washington)"
+    },
+    {
+      "ciudad": "Leesboro",
+      "pais": "Estados Unidos",
+      "motivo": "No se localiza como ciudad real (¿ficticia?); libro «Who I Was with Her» (Carolina del Norte)"
+    },
+    {
+      "ciudad": "Winthrop",
+      "pais": "Estados Unidos",
+      "motivo": "No existe un Winthrop en Vermont; «Winthrop» parece el nombre de una copa/instituto en «It's a Love/Skate Relationship». Confirmar"
+    },
+    {
+      "ciudad": "Tucker",
+      "pais": "Estados Unidos",
+      "motivo": "No hay un Tucker en Luisiana (el real está en Georgia); probablemente ficticia en «Where There's Smoke»"
+    },
+    {
+      "ciudad": "New South",
+      "pais": "Estados Unidos",
+      "motivo": "No se localiza como ciudad real (¿ficticia?); libro «Where There's Smoke» (Luisiana)"
+    },
+    {
+      "ciudad": "Akatoria",
+      "pais": "México",
+      "motivo": "No se localiza como ciudad real (¿ficticia?); libro «Bajo las sombras»"
+    }
+  ],
+  "aliases_pais": {
+    "Inglaterra": "GB",
+    "Escocia": "GB",
+    "Unión Soviética": "RU",
+    "República Checa": "CZ",
+    "Vaticano": "VA",
+    "Fiyi": "FJ"
+  },
+  "aliases_pais_nota": "Nombres de país que aparecen en books_data.json pero no existen como polígono en world_map_data.json (nación constituyente o estado histórico). Se resuelven al ISO-2 indicado para colocar ciudades y regiones; no se pintan como país."
+}

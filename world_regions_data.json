@@ -1,0 +1,1153 @@
+{
+  "version": 1,
+  "descripcion": "Catálogo abierto y ampliable de provincias, estados, regiones y entidades administrativas equivalentes de Tinta Sapphic para 'Mi mundo sapphic'. Independiente de world_cities_data.json y de world_map_data.json. Solo valores confirmados y cartografiables; los ambiguos están en pendientes_verificacion y NO son regiones. Para añadir una región basta con añadir una entrada a \"regiones\": no hay que tocar index.html.",
+  "campos": {
+    "id": "único en todo el catálogo; convención <iso en minúsculas>-<slug> (ej. es-madrid)",
+    "nombre": "nombre de la entidad; con pais_iso forma la clave de resolución (nombre y aliases, normalizados)",
+    "pais / pais_iso": "país tal como se escribe en books_data.json y su ISO-2 de world_map_data.json",
+    "tipo": "texto libre que se muestra tal cual (provincia, estado, región, prefectura, comunidad, territorio, condado, equivalente administrativo…). El código no debe depender de una lista cerrada",
+    "lat / lon": "dato de referencia (WGS84, grados decimales): punto representativo INTERIOR elegido a mano, no centroide matemático",
+    "x / y": "derivados de lat/lon con la proyección de proyeccion_mapa; si algo no cuadra, recalcular desde lat/lon",
+    "aliases": "solo variantes ortográficas o traducciones verificadas del MISMO lugar; nunca equivalencias inferidas",
+    "aliases_pais": "mapa nombre de país (como en books_data.json) -> ISO-2, para países sin polígono (Inglaterra, Escocia, Unión Soviética)"
+  },
+  "proyeccion_mapa": {
+    "nombre": "Natural Earth",
+    "viewBox": "0 0 1000 444",
+    "nota": "x,y de cada ciudad están precalculados en el espacio SVG de world_map_data.json (calibración con sus marcadores: error medio <1 px). Derivados de lat/lon; si algo no cuadra, recalcular desde lat/lon.",
+    "parametros": {
+      "cx": 499.9187,
+      "cy": 254.9876,
+      "kx": 3.22876,
+      "ky": 185.24272
+    }
+  },
+  "regiones": [
+    {
+      "id": "th-tak",
+      "nombre": "Tak",
+      "pais": "Tailandia",
+      "pais_iso": "TH",
+      "tipo": "provincia",
+      "lat": 16.8,
+      "lon": 99.1,
+      "x": 774.9,
+      "y": 200.2,
+      "aliases": []
+    },
+    {
+      "id": "th-suphan-buri",
+      "nombre": "Suphan Buri",
+      "pais": "Tailandia",
+      "pais_iso": "TH",
+      "tipo": "provincia",
+      "lat": 14.5,
+      "lon": 99.95,
+      "x": 778.2,
+      "y": 207.7,
+      "aliases": []
+    },
+    {
+      "id": "us-iowa",
+      "nombre": "Iowa",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "tipo": "estado",
+      "lat": 42.08,
+      "lon": -93.5,
+      "x": 259.7,
+      "y": 117.5,
+      "aliases": []
+    },
+    {
+      "id": "us-utah",
+      "nombre": "Utah",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "tipo": "estado",
+      "lat": 39.32,
+      "lon": -111.09,
+      "x": 211.0,
+      "y": 126.5,
+      "aliases": []
+    },
+    {
+      "id": "us-california",
+      "nombre": "California",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "tipo": "estado",
+      "lat": 37.25,
+      "lon": -119.75,
+      "x": 185.8,
+      "y": 133.2,
+      "aliases": []
+    },
+    {
+      "id": "us-florida",
+      "nombre": "Florida",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "tipo": "estado",
+      "lat": 28.1,
+      "lon": -81.6,
+      "x": 279.1,
+      "y": 163.2,
+      "aliases": []
+    },
+    {
+      "id": "us-virginia",
+      "nombre": "Virginia",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "tipo": "estado",
+      "lat": 37.5,
+      "lon": -78.8,
+      "x": 293.4,
+      "y": 132.4,
+      "aliases": []
+    },
+    {
+      "id": "us-colorado",
+      "nombre": "Colorado",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "tipo": "estado",
+      "lat": 39.0,
+      "lon": -105.55,
+      "x": 225.0,
+      "y": 127.5,
+      "aliases": []
+    },
+    {
+      "id": "es-alicante",
+      "nombre": "Alicante",
+      "pais": "España",
+      "pais_iso": "ES",
+      "tipo": "provincia",
+      "lat": 38.5,
+      "lon": -0.6,
+      "x": 498.4,
+      "y": 129.1,
+      "aliases": [
+        "Alacant"
+      ]
+    },
+    {
+      "id": "gr-thessaly",
+      "nombre": "Thessaly",
+      "pais": "Grecia",
+      "pais_iso": "GR",
+      "tipo": "región",
+      "lat": 39.55,
+      "lon": 22.0,
+      "x": 557.1,
+      "y": 125.7,
+      "aliases": [
+        "Tesalia",
+        "Thessalia"
+      ]
+    },
+    {
+      "id": "us-oregon",
+      "nombre": "Oregón",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "tipo": "estado",
+      "lat": 44.0,
+      "lon": -120.5,
+      "x": 193.2,
+      "y": 111.3,
+      "aliases": [
+        "Oregon"
+      ]
+    },
+    {
+      "id": "es-madrid-comunidad",
+      "nombre": "Comunidad de Madrid",
+      "pais": "España",
+      "pais_iso": "ES",
+      "tipo": "comunidad",
+      "lat": 40.5,
+      "lon": -3.7,
+      "x": 490.3,
+      "y": 122.6,
+      "aliases": []
+    },
+    {
+      "id": "es-galicia",
+      "nombre": "Galicia",
+      "pais": "España",
+      "pais_iso": "ES",
+      "tipo": "comunidad",
+      "lat": 42.8,
+      "lon": -7.9,
+      "x": 479.7,
+      "y": 115.2,
+      "aliases": [
+        "Galiza"
+      ]
+    },
+    {
+      "id": "us-alabama",
+      "nombre": "Alabama",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "tipo": "estado",
+      "lat": 32.8,
+      "lon": -86.8,
+      "x": 268.4,
+      "y": 147.8,
+      "aliases": []
+    },
+    {
+      "id": "us-kansas",
+      "nombre": "Kansas",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "tipo": "estado",
+      "lat": 38.5,
+      "lon": -98.4,
+      "x": 243.1,
+      "y": 129.1,
+      "aliases": []
+    },
+    {
+      "id": "us-pensilvania",
+      "nombre": "Pensilvania",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "tipo": "estado",
+      "lat": 40.9,
+      "lon": -77.8,
+      "x": 299.0,
+      "y": 121.3,
+      "aliases": [
+        "Pennsylvania"
+      ]
+    },
+    {
+      "id": "us-washington",
+      "nombre": "Washington",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "tipo": "estado",
+      "lat": 47.4,
+      "lon": -120.5,
+      "x": 198.6,
+      "y": 100.4,
+      "aliases": [
+        "Estado de Washington"
+      ]
+    },
+    {
+      "id": "gb-kent",
+      "nombre": "Kent",
+      "pais": "Reino Unido",
+      "pais_iso": "GB",
+      "tipo": "condado",
+      "lat": 51.2,
+      "lon": 0.7,
+      "x": 501.6,
+      "y": 88.4,
+      "aliases": []
+    },
+    {
+      "id": "gb-cornwall",
+      "nombre": "Cornwall",
+      "pais": "Reino Unido",
+      "pais_iso": "GB",
+      "tipo": "condado",
+      "lat": 50.4,
+      "lon": -4.85,
+      "x": 488.0,
+      "y": 90.9,
+      "aliases": [
+        "Cornualles"
+      ]
+    },
+    {
+      "id": "jp-hokkaido",
+      "nombre": "Hokkaido",
+      "pais": "Japón",
+      "pais_iso": "JP",
+      "tipo": "prefectura",
+      "lat": 43.4,
+      "lon": 142.8,
+      "x": 864.5,
+      "y": 113.2,
+      "aliases": [
+        "Hokkaidō"
+      ]
+    },
+    {
+      "id": "ca-nueva-escocia",
+      "nombre": "Nueva Escocia",
+      "pais": "Canadá",
+      "pais_iso": "CA",
+      "tipo": "provincia",
+      "lat": 45.0,
+      "lon": -63.0,
+      "x": 340.4,
+      "y": 108.1,
+      "aliases": [
+        "Nova Scotia"
+      ]
+    },
+    {
+      "id": "cn-zhejiang",
+      "nombre": "Zhejiang",
+      "pais": "China",
+      "pais_iso": "CN",
+      "tipo": "provincia",
+      "lat": 29.2,
+      "lon": 120.0,
+      "x": 823.6,
+      "y": 159.6,
+      "aliases": [
+        "Chekiang"
+      ]
+    },
+    {
+      "id": "th-trat",
+      "nombre": "Trat",
+      "pais": "Tailandia",
+      "pais_iso": "TH",
+      "tipo": "provincia",
+      "lat": 12.24,
+      "lon": 102.52,
+      "x": 786.1,
+      "y": 215.1,
+      "aliases": []
+    },
+    {
+      "id": "ca-ontario",
+      "nombre": "Ontario",
+      "pais": "Canadá",
+      "pais_iso": "CA",
+      "tipo": "provincia",
+      "lat": 49.0,
+      "lon": -83.0,
+      "x": 294.3,
+      "y": 95.3,
+      "aliases": []
+    },
+    {
+      "id": "es-principado-de-asturias",
+      "nombre": "Principado de Asturias",
+      "pais": "España",
+      "pais_iso": "ES",
+      "tipo": "comunidad",
+      "lat": 43.3,
+      "lon": -6.0,
+      "x": 484.6,
+      "y": 113.6,
+      "aliases": [
+        "Asturias"
+      ]
+    },
+    {
+      "id": "es-cataluna",
+      "nombre": "Cataluña",
+      "pais": "España",
+      "pais_iso": "ES",
+      "tipo": "comunidad",
+      "lat": 41.8,
+      "lon": 1.5,
+      "x": 503.8,
+      "y": 118.4,
+      "aliases": [
+        "Catalunya",
+        "Catalonia"
+      ]
+    },
+    {
+      "id": "es-pais-vasco",
+      "nombre": "País Vasco",
+      "pais": "España",
+      "pais_iso": "ES",
+      "tipo": "comunidad",
+      "lat": 43.0,
+      "lon": -2.6,
+      "x": 493.3,
+      "y": 114.5,
+      "aliases": [
+        "Euskadi"
+      ]
+    },
+    {
+      "id": "es-islas-baleares",
+      "nombre": "Islas Baleares",
+      "pais": "España",
+      "pais_iso": "ES",
+      "tipo": "comunidad",
+      "lat": 39.6,
+      "lon": 2.95,
+      "x": 507.6,
+      "y": 125.6,
+      "aliases": [
+        "Baleares",
+        "Illes Balears"
+      ]
+    },
+    {
+      "id": "es-islas-canarias",
+      "nombre": "Islas Canarias",
+      "pais": "España",
+      "pais_iso": "ES",
+      "tipo": "comunidad",
+      "lat": 28.3,
+      "lon": -15.8,
+      "x": 457.2,
+      "y": 162.5,
+      "aliases": [
+        "Canarias"
+      ]
+    },
+    {
+      "id": "es-ibiza",
+      "nombre": "Ibiza",
+      "pais": "España",
+      "pais_iso": "ES",
+      "tipo": "isla",
+      "lat": 38.98,
+      "lon": 1.43,
+      "x": 503.6,
+      "y": 127.6,
+      "aliases": [
+        "Eivissa"
+      ]
+    },
+    {
+      "id": "es-gran-canaria",
+      "nombre": "Gran Canaria",
+      "pais": "España",
+      "pais_iso": "ES",
+      "tipo": "isla",
+      "lat": 27.96,
+      "lon": -15.6,
+      "x": 457.7,
+      "y": 163.7,
+      "aliases": []
+    },
+    {
+      "id": "gr-creta",
+      "nombre": "Creta",
+      "pais": "Grecia",
+      "pais_iso": "GR",
+      "tipo": "región",
+      "lat": 35.24,
+      "lon": 24.81,
+      "x": 565.5,
+      "y": 139.8,
+      "aliases": [
+        "Crete",
+        "Kriti"
+      ]
+    },
+    {
+      "id": "th-ko-chang",
+      "nombre": "Ko Chang",
+      "pais": "Tailandia",
+      "pais_iso": "TH",
+      "tipo": "isla",
+      "lat": 12.05,
+      "lon": 102.32,
+      "x": 785.6,
+      "y": 215.7,
+      "aliases": [
+        "Koh Chang"
+      ]
+    },
+    {
+      "id": "th-koh-samet",
+      "nombre": "Koh Samet",
+      "pais": "Tailandia",
+      "pais_iso": "TH",
+      "tipo": "isla",
+      "lat": 12.57,
+      "lon": 101.45,
+      "x": 783.0,
+      "y": 214.0,
+      "aliases": [
+        "Ko Samet",
+        "Ko Samed"
+      ]
+    },
+    {
+      "id": "us-nueva-jersey",
+      "nombre": "Nueva Jersey",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "tipo": "estado",
+      "lat": 40.1,
+      "lon": -74.5,
+      "x": 306.8,
+      "y": 123.9,
+      "aliases": [
+        "New Jersey"
+      ]
+    },
+    {
+      "id": "gb-lanarkshire",
+      "nombre": "Lanarkshire",
+      "pais": "Reino Unido",
+      "pais_iso": "GB",
+      "tipo": "condado",
+      "lat": 55.67,
+      "lon": -3.78,
+      "x": 490.9,
+      "y": 74.5,
+      "aliases": []
+    },
+    {
+      "id": "ph-benguet",
+      "nombre": "Benguet",
+      "pais": "Filipinas",
+      "pais_iso": "PH",
+      "tipo": "provincia",
+      "lat": 16.6,
+      "lon": 120.75,
+      "x": 835.0,
+      "y": 200.9,
+      "aliases": []
+    },
+    {
+      "id": "us-minnesota",
+      "nombre": "Minnesota",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "tipo": "estado",
+      "lat": 46.3,
+      "lon": -94.3,
+      "x": 262.7,
+      "y": 103.9,
+      "aliases": []
+    },
+    {
+      "id": "us-illinois",
+      "nombre": "Illinois",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "tipo": "estado",
+      "lat": 40.0,
+      "lon": -89.2,
+      "x": 268.6,
+      "y": 124.3,
+      "aliases": []
+    },
+    {
+      "id": "us-massachusetts",
+      "nombre": "Massachusetts",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "tipo": "estado",
+      "lat": 42.3,
+      "lon": -72.1,
+      "x": 314.9,
+      "y": 116.8,
+      "aliases": []
+    },
+    {
+      "id": "us-texas",
+      "nombre": "Texas",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "tipo": "estado",
+      "lat": 31.5,
+      "lon": -99.3,
+      "x": 233.9,
+      "y": 152.0,
+      "aliases": []
+    },
+    {
+      "id": "it-toscana",
+      "nombre": "Toscana",
+      "pais": "Italia",
+      "pais_iso": "IT",
+      "tipo": "región",
+      "lat": 43.4,
+      "lon": 11.1,
+      "x": 528.3,
+      "y": 113.2,
+      "aliases": [
+        "Tuscany",
+        "Toscane"
+      ]
+    },
+    {
+      "id": "ca-quebec",
+      "nombre": "Quebec",
+      "pais": "Canadá",
+      "pais_iso": "CA",
+      "tipo": "provincia",
+      "lat": 52.0,
+      "lon": -72.0,
+      "x": 324.7,
+      "y": 85.9,
+      "aliases": [
+        "Québec"
+      ]
+    },
+    {
+      "id": "ca-yukon",
+      "nombre": "Yukón",
+      "pais": "Canadá",
+      "pais_iso": "CA",
+      "tipo": "territorio",
+      "lat": 63.0,
+      "lon": -135.5,
+      "x": 195.2,
+      "y": 52.7,
+      "aliases": [
+        "Yukon"
+      ]
+    },
+    {
+      "id": "us-carolina-del-sur",
+      "nombre": "Carolina del Sur",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "tipo": "estado",
+      "lat": 33.9,
+      "lon": -80.9,
+      "x": 285.0,
+      "y": 144.2,
+      "aliases": [
+        "South Carolina"
+      ]
+    },
+    {
+      "id": "us-dakota-del-sur",
+      "nombre": "Dakota del Sur",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "tipo": "estado",
+      "lat": 44.4,
+      "lon": -100.2,
+      "x": 245.4,
+      "y": 110.0,
+      "aliases": [
+        "South Dakota"
+      ]
+    },
+    {
+      "id": "us-georgia",
+      "nombre": "Georgia",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "tipo": "estado",
+      "lat": 32.7,
+      "lon": -83.4,
+      "x": 277.4,
+      "y": 148.1,
+      "aliases": []
+    },
+    {
+      "id": "us-hawai",
+      "nombre": "Hawái",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "tipo": "estado",
+      "lat": 19.6,
+      "lon": -155.5,
+      "x": 70.6,
+      "y": 191.1,
+      "aliases": [
+        "Hawaii"
+      ]
+    },
+    {
+      "id": "us-kentucky",
+      "nombre": "Kentucky",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "tipo": "estado",
+      "lat": 37.5,
+      "lon": -85.3,
+      "x": 276.4,
+      "y": 132.4,
+      "aliases": []
+    },
+    {
+      "id": "us-luisiana",
+      "nombre": "Luisiana",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "tipo": "estado",
+      "lat": 31.0,
+      "lon": -92.0,
+      "x": 253.1,
+      "y": 153.7,
+      "aliases": [
+        "Louisiana"
+      ]
+    },
+    {
+      "id": "us-nevada",
+      "nombre": "Nevada",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "tipo": "estado",
+      "lat": 39.3,
+      "lon": -116.6,
+      "x": 196.6,
+      "y": 126.5,
+      "aliases": []
+    },
+    {
+      "id": "us-nueva-york-estado",
+      "nombre": "Nueva York",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "tipo": "estado",
+      "lat": 42.9,
+      "lon": -75.5,
+      "x": 306.7,
+      "y": 114.8,
+      "aliases": [
+        "New York"
+      ]
+    },
+    {
+      "id": "us-ohio",
+      "nombre": "Ohio",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "tipo": "estado",
+      "lat": 40.3,
+      "lon": -82.8,
+      "x": 285.5,
+      "y": 123.3,
+      "aliases": []
+    },
+    {
+      "id": "us-vermont",
+      "nombre": "Vermont",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "tipo": "estado",
+      "lat": 44.0,
+      "lon": -72.7,
+      "x": 314.9,
+      "y": 111.3,
+      "aliases": []
+    },
+    {
+      "id": "it-lombardia",
+      "nombre": "Lombardía",
+      "pais": "Italia",
+      "pais_iso": "IT",
+      "tipo": "región",
+      "lat": 45.6,
+      "lon": 9.8,
+      "x": 524.7,
+      "y": 106.2,
+      "aliases": [
+        "Lombardy",
+        "Lombardia"
+      ]
+    },
+    {
+      "id": "jp-kanto",
+      "nombre": "Kantō",
+      "pais": "Japón",
+      "pais_iso": "JP",
+      "tipo": "región",
+      "lat": 36.0,
+      "lon": 139.7,
+      "x": 868.2,
+      "y": 137.3,
+      "aliases": [
+        "Kanto"
+      ]
+    },
+    {
+      "id": "ch-grisones",
+      "nombre": "Grisones",
+      "pais": "Suiza",
+      "pais_iso": "CH",
+      "tipo": "cantón",
+      "lat": 46.7,
+      "lon": 9.6,
+      "x": 524.0,
+      "y": 102.6,
+      "aliases": [
+        "Graubünden",
+        "Graubunden",
+        "Grigioni"
+      ]
+    },
+    {
+      "id": "us-maui",
+      "nombre": "Maui",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "tipo": "isla",
+      "lat": 20.8,
+      "lon": -156.3,
+      "x": 69.4,
+      "y": 187.1,
+      "aliases": []
+    },
+    {
+      "id": "us-daufuskie-island",
+      "nombre": "Daufuskie Island",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "tipo": "isla",
+      "lat": 32.1,
+      "lon": -80.88,
+      "x": 283.7,
+      "y": 150.1,
+      "aliases": []
+    },
+    {
+      "id": "au-queensland",
+      "nombre": "Queensland",
+      "pais": "Australia",
+      "pais_iso": "AU",
+      "tipo": "estado",
+      "lat": -22.5,
+      "lon": 144.5,
+      "x": 896.5,
+      "y": 328.4,
+      "aliases": []
+    },
+    {
+      "id": "us-alaska",
+      "nombre": "Alaska",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "tipo": "estado",
+      "lat": 64.0,
+      "lon": -152.0,
+      "x": 160.9,
+      "y": 49.8,
+      "aliases": []
+    },
+    {
+      "id": "us-carolina-del-norte",
+      "nombre": "Carolina del Norte",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "tipo": "estado",
+      "lat": 35.5,
+      "lon": -79.4,
+      "x": 290.2,
+      "y": 138.9,
+      "aliases": [
+        "North Carolina"
+      ]
+    },
+    {
+      "id": "us-connecticut",
+      "nombre": "Connecticut",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "tipo": "estado",
+      "lat": 41.6,
+      "lon": -72.7,
+      "x": 312.7,
+      "y": 119.1,
+      "aliases": []
+    },
+    {
+      "id": "gb-inglaterra",
+      "nombre": "Inglaterra",
+      "pais": "Reino Unido",
+      "pais_iso": "GB",
+      "tipo": "nación constituyente",
+      "lat": 52.8,
+      "lon": -1.5,
+      "x": 496.3,
+      "y": 83.4,
+      "aliases": [
+        "England"
+      ]
+    },
+    {
+      "id": "ve-caracas",
+      "nombre": "Caracas",
+      "pais": "Venezuela",
+      "pais_iso": "VE",
+      "tipo": "distrito capital",
+      "lat": 10.49,
+      "lon": -66.9,
+      "x": 312.8,
+      "y": 220.8,
+      "aliases": [
+        "Distrito Capital"
+      ]
+    },
+    {
+      "id": "us-michigan",
+      "nombre": "Michigan",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "tipo": "estado",
+      "lat": 44.3,
+      "lon": -85.6,
+      "x": 282.4,
+      "y": 110.3,
+      "aliases": []
+    },
+    {
+      "id": "us-new-hampshire",
+      "nombre": "New Hampshire",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "tipo": "estado",
+      "lat": 43.7,
+      "lon": -71.6,
+      "x": 317.4,
+      "y": 112.3,
+      "aliases": [
+        "Nuevo Hampshire"
+      ]
+    },
+    {
+      "id": "us-nuevo-mexico",
+      "nombre": "Nuevo México",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "tipo": "estado",
+      "lat": 34.4,
+      "lon": -106.1,
+      "x": 218.5,
+      "y": 142.5,
+      "aliases": [
+        "New Mexico"
+      ]
+    },
+    {
+      "id": "us-rhode-island",
+      "nombre": "Rhode Island",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "tipo": "estado",
+      "lat": 41.7,
+      "lon": -71.5,
+      "x": 315.9,
+      "y": 118.7,
+      "aliases": []
+    },
+    {
+      "id": "us-tennessee",
+      "nombre": "Tennessee",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "tipo": "estado",
+      "lat": 35.8,
+      "lon": -86.4,
+      "x": 272.0,
+      "y": 138.0,
+      "aliases": []
+    },
+    {
+      "id": "gb-buckinghamshire",
+      "nombre": "Buckinghamshire",
+      "pais": "Reino Unido",
+      "pais_iso": "GB",
+      "tipo": "condado",
+      "lat": 51.8,
+      "lon": -0.8,
+      "x": 498.0,
+      "y": 86.5,
+      "aliases": []
+    },
+    {
+      "id": "gb-wiltshire",
+      "nombre": "Wiltshire",
+      "pais": "Reino Unido",
+      "pais_iso": "GB",
+      "tipo": "condado",
+      "lat": 51.3,
+      "lon": -1.9,
+      "x": 495.3,
+      "y": 88.1,
+      "aliases": []
+    },
+    {
+      "id": "ca-columbia-britanica",
+      "nombre": "Columbia Británica",
+      "pais": "Canadá",
+      "pais_iso": "CA",
+      "tipo": "provincia",
+      "lat": 53.7,
+      "lon": -127.6,
+      "x": 192.8,
+      "y": 80.6,
+      "aliases": [
+        "British Columbia"
+      ]
+    },
+    {
+      "id": "us-oklahoma",
+      "nombre": "Oklahoma",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "tipo": "estado",
+      "lat": 35.5,
+      "lon": -97.5,
+      "x": 242.4,
+      "y": 138.9,
+      "aliases": []
+    },
+    {
+      "id": "es-andalucia",
+      "nombre": "Andalucía",
+      "pais": "España",
+      "pais_iso": "ES",
+      "tipo": "comunidad",
+      "lat": 37.5,
+      "lon": -4.5,
+      "x": 488.1,
+      "y": 132.4,
+      "aliases": []
+    },
+    {
+      "id": "es-cantabria",
+      "nombre": "Cantabria",
+      "pais": "España",
+      "pais_iso": "ES",
+      "tipo": "comunidad",
+      "lat": 43.2,
+      "lon": -4.0,
+      "x": 489.7,
+      "y": 113.9,
+      "aliases": []
+    },
+    {
+      "id": "es-comunidad-valenciana",
+      "nombre": "Comunidad Valenciana",
+      "pais": "España",
+      "pais_iso": "ES",
+      "tipo": "comunidad",
+      "lat": 39.4,
+      "lon": -0.9,
+      "x": 497.6,
+      "y": 126.2,
+      "aliases": [
+        "Comunitat Valenciana"
+      ]
+    },
+    {
+      "id": "us-arizona",
+      "nombre": "Arizona",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "tipo": "estado",
+      "lat": 34.3,
+      "lon": -111.7,
+      "x": 203.6,
+      "y": 142.9,
+      "aliases": []
+    },
+    {
+      "id": "us-idaho",
+      "nombre": "Idaho",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "tipo": "estado",
+      "lat": 44.4,
+      "lon": -114.6,
+      "x": 208.8,
+      "y": 110.0,
+      "aliases": []
+    },
+    {
+      "id": "us-maine",
+      "nombre": "Maine",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "tipo": "estado",
+      "lat": 45.3,
+      "lon": -69.2,
+      "x": 325.0,
+      "y": 107.1,
+      "aliases": []
+    },
+    {
+      "id": "us-mississippi",
+      "nombre": "Mississippi",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "tipo": "estado",
+      "lat": 32.75,
+      "lon": -89.7,
+      "x": 260.7,
+      "y": 147.9,
+      "aliases": []
+    },
+    {
+      "id": "us-indiana",
+      "nombre": "Indiana",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "tipo": "estado",
+      "lat": 40.0,
+      "lon": -86.3,
+      "x": 276.1,
+      "y": 124.3,
+      "aliases": []
+    },
+    {
+      "id": "us-outer-banks",
+      "nombre": "Outer Banks",
+      "pais": "Estados Unidos",
+      "pais_iso": "US",
+      "tipo": "región costera",
+      "lat": 35.6,
+      "lon": -75.5,
+      "x": 300.6,
+      "y": 138.6,
+      "aliases": []
+    },
+    {
+      "id": "gr-santorini",
+      "nombre": "Santorini",
+      "pais": "Grecia",
+      "pais_iso": "GR",
+      "tipo": "isla",
+      "lat": 36.39,
+      "lon": 25.46,
+      "x": 566.9,
+      "y": 136.0,
+      "aliases": [
+        "Thira",
+        "Thera"
+      ]
+    }
+  ],
+  "pendientes_verificacion": [
+    {
+      "valor": "Suphan",
+      "pais": "Tailandia",
+      "motivo": "Nombre incompleto en books_data.json (campo ciudad); no se registra como alias de Suphan Buri hasta confirmarlo"
+    },
+    {
+      "valor": "Prachuap Khiri Khan",
+      "pais": "Tailandia",
+      "motivo": "Aparece como ciudad; es nombre de provincia y de su capital. Confirmar cuál se refiere en el libro"
+    },
+    {
+      "valor": "Samut Prakan",
+      "pais": "Tailandia",
+      "motivo": "Aparece como ciudad; es nombre de provincia y de su capital. Confirmar cuál se refiere en el libro"
+    },
+    {
+      "valor": "Nong Khai",
+      "pais": "Tailandia",
+      "motivo": "Aparece como ciudad; es nombre de provincia y de su capital. Confirmar cuál se refiere en el libro"
+    }
+  ],
+  "aliases_pais": {
+    "Inglaterra": "GB",
+    "Escocia": "GB",
+    "Unión Soviética": "RU",
+    "República Checa": "CZ",
+    "Vaticano": "VA",
+    "Fiyi": "FJ"
+  }
+}
