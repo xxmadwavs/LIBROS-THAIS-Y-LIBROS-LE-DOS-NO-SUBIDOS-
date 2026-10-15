@@ -12732,7 +12732,24 @@ function _applyTabState(tab){
   }
 }
 
+/* FIX menús desde Inicio — ¿hay algo «por encima» del catálogo que switchTab() deba cerrar antes de mostrar una pestaña?
+   Inicio (body.home-active oculta .hero y .main con !important), la estantería personal, las vistas personales o la ficha. */
+function _tabLeavingSpecialView(){
+  if(document.body.classList.contains('home-active') || document.body.classList.contains('bp-active')) return true;
+  return ['homeView','shelfView','logrosView','statsView','cartasView','mundoView','recorridoView','anioView','bookPage']
+    .some(id=>document.getElementById(id)?.classList.contains('active'));
+}
 function switchTab(tab, silent){
+  // FIX menús desde Inicio — punto único: una navegación real (no silenciosa) a una pestaña cierra antes Inicio y las vistas
+  // especiales. Así Comunidad, «Recomendaciones» y los botones de pestaña funcionan igual desde Inicio, la estantería, las
+  // vistas personales o una ficha, sin que cada menú tenga que acordarse de llamar a closeAllSpecialViews().
+  // Las llamadas silenciosas (restauración desde popstate/F5/cierres de vista) no se tocan: ahí el estado ya lo decide el llamante.
+  const _leaving=!silent && _tabLeavingSpecialView();
+  if(_leaving){
+    closeAllSpecialViews();
+    window.scrollTo(0,0); // la pestaña nueva se abre arriba, no en el scroll en que estuviera Inicio o la vista cerrada
+  }
+  if(!silent){ closeCommunityDropdown(); closeCategoriesDropdown(); closeMobileMoreMenu(); }
   activeTab=tab;
   if(!silent) activeMyrecCat=null;
   sessionStorage.setItem('ts_active_tab', tab);
@@ -12745,6 +12762,10 @@ function switchTab(tab, silent){
     const params=new URLSearchParams(location.search);
     if(tab==='estanteria') params.delete('tab'); else params.set('tab',tab);
     params.delete('cat');
+    // FIX menús desde Inicio — una navegación real a una pestaña ya ha cerrado cualquier vista personal o la estantería (aquí o en
+    // showCatalog()), así que sus parámetros no deben quedar en la URL: refrescar o compartir reabriría esa vista en vez de la pestaña.
+    // Atrás sigue volviendo a la entrada anterior, que conserva su propia URL.
+    ['view','myshelf','shelfView','shelfStyle','shelfYear','shelfSearch','shelfGenre','shelfSort','shelfPage'].forEach(k=>params.delete(k));
     const url=params.toString()?'?'+params.toString():location.pathname;
     history.pushState({tab},'',url);
   }catch(e){}
