@@ -566,15 +566,59 @@
     "isbn": null,
     "wattpad": null,
     "ship": [],
-    "genres": [],
-    "subgenres": [],
-    "identidades": [],
-    "characters": [],
-    "dinamicas": [],
-    "tropes": [],
-    "edad": [],
-    "pais_cultura": [],
-    "ubicaciones": [],
+    "genres": [
+      "Romance",
+      "Contemporánea"
+    ],
+    "subgenres": [
+      "Queer"
+    ],
+    "identidades": [
+      "Femme"
+    ],
+    "characters": [
+      "Estudiante",
+      "Bailarina",
+      "Pluritrabajo"
+    ],
+    "dinamicas": [
+      "Femme × Femme"
+    ],
+    "tropes": [
+      "Friends to Lovers",
+      "Second Chance Romance",
+      "Hurt/Comfort",
+      "Jealousy Trope"
+    ],
+    "edad": [
+      "New Adult (18–24)"
+    ],
+    "pais_cultura": [
+      "Tailandia"
+    ],
+    "ubicaciones": [
+      {
+        "pais": "Tailandia",
+        "region": null,
+        "ciudad": "Bangkok",
+        "localidad": null,
+        "lugares": []
+      },
+      {
+        "pais": "Tailandia",
+        "region": null,
+        "ciudad": "Hua Hin",
+        "localidad": null,
+        "lugares": []
+      },
+      {
+        "pais": "Tailandia",
+        "region": null,
+        "ciudad": "Pattaya",
+        "localidad": null,
+        "lugares": []
+      }
+    ],
     "epoca": null,
     "periodo": null,
     "tipo_mundo": null,
@@ -585,13 +629,119 @@
     ],
     "ambientacion": [],
     "content_warnings": [],
-    "spicy": null,
+    "spicy": 3,
+    "formato": "Trilogía",
+    "adaptacion": null,
+    "sagaName": "Smitten, Ditto & Visual",
+    "sagaNum": 1,
+    "source": "thais",
+    "editions": [],
+    "saficlub": false,
+    "safi_categories": [],
+    "thaiclub": false,
+    "thai_categories": [],
+    "canal_rec": false,
+    "canal_month": null,
+    "my_rec": false,
+    "my_rec_categories": []
+  },
+  {
+    "id": "b_1792055621326_p6bb3",
+    "title": "The Forbidden Dance",
+    "authors": [
+      "Nanaruk"
+    ],
+    "year": 2025,
+    "cover": "https://cdn-local.mebmarket.com/meb/server1/403395/Thumbnail/book_detail_large.gif?2",
+    "synopsis": "Atrapada en una mansión para pagar una deuda, es un ángel en una jaula dorada.\nLo tiene todo, excepto la libertad.\nSu única forma de escapar es el ballet.\nPero un nuevo instructor podría robarle algo más que el corazón.\n\nLas puntas de sus pies se deslizan bajo la tenue luz de la luna,\nun alma encarcelada en la jaula del sometimiento.\n\nCada movimiento es un lenguaje no dicho,\nuna canción de amor prohibida que suena en silencio\nentre maestra y alumna,\ndonde el final aguarda envuelto en fuego,\npara purificarlos… o consumirlos por completo.\n\nCada gesto rebosa de un deseo doloroso.\n¿Y qué puede hacer uno,\ncuando es el propio corazón quien elige romperse?\n\nLilly, una joven comparada con un ave en una jaula dorada,\nalguna vez brilló con la promesa de una vida como bailarina.\nAhora, todo ese resplandor ha sido eclipsado por la desolación,\npues no es más que la esposa secreta de Nopparit,\nun millonario de corazón helado.\n\nPosee todo, excepto la libertad…\nexcepto un corazón que realmente le pertenezca.\nLa única luz que alimenta su existencia sin amor\nes el ballet, el arte que ama con cada fibra de su ser.",
+    "pages": 195,
+    "isbn": null,
+    "wattpad": null,
+    "ship": [],
+    "genres": [
+      "Romance",
+      "Contemporánea",
+      "Drama"
+    ],
+    "subgenres": [
+      "Autodescubrimiento",
+      "Queer"
+    ],
+    "identidades": [
+      "Femme"
+    ],
+    "characters": [
+      "Bailarina",
+      "Empresaria"
+    ],
+    "dinamicas": [
+      "Femme × Femme",
+      "Mentora × Aprendiz",
+      "Protectora × Delicada"
+    ],
+    "tropes": [
+      "Forbidden Love",
+      "Hurt/Comfort",
+      "Secret Relationship",
+      "Jealousy Trope"
+    ],
+    "edad": [],
+    "pais_cultura": [
+      "Tailandia"
+    ],
+    "ubicaciones": [
+      {
+        "pais": "Tailandia",
+        "region": null,
+        "ciudad": "Bangkok",
+        "localidad": null,
+        "lugares": []
+      },
+      {
+        "pais": "Tailandia",
+        "region": "Ayutthaya",
+        "ciudad": null,
+        "localidad": null,
+        "lugares": []
+      },
+      {
+        "pais": "Tailandia",
+        "region": "Phuket",
+        "ciudad": null,
+        "localidad": null,
+        "lugares": []
+      },
+      {
+        "pais": "Reino Unido",
+        "region": null,
+        "ciudad": "Londres",
+        "localidad": null,
+        "lugares": []
+      }
+    ],
+    "epoca": "Contemporánea",
+    "periodo": null,
+    "tipo_mundo": "Realista",
+    "entornos": [],
+    "idioma_original": "Tailandés",
+    "pais_origen": [
+      "Tailandia"
+    ],
+    "ambientacion": [],
+    "content_warnings": [],
+    "spicy": 4,
     "formato": null,
     "adaptacion": null,
     "sagaName": null,
     "sagaNum": null,
     "source": "thais",
-    "editions": [],
+    "editions": [
+      {
+        "lang": "ES",
+        "store": "MEB",
+        "url": "https://www.mebmarket.com/ebook-403395-The-Forbidden-Dance-Spanish-Version-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%95%E0%B9%89%E0%B8%99-Lesbian-Girl-Love-Sapphic-Yuri-Novel-Thai-GL"
+      }
+    ],
     "saficlub": false,
     "safi_categories": [],
     "thaiclub": false,
