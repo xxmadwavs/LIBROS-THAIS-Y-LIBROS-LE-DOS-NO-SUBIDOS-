@@ -757,10 +757,10 @@
     "authors": [
       "before july"
     ],
-    "year": null,
+    "year": 2026,
     "cover": "https://m.media-amazon.com/images/I/81c-l47jY9L._SL1500_.jpg",
     "synopsis": "Aranrak Pithaksakul, una incansable defensora de la naturaleza, ha dedicado su vida a proteger la naturaleza salvaje de Khao Nang Nuea, el mismo paraje que su madre defendió hasta la muerte.\nTras resultar gravemente herida durante una misión, Aranrak queda al cuidado de la doctora Nakharintra, también conocida como la doctora Narin. A medida que Narin la ayuda a recuperarse, la creciente cercanía entre ambas se va convirtiendo poco a poco en amor.\nPero justo cuando su relación empieza a florecer, Narin desaparece sin decir una palabra. Dos años más tarde, regresa. Solo que esta vez, Narin ya no es la doctora que Aranrak conocía. Ahora es una mujer de negocios e hija de un poderoso magnate local dedicado a la explotación de recursos naturales, y llega con planes para construir un complejo turístico de lujo cerca del parque nacional.\nAtrapada entre la mujer a la que aún ama y la naturaleza que ha jurado proteger, Aranrak debe enfrentarse a una elección imposible.\nCuando el amor y el deber se sitúan en bandos opuestos, ¿cuál elegirá?",
-    "pages": null,
+    "pages": 422,
     "isbn": null,
     "wattpad": null,
     "ship": [],
@@ -822,6 +822,112 @@
     "ambientacion": [],
     "content_warnings": [],
     "spicy": 3,
+    "formato": null,
+    "adaptacion": null,
+    "sagaName": null,
+    "sagaNum": null,
+    "source": "thais",
+    "editions": [],
+    "saficlub": false,
+    "safi_categories": [],
+    "thaiclub": false,
+    "thai_categories": [],
+    "canal_rec": false,
+    "canal_month": null,
+    "my_rec": false,
+    "my_rec_categories": []
+  },
+  {
+    "id": "b_1792061528883_rlejk",
+    "title": "Mistress G",
+    "authors": [
+      "Zezeho"
+    ],
+    "year": 2026,
+    "cover": "https://cdn-local.mebmarket.com/meb/server1/441747/Thumbnail/book_detail_large.gif?2",
+    "synopsis": "Todo empieza con un juego de copas en la fiesta de fin de año de la empresa.\nNamcha, una empleada de oficina corriente que se siente vacía y sin rumbo, ya ha redactado su carta de dimisión. Tiene pensado dejarlo en cuanto empiece el año nuevo y volver a casa para encontrar un sentido a su vida. Pero esa noche, el destino la sitúa en el mismo grupo de copas que la única mujer de la que nunca imaginó que pudiera acercarse.\nGerana —a quien todos llaman Miss G—, la directora ejecutiva de ventas. Elegante, serena y absolutamente inalcanzable, domina la sala sin siquiera esforzarse. Cuando la botella se detiene frente a Namcha, un simple juego de «Verdad o reto» se convierte en algo completamente distinto. La voz de Miss G es suave, su sonrisa dulce pero peligrosa:\n«¿Te atreverías a arrodillarte y besar la punta de mi tacón de aguja?».\nNamcha obedece, temblando… y algo dentro de ella se despierta. Algo que lleva años reprimiendo. Al levantarse, sus ojos se fijan en un tatuaje familiar en el tobillo de la señorita G, idéntico al de una Ama a la que ha seguido en secreto por Internet.\nDe repente, su vida vacía tiene un rumbo. Pero el camino por delante no es sencillo. Miss G se erige en una altura inalcanzable y, lo que es peor, cuando Namcha intenta tantear el terreno, Miss G sonríe dulcemente y se hace la inocente, como si no tuviera ni idea de lo que significa siquiera el BDSM.",
+    "pages": 431,
+    "isbn": null,
+    "wattpad": null,
+    "ship": [],
+    "genres": [
+      "Romance",
+      "Contemporánea"
+    ],
+    "subgenres": [
+      "BDSM",
+      "Erótica"
+    ],
+    "identidades": [
+      "Femme"
+    ],
+    "characters": [
+      "Directora del departamento",
+      "Empleada"
+    ],
+    "dinamicas": [
+      "Dominante × Sumisa",
+      "Boss × Employee",
+      "Jefa × Subordinada",
+      "Femme × Femme",
+      "Feroz × Tierna"
+    ],
+    "tropes": [
+      "Age Gap",
+      "Workplace Romance",
+      "Secret Relationship"
+    ],
+    "edad": [
+      "25–39",
+      "25",
+      "35"
+    ],
+    "pais_cultura": [
+      "Tailandia"
+    ],
+    "ubicaciones": [
+      {
+        "pais": "Tailandia",
+        "region": null,
+        "ciudad": "Bangkok",
+        "localidad": null,
+        "lugares": []
+      },
+      {
+        "pais": "Tailandia",
+        "region": null,
+        "ciudad": "Nakhon Pathom",
+        "localidad": null,
+        "lugares": []
+      },
+      {
+        "pais": "Tailandia",
+        "region": null,
+        "ciudad": "Pattaya",
+        "localidad": null,
+        "lugares": []
+      },
+      {
+        "pais": "Tailandia",
+        "region": null,
+        "ciudad": "Hua Hin",
+        "localidad": null,
+        "lugares": []
+      }
+    ],
+    "epoca": "Contemporánea",
+    "periodo": null,
+    "tipo_mundo": "Realista",
+    "entornos": [
+      "Oficina"
+    ],
+    "idioma_original": "Tailandés",
+    "pais_origen": [
+      "Tailandia"
+    ],
+    "ambientacion": [],
+    "content_warnings": [],
+    "spicy": 5,
     "formato": null,
     "adaptacion": null,
     "sagaName": null,
