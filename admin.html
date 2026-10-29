@@ -3555,7 +3555,7 @@ function runTablePaste(text){
   if(!res.detected) return res;
   var unknown=res.unknown;
   var city='',region='',country='',others=[],lugaresGen=[],epocaRow=null,explicitN=null;
-  var prot=[],sagaName='',sagaNum='',isbn='',year='',pages='',shipKV='',seccion='',spicyKV=null,periodoTxt='',titleDone=false,origenV='';
+  var prot=[],sagaName='',sagaNum='',isbn='',year='',pages='',seccion='',spicyKV=null,periodoTxt='',titleDone=false,origenV='';
 
   function loc(t){ /* texto libre de "País y localización" */
     var m;
@@ -3739,7 +3739,7 @@ function runTablePaste(text){
       var dig=String(v).replace(/[\s-]/g,''),im=dig.match(/(97[89]\d{10}|\d{9}[\dXx])/);
       if(im&&(!isbn||k==='isbn')) isbn=im[1];return true;
     }
-    if(/^ships?$/.test(k)){if(!tpUnspec(v)) shipKV=v;return true;}
+    if(/^ships?$/.test(k)) return true; /* el ship se rellena siempre a mano: se ignora */
     if(/^protagonista\d*$/.test(k)){if(!tpUnspec(v)) prot.push(String(v).replace(/\([^)]*\)/g,'').replace(/[\s.,;:]+$/,'').trim());return true;}
     if(/^(seccion|section|seccionweb)$/.test(k)){seccion=v;return true;}
     if(k.indexOf('spicy')>=0&&k.indexOf('escena')<0||k==='nivelsteam'){
@@ -3945,15 +3945,7 @@ function runTablePaste(text){
     res.notes.push('Sección: '+TP_SECCION_LBL[srcKey]+(srcExplicit?'':' (deducida)'));
   }
 
-  /* Ship: el indicado; si no, con la sección Thais se compone con los nombres de las dos protagonistas (PhinyaBusaya) */
-  var shipEl=document.getElementById('fShip');
-  if(shipEl&&!shipEl.value.trim()){
-    if(shipKV){shipEl.value=shipKV;res.filled++;}
-    else if(sel.source==='thais'&&prot.length>=2){
-      shipEl.value=prot.slice(0,2).map(function(n){return tpCap(n.split(/\s+/)[0]);}).join('');res.filled++;
-      res.notes.push('Ship compuesto con los nombres de las protagonistas');
-    }
-  }
+  /* Ship: NO se autocompleta nunca (se escribe a mano en el campo Ship(s)) */
 
   /* Época + periodo específico */
   if(epocaRow){
