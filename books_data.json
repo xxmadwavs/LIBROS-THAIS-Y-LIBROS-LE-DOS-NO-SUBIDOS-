@@ -8254,12 +8254,35 @@
     ],
     "identidades": [
       "Butch",
-      "Femme"
+      "Femme",
+      "Otro"
     ],
     "characters": [
       "Investigadora",
       "Empresaria",
-      "Piloto"
+      "Piloto",
+      "Operadora de vigilancia",
+      "Piloto de motociclismo"
+    ],
+    "protagonistas": [
+      {
+        "id": "pmvuprjlkeoa",
+        "nombre": "Minju",
+        "profesiones": [
+          "Operadora de vigilancia"
+        ],
+        "identidades": [],
+        "edad": 21
+      },
+      {
+        "id": "pmvuprjlkihs",
+        "nombre": "Chloe",
+        "profesiones": [
+          "Piloto de motociclismo"
+        ],
+        "identidades": [],
+        "edad": null
+      }
     ],
     "dinamicas": [
       "Butch × Femme",
@@ -8274,7 +8297,9 @@
       "Coming Out tardío",
       "Jealousy Trope",
       "Slow Burn",
-      "Opposites Attract"
+      "Opposites Attract",
+      "Forbidden Love",
+      "Strangers to Lovers"
     ],
     "edad": [
       "New Adult (18–24)"
@@ -8288,12 +8313,21 @@
         "region": null,
         "ciudad": "Río de Janeiro",
         "localidad": null,
-        "lugares": []
+        "lugares": [
+          "Copacabana",
+          "Aeródromo privado",
+          "Mansión de Chloe",
+          "Impact",
+          "Recas",
+          "Cabaña de Volt",
+          "Fort Blanche",
+          "Playa y distintas instalaciones de Volt"
+        ]
       }
     ],
     "epoca": "Contemporánea",
-    "periodo": null,
-    "tipo_mundo": null,
+    "periodo": "2018",
+    "tipo_mundo": "Realista",
     "entornos": [
       "Ciudad"
     ],
@@ -8304,6 +8338,7 @@
     "ambientacion": [],
     "content_warnings": [],
     "spicy": 4,
+    "rapidez_romance": 3,
     "formato": "Dúo",
     "adaptacion": null,
     "sagaName": "Rosas de Sangue",
@@ -8344,13 +8379,38 @@
       "BDSM",
       "Familia",
       "Crimen",
-      "Autodescubrimiento"
+      "Autodescubrimiento",
+      "Dark Romance"
     ],
     "identidades": [
       "Butch",
-      "Femme"
+      "Femme",
+      "Otro"
     ],
-    "characters": [],
+    "characters": [
+      "Empresaria",
+      "Curadora de arte"
+    ],
+    "protagonistas": [
+      {
+        "id": "pmvuptiqtxat",
+        "nombre": "Jax",
+        "profesiones": [
+          "Empresaria"
+        ],
+        "identidades": [],
+        "edad": null
+      },
+      {
+        "id": "pmvuptiqt0en",
+        "nombre": "Liz",
+        "profesiones": [
+          "Curadora de arte"
+        ],
+        "identidades": [],
+        "edad": 42
+      }
+    ],
     "dinamicas": [
       "Butch × Femme",
       "Dominante × Sumisa",
@@ -8362,7 +8422,9 @@
       "Hurt/Comfort",
       "Opposites Attract",
       "Workplace Romance",
-      "Jealousy Trope"
+      "Jealousy Trope",
+      "Forbidden Love",
+      "Secret Relationship"
     ],
     "edad": [
       "+40"
@@ -8376,12 +8438,19 @@
         "region": null,
         "ciudad": "Nueva York",
         "localidad": null,
-        "lugares": []
+        "lugares": [
+          "Galería de arte",
+          "Club Pétale",
+          "Apartamento de Jax",
+          "Casa de Liz",
+          "Casa de la familia de Liz",
+          "Central Park y el nuevo local del Club Pétale"
+        ]
       }
     ],
     "epoca": "Contemporánea",
     "periodo": null,
-    "tipo_mundo": null,
+    "tipo_mundo": "Realista",
     "entornos": [
       "Ciudad"
     ],
@@ -8389,7 +8458,8 @@
     "pais_origen": null,
     "ambientacion": [],
     "content_warnings": [],
-    "spicy": 4,
+    "spicy": 5,
+    "rapidez_romance": 3,
     "formato": "Saga",
     "adaptacion": null,
     "sagaName": "Pétale Auction",
@@ -10599,20 +10669,23 @@
     "cover": "https://m.media-amazon.com/images/I/810oU1eZRRL._SL1500_.jpg",
     "synopsis": "En medio de las luces centelleantes de un pueblo de esquí de Utah cubierto de nieve, el intento de una mujer por recuperar a su ex la lleva, en cambio, a un futuro que no creía posible.\n\nA veces, el camino hacia el amor es aquel que nunca habías planeado.\n\nSon las fiestas, y a Alaina acaba de dejarla su pareja. Decidida a pasar una Navidad romántica, se embarca en un viaje por carretera a través del país para dar una sorpresa a su exnovio y convencerlo de que ella es la mujer de su vida. Pero sus planes se tuercen cuando se estrella contra un montículo de nieve. La rescata Priscilla, una librera lacónica y seria a la que no le interesa en absoluto el espíritu navideño. Varada, con el coche fuera de servicio, Alaina elabora una lista de aventuras navideñas para que su ex se arrepienta de su decisión y, para su sorpresa, Priscilla se ofrece a acompañarla.\n\nEl plan de Alaina sale a la perfección, salvo por un detalle: cuanto más tiempo pasa con Priscilla, menos segura está de qué —o a quién— quiere realmente. «A Very Merry Detour», un conmovedor romance lésbico repleto del espíritu festivo de un pueblo pequeño, explora cómo el amor verdadero siempre deja espacio para nuestro yo más auténtico.",
     "pages": 368,
-    "isbn": null,
+    "isbn": "9780593979037",
     "wattpad": null,
     "ship": [],
     "genres": [
       "Romance",
       "Contemporánea",
-      "Comedia Romántica"
+      "Comedia Romántica",
+      "Drama"
     ],
     "subgenres": [
       "Navidad",
       "Small Town",
       "Autodescubrimiento",
       "Queer",
-      "Familia"
+      "Familia",
+      "Bisexual",
+      "Coming Out"
     ],
     "identidades": [
       "Femme"
@@ -10621,8 +10694,31 @@
       "Camarera",
       "Empresaria"
     ],
+    "protagonistas": [
+      {
+        "id": "pmvupirrq4id",
+        "nombre": "Priscilla",
+        "profesiones": [],
+        "identidades": [
+          "Femme"
+        ],
+        "edad": null
+      },
+      {
+        "id": "pmvupirrqi8j",
+        "nombre": "Alaina",
+        "profesiones": [
+          "Camarera"
+        ],
+        "identidades": [
+          "Femme"
+        ],
+        "edad": null
+      }
+    ],
     "dinamicas": [
-      "Grumpy × Sunshine"
+      "Grumpy × Sunshine",
+      "Femme × Femme"
     ],
     "tropes": [
       "Forced Proximity",
@@ -10630,7 +10726,8 @@
       "Stranded Together",
       "Road Trip",
       "Opposites Attract",
-      "Hurt/Comfort"
+      "Hurt/Comfort",
+      "Vacation Romance"
     ],
     "edad": [
       "25–39"
@@ -10645,20 +10742,39 @@
         "ciudad": null,
         "localidad": null,
         "lugares": []
+      },
+      {
+        "pais": "Estados Unidos",
+        "region": "Utah",
+        "ciudad": "Brooks",
+        "localidad": null,
+        "lugares": [
+          "Brooks Books",
+          "Restaurante de Patty",
+          "Plaza del pueblo",
+          "Estación de esquí",
+          "Bosque",
+          "Plantación de árboles",
+          "Casa de Grant y Ned",
+          "Aeropuerto"
+        ]
       }
     ],
     "epoca": "Contemporánea",
     "periodo": null,
-    "tipo_mundo": null,
+    "tipo_mundo": "Realista",
     "entornos": [
-      "Ciudad"
+      "Ciudad",
+      "Pueblo pequeño",
+      "Restaurante",
+      "Campo"
     ],
     "idioma_original": "Inglés",
     "pais_origen": null,
     "ambientacion": [],
     "content_warnings": [],
-    "spicy": 2,
-    "rapidez_romance": 3,
+    "spicy": 3,
+    "rapidez_romance": 4,
     "formato": null,
     "adaptacion": null,
     "sagaName": null,
@@ -10684,7 +10800,7 @@
     "cover": "https://m.media-amazon.com/images/I/6194nMActML._SL1500_.jpg",
     "synopsis": "Una cama. Dos desconocidas. Cero posibilidades de que las cosas sean sencillas estas Navidades.\n\nLa carrera profesional de Hannah Doyle, reacia a los compromisos, está despegando. Ahora es el momento de que su vida personal se ponga al día. ¿Y qué si sus amigos piensan que se está conformando? Las almas gemelas no existen, así que ¿por qué perder el tiempo intentando encontrar una? Siguiendo ese plan, por fin le ha pedido a su «novia de conveniencia», Anna, que se mude con ella. Lo que no había previsto era despertarse en la cama de una desconocida en Nochebuena.\n\nElyse Thornton nunca ha prestado mucha atención a su aspecto. Pero cuando Rowena, guapísima y a la última, la invitó a salir, le gustó que se fijaran en ella. Ahora, Elyse espera que su primera Navidad juntas suponga un paso más en su relación. Eso fue antes de que Elyse descubriera a una desconocida semidesnuda en su cama.\n\nAvergonzada, Hannah se disculpa por el malentendido, pero ninguna de las dos esperaba las conversaciones profundas ni la conexión que se creó entre ellas. ¿Podrían ser el alma gemela la una de la otra? A medida que avanza la noche, comienzan a surgir sentimientos profundos que las obligan a enfrentarse a sus miedos y esperanzas: conformarse con lo conocido o arriesgarse a dar una oportunidad a la otra.",
     "pages": 264,
-    "isbn": null,
+    "isbn": "9798900350165",
     "wattpad": null,
     "ship": [],
     "genres": [
@@ -10704,6 +10820,24 @@
       "Editora",
       "Abogada"
     ],
+    "protagonistas": [
+      {
+        "id": "pmvupk8mv7p2",
+        "nombre": "Hannah",
+        "profesiones": [],
+        "identidades": [],
+        "edad": 38
+      },
+      {
+        "id": "pmvupk8mv2x5",
+        "nombre": "Elyse",
+        "profesiones": [
+          "Abogada"
+        ],
+        "identidades": [],
+        "edad": 36
+      }
+    ],
     "dinamicas": [],
     "tropes": [
       "Strangers to Lovers",
@@ -10722,23 +10856,23 @@
       {
         "pais": "Estados Unidos",
         "region": null,
-        "ciudad": "Long Beach, California, como lugar de residencia de Hannah y Elyse en distintos momentos",
+        "ciudad": "Los Ángeles",
         "localidad": null,
         "lugares": []
       }
     ],
     "epoca": "Contemporánea",
     "periodo": null,
-    "tipo_mundo": null,
+    "tipo_mundo": "Realista",
     "entornos": [
       "Ciudad"
     ],
-    "idioma_original": null,
+    "idioma_original": "Inglés",
     "pais_origen": null,
     "ambientacion": [],
     "content_warnings": [],
     "spicy": 3,
-    "rapidez_romance": 4,
+    "rapidez_romance": 5,
     "formato": null,
     "adaptacion": null,
     "sagaName": null,
@@ -10764,7 +10898,7 @@
     "cover": "https://m.media-amazon.com/images/I/71ifNL231xL._SL1500_.jpg",
     "synopsis": "En Cedar Creek, la Navidad no es ninguna broma, y la obra teatral anual de estas fechas es el eje central de las celebraciones. Como directora, Bo Amaratunga no solo sigue los pasos de su madre, sino que también cumple su papel como organizadora de la comunidad, reuniendo a la gente para una noche de alegría y diversión queer.\n\nCuando un lugar emblemático de la localidad sale a la venta y el pueblo recurre a Bo para salvarlo, ella hace exactamente lo que haría su madre: traza planes para producir la obra más ruidosa y mágica con el fin de salvar la situación… o, al menos, recaudar lo suficiente con la venta de entradas para ahuyentar a cualquier posible comprador. Para llevarlo a cabo, Bo necesita una escenógrafa capaz de hacer realidad su visión, pero la única opción parece ser Val Morales, que acaba de regresar y que fue el amor de instituto de Bo hace mucho tiempo. Claro, Val tiene un talento increíble, está más que dispuesta a ayudar y sigue acelerándole el corazón a Bo, pero ¿cómo puede confiar en la chica que la dejó plantada y la dejó destrozada hace diez años? Y, de todos modos, ¿por qué ha vuelto Val después de todos estos años?\n\nVal Morales nunca pensó que volvería a Cedar Creek. Recién divorciada, sin trabajo y desorientada, se alegró de aceptar el salvavidas que le ofrecieron sus exigentes padres al proponerle un trabajo para echar una mano en su agencia inmobiliaria. Cuando le piden que encuentre un comprador para su lucrativa propiedad en Cedar Creek, aprovecha la oportunidad para escapar de la decepción que les ha causado el reciente revés en su vida y, con suerte, incluso impresionarlos. No esperaba encontrarse con Bo, su primer y más importante amor, ni que Bo le pidiera ayuda para diseñar la escenografía de la obra teatral anual de Navidad. Cuando Val se da cuenta de que la propiedad que está intentando vender es la misma que la obra pretende salvar, se ve abocada a una situación imposible: ¿volverá a romperle el corazón a Bo?\n\nA medida que el pasado y el anhelo que sienten el uno por el otro se van apoderando de ellos, Bo y Val deben encontrar la manera de sortear sus objetivos contrapuestos y las presiones a las que se ven sometidos.",
     "pages": 368,
-    "isbn": null,
+    "isbn": "9781668210567",
     "wattpad": null,
     "ship": [],
     "genres": [
@@ -10783,30 +10917,82 @@
     "identidades": [
       "Femme"
     ],
-    "characters": [],
+    "characters": [
+      "Agente inmobiliaria con licencia"
+    ],
+    "protagonistas": [
+      {
+        "id": "pmvupjif9jb4",
+        "nombre": "Bo",
+        "profesiones": [],
+        "identidades": [
+          "Femme"
+        ],
+        "edad": 30
+      },
+      {
+        "id": "pmvupjif966z",
+        "nombre": "Val",
+        "profesiones": [
+          "Agente inmobiliaria con licencia"
+        ],
+        "identidades": [
+          "Femme"
+        ],
+        "edad": null
+      }
+    ],
     "dinamicas": [
       "Seria × Divertida",
-      "Fría × Cálida"
+      "Fría × Cálida",
+      "Femme × Femme"
     ],
     "tropes": [
       "Second Chance Romance",
       "Friends to Lovers",
       "Forced Proximity",
       "Opposites Attract",
-      "Hurt/Comfort"
+      "Hurt/Comfort",
+      "Childhood Friends",
+      "Secret Relationship"
     ],
     "edad": [
       "25–39"
     ],
-    "pais_cultura": [],
-    "ubicaciones": [],
+    "pais_cultura": [
+      "Estados Unidos"
+    ],
+    "ubicaciones": [
+      {
+        "pais": "Estados Unidos",
+        "region": null,
+        "ciudad": "Cedar Creek",
+        "localidad": null,
+        "lugares": [
+          "Escuela primaria Cedar Creek",
+          "Teatro Rio",
+          "Pub Cedar's",
+          "Tienda Fanciful",
+          "The Barn",
+          "Plaza de Cedar Creek y viviendas de Bo y Val"
+        ]
+      },
+      {
+        "pais": "Estados Unidos",
+        "region": null,
+        "ciudad": "Edgemont",
+        "localidad": null,
+        "lugares": []
+      }
+    ],
     "epoca": "Contemporánea",
     "periodo": null,
-    "tipo_mundo": null,
+    "tipo_mundo": "Realista",
     "entornos": [
-      "Ciudad"
+      "Ciudad",
+      "Pueblo pequeño"
     ],
-    "idioma_original": null,
+    "idioma_original": "Inglés",
     "pais_origen": null,
     "ambientacion": [],
     "content_warnings": [],
@@ -10850,12 +11036,36 @@
       "Queer",
       "Familia",
       "Autodescubrimiento",
-      "Small Town"
+      "Small Town",
+      "Segunda Oportunidad"
     ],
     "identidades": [
       "Femme"
     ],
-    "characters": [],
+    "characters": [
+      "Carpintera",
+      "Empresaria"
+    ],
+    "protagonistas": [
+      {
+        "id": "pmvupl24lj2e",
+        "nombre": "Harper",
+        "profesiones": [
+          "Carpintera"
+        ],
+        "identidades": [],
+        "edad": null
+      },
+      {
+        "id": "pmvupl24lvzg",
+        "nombre": "London",
+        "profesiones": [
+          "Empresaria"
+        ],
+        "identidades": [],
+        "edad": 50
+      }
+    ],
     "dinamicas": [
       "Seria × Divertida",
       "Caos × Control"
@@ -10878,16 +11088,40 @@
         "region": null,
         "ciudad": "Leavenworth",
         "localidad": null,
+        "lugares": [
+          "The Colchuck Inn",
+          "Birch",
+          "Timber Taproom",
+          "Enzian",
+          "The Alpinist",
+          "Río",
+          "Lago Colchuck",
+          "Taller de Harper y las montañas de los alrededores"
+        ]
+      },
+      {
+        "pais": "Estados Unidos",
+        "region": null,
+        "ciudad": "Seattle",
+        "localidad": null,
+        "lugares": []
+      },
+      {
+        "pais": "Estados Unidos",
+        "region": null,
+        "ciudad": "no todas son visitas durante el presente narrativo",
+        "localidad": null,
         "lugares": []
       }
     ],
     "epoca": "Contemporánea",
     "periodo": null,
-    "tipo_mundo": null,
+    "tipo_mundo": "Realista",
     "entornos": [
-      "Ciudad"
+      "Ciudad",
+      "Pueblo pequeño"
     ],
-    "idioma_original": null,
+    "idioma_original": "Inglés",
     "pais_origen": null,
     "ambientacion": [],
     "content_warnings": [],
@@ -10932,12 +11166,37 @@
       "Queer",
       "Familia",
       "Autodescubrimiento",
-      "Sobrenatural"
+      "Sobrenatural",
+      "Magia",
+      "Mitología"
     ],
     "identidades": [
       "Femme"
     ],
-    "characters": [],
+    "characters": [
+      "Guerrera Qorin",
+      "Emperatriz de Hokkaro"
+    ],
+    "protagonistas": [
+      {
+        "id": "pmvupa67d4g0",
+        "nombre": "Barsalai Shefali",
+        "profesiones": [
+          "Guerrera Qorin"
+        ],
+        "identidades": [],
+        "edad": 25
+      },
+      {
+        "id": "pmvupa67drx3",
+        "nombre": "Minami Shizuka / O-Shizuka",
+        "profesiones": [
+          "Emperatriz de Hokkaro"
+        ],
+        "identidades": [],
+        "edad": null
+      }
+    ],
     "dinamicas": [
       "Femme × Femme",
       "Seria × Divertida",
@@ -10947,9 +11206,12 @@
       "Second Chance Romance",
       "Hurt/Comfort",
       "Forced Proximity",
-      "Soulmates"
+      "Soulmates",
+      "Childhood Friends"
     ],
-    "edad": [],
+    "edad": [
+      "25–39"
+    ],
     "pais_cultura": [],
     "ubicaciones": [
       {
@@ -10962,17 +11224,18 @@
     ],
     "epoca": "Histórica",
     "periodo": null,
-    "tipo_mundo": null,
+    "tipo_mundo": "Fantasía",
     "entornos": [
-      "Ciudad"
+      "Ciudad",
+      "Palacio"
     ],
-    "idioma_original": null,
+    "idioma_original": "Inglés",
     "pais_origen": [
       "Puerto Rico"
     ],
     "ambientacion": [],
     "content_warnings": [],
-    "spicy": 0,
+    "spicy": 1,
     "rapidez_romance": null,
     "formato": "Trilogía",
     "adaptacion": null,
@@ -10999,7 +11262,7 @@
     "cover": "https://m.media-amazon.com/images/I/81JgkrC7l6L._SL1500_.jpg",
     "synopsis": "Incluso los dioses pueden ser asesinados\n\n\n\nEl Imperio de Hokkaran ha conquistado todas las tierras a su alcance, pero no se ha percatado de la oscuridad que acecha y se extiende entre el pueblo. Ahora, sus murallas fronterizas comienzan a desmoronarse y las aldeas caen en manos de los demonios que surgen en masa de los bosques al amparo de la noche.\n\n\n\nEn las estepas plateadas, las tribus de Qorin que aún se desplazan a caballo se retiran y protegen a los suyos, tras haber negociado un tratado con el emperador que recae sobre las cabezas de la próxima generación. Depende de dos jóvenes guerreros, que han crecido juntos más allá de las fronteras desde su nacimiento profetizado, salvar al mundo de los demonios que avanzan sin cesar.\n\n\n\nEsta es la historia de un infame guerrero de Qorin, Barsalayaa Shefali; de una emperatriz guerrera divina y mimada, O-Shizuka; y de un poder capaz de atravesar el tiempo y el espacio para salvar una tierra de un mal verdaderamente insidioso.",
     "pages": 526,
-    "isbn": null,
+    "isbn": "9780765392541",
     "wattpad": null,
     "ship": [],
     "genres": [
@@ -11018,18 +11281,41 @@
       "Mitología"
     ],
     "identidades": [
-      "Butch"
+      "Butch",
+      "Femme"
     ],
-    "characters": [],
+    "characters": [
+      "Demonio"
+    ],
+    "protagonistas": [
+      {
+        "id": "pmvupdiskeol",
+        "nombre": "Barsalyya Shefali",
+        "profesiones": [],
+        "identidades": [],
+        "edad": 16
+      },
+      {
+        "id": "pmvupdiski72",
+        "nombre": "O-Shizuka / Minami Shizuka",
+        "profesiones": [],
+        "identidades": [],
+        "edad": 16
+      }
+    ],
     "dinamicas": [],
     "tropes": [
       "Childhood Friends",
       "Friends to Lovers",
       "Destined Lovers",
       "Forbidden Love",
-      "Hurt/Comfort"
+      "Hurt/Comfort",
+      "Secret Relationship",
+      "Slow Burn"
     ],
-    "edad": [],
+    "edad": [
+      "Young Adult (15–18)"
+    ],
     "pais_cultura": [],
     "ubicaciones": [
       {
@@ -11041,19 +11327,20 @@
       }
     ],
     "epoca": "Histórica",
-    "periodo": null,
+    "periodo": "Fantasía imperial preindustrial",
     "tipo_mundo": null,
     "entornos": [
-      "Ciudad"
+      "Ciudad",
+      "Palacio"
     ],
-    "idioma_original": null,
+    "idioma_original": "Inglés",
     "pais_origen": [
       "Puerto Rico"
     ],
     "ambientacion": [],
     "content_warnings": [],
     "spicy": 3,
-    "rapidez_romance": 4,
+    "rapidez_romance": 3,
     "formato": "Trilogía",
     "adaptacion": null,
     "sagaName": "Ascendant",
@@ -11079,7 +11366,7 @@
     "cover": "https://m.media-amazon.com/images/I/A16psQMuf7L._SL1500_.jpg",
     "synopsis": "Lucky y su marido, Krishna, son homosexuales. Ante sus conservadoras familias de origen esrilanqués y estadounidense, dan la impresión de llevar una vida matrimonial feliz, mientras que cada uno tiene sus propias citas secretas. No es lo ideal, pero a Lucky parece que le funciona. Sale a bailar, bebe un poco y se gana la vida haciendo arte digital por encargo. Pero cuando la abuela de Lucky sufre una fea caída, Lucky regresa a la casa de su infancia y, de forma inesperada, vuelve a encontrarse con su antigua mejor amiga y primer amor, Nisha, que se está preparando para su propia boda concertada con un hombre al que nunca ha conocido.\n\nA medida que se reaviva el vínculo entre ambas mujeres, Lucky intenta salvar a Nisha de contraer un matrimonio basado en una mentira. Pero, ¿realmente quiere Nisha que la salven? Y tras una década de mentiras, ¿podrá Lucky liberarse de sus propias circunstancias y labrarse una nueva vida? ¿Está dispuesta a alejarse de todo lo que valora de sus padres y su comunidad para vivir una nueva realidad? Mientras Lucky —una forastera, independientemente de las decisiones que tome— se ve empujada al límite, *Marriage of a Thousand Lies* ofrece una vívida exploración de una vida vivida en una compleja encrucijada de raza, sexualidad y nacionalidad. El resultado es una novela de debut profundamente estadounidense, impregnada de humor y pérdida, una historia de amor, familia y las verdades que nos definen a todos.",
     "pages": 288,
-    "isbn": null,
+    "isbn": "9781616957902",
     "wattpad": null,
     "ship": [],
     "genres": [
@@ -11096,19 +11383,51 @@
     ],
     "identidades": [
       "Butch",
-      "Femme"
+      "Femme",
+      "Masc"
     ],
     "characters": [
-      "Artista"
+      "Artista",
+      "Estudiante",
+      "Artista digital"
+    ],
+    "protagonistas": [
+      {
+        "id": "pmvupe8w3m5t",
+        "nombre": "Lakshmi «Lucky»",
+        "profesiones": [
+          "Artista digital"
+        ],
+        "identidades": [
+          "Masc"
+        ],
+        "edad": 27
+      },
+      {
+        "id": "pmvupe8w3uu0",
+        "nombre": "Nisha",
+        "profesiones": [
+          "Estudiante"
+        ],
+        "identidades": [
+          "Femme"
+        ],
+        "edad": null
+      }
     ],
     "dinamicas": [
-      "Butch × Femme"
+      "Butch × Femme",
+      "Masc × Femme"
     ],
     "tropes": [
       "Childhood Friends",
       "Friends to Lovers",
       "Forbidden Love",
-      "Hurt/Comfort"
+      "Hurt/Comfort",
+      "Second Chance Romance",
+      "Secret Relationship",
+      "Arranged Marriage",
+      "Marriage of Convenience"
     ],
     "edad": [
       "25–39"
@@ -11118,16 +11437,16 @@
     ],
     "ubicaciones": [
       {
-        "pais": "Estados Unidos Explícita Toda la novela",
+        "pais": "Estados Unidos",
         "region": null,
-        "ciudad": null,
+        "ciudad": "Boston",
         "localidad": null,
         "lugares": []
       },
       {
         "pais": "Estados Unidos",
         "region": null,
-        "ciudad": "Boston y su área metropolitana",
+        "ciudad": "Gloucester",
         "localidad": null,
         "lugares": []
       }
@@ -11136,16 +11455,17 @@
     "periodo": null,
     "tipo_mundo": null,
     "entornos": [
-      "Ciudad"
+      "Ciudad",
+      "Universidad"
     ],
-    "idioma_original": null,
+    "idioma_original": "Inglés",
     "pais_origen": [
       "Sri Lanka"
     ],
     "ambientacion": [],
     "content_warnings": [],
     "spicy": 3,
-    "rapidez_romance": 3,
+    "rapidez_romance": 4,
     "formato": null,
     "adaptacion": null,
     "sagaName": null,
@@ -11171,7 +11491,7 @@
     "cover": "https://m.media-amazon.com/images/I/71vcXEvEkOL._SL1360_.jpg",
     "synopsis": "De la galardonada autora de la serie «Dominion of the Fallen» nos llega una oscura versión de «La Bella y la Bestia».\n\nEn un mundo en ruinas y devastado, donde la tierra está envenenada y seres de pesadilla vagan por el territorio...\n\nUna mujer, traicionada, aterrorizada, vendida como esclava para pagar las deudas de su pueblo y que lucha por sobrevivir en un mundo espiritual.\n\nUn dragón, una de las últimas de su especie, fría y distante, pero que intenta desesperadamente marcar la diferencia.\n\nCuando la erudita fracasada Yên es vendida a Vu Côn, uno de los últimos dragones que pisan la tierra, espera ser torturada o asesinada para entretenimiento de Vu Côn.\n\nPero resulta que Vu Côn le encuentra utilidad a Yên: necesita una erudita que dé clases particulares a sus dos hijos rebeldes. Se lleva a Yên a su hogar, un vasto y vertiginoso palacio-prisión donde cada puerta puede conducir a la muerte. Vu Côn parece severa e inflexible, pero a medida que pasan los días, Yên empieza a descubrir su lado más amable y cariñoso. Se siente peligrosamente atraída por el dragón que es a la vez su ama y su carcelera. Al final, Yên tendrá que decidir dónde reside su propia felicidad… y si esta sobrevivirá a la revelación de los oscuros e indescriptibles secretos de Vu Côn...",
     "pages": 145,
-    "isbn": null,
+    "isbn": "9781625673749",
     "wattpad": null,
     "ship": [],
     "genres": [
@@ -11180,23 +11500,62 @@
       "Romance",
       "Drama"
     ],
-    "subgenres": [],
-    "identidades": [],
-    "characters": [],
+    "subgenres": [
+      "Queer",
+      "Magia",
+      "Sobrenatural",
+      "Familia",
+      "Autodescubrimiento"
+    ],
+    "identidades": [
+      "Otro",
+      "Femme"
+    ],
+    "characters": [
+      "Sanadora",
+      "Maestra"
+    ],
+    "protagonistas": [
+      {
+        "id": "pmvupgld4loy",
+        "nombre": "Yên",
+        "profesiones": [
+          "Maestra"
+        ],
+        "identidades": [],
+        "edad": null
+      },
+      {
+        "id": "pmvupgld4ma9",
+        "nombre": "Vu Côn",
+        "profesiones": [
+          "Sanadora"
+        ],
+        "identidades": [
+          "Femme"
+        ],
+        "edad": null
+      }
+    ],
     "dinamicas": [],
     "tropes": [
       "Forced Proximity",
       "Hurt/Comfort",
-      "Destined Lovers"
+      "Destined Lovers",
+      "Forbidden Love",
+      "Strangers to Lovers"
     ],
     "edad": [],
     "pais_cultura": [],
     "ubicaciones": [],
     "epoca": "Futurista",
     "periodo": "Futuro postapocalíptico",
-    "tipo_mundo": null,
-    "entornos": [],
-    "idioma_original": null,
+    "tipo_mundo": "Ciencia ficción",
+    "entornos": [
+      "Palacio",
+      "Hospital"
+    ],
+    "idioma_original": "Inglés",
     "pais_origen": [
       "Francia"
     ],
