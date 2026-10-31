@@ -12756,7 +12756,7 @@
       "Hospital",
       "Ciudad"
     ],
-    "idioma_original": "Español",
+    "idioma_original": "Tailandés",
     "pais_origen": [
       "Tailandia"
     ],
@@ -13163,6 +13163,130 @@
     "content_warnings": [],
     "spicy": 5,
     "rapidez_romance": 4,
+    "formato": null,
+    "adaptacion": null,
+    "sagaName": null,
+    "sagaNum": null,
+    "source": "thais",
+    "editions": [],
+    "saficlub": false,
+    "safi_categories": [],
+    "thaiclub": false,
+    "thai_categories": [],
+    "canal_rec": false,
+    "canal_month": null,
+    "my_rec": false,
+    "my_rec_categories": []
+  },
+  {
+    "id": "b_1793448424095_2grd9",
+    "title": "Love's Echoes",
+    "authors": [
+      "Bangphan Homjan"
+    ],
+    "year": 2026,
+    "cover": "https://preview.redd.it/various-gmmtv-illustrated-novel-covers-v0-6mbnqjjfdgvh1.jpg?width=800&format=pjpg&auto=webp&s=6cf6c6fb3c96504af03430aa9834d34020da4fa4",
+    "synopsis": "Escribe una canción de amor para expresar lo que siente, pero antes de poder terminarla, va perdiendo poco a poco la audición.\n\n\n\nClara es una estrella en ascenso en el mundo de los ídolos.\n\n\n\nNew es un compositor genial que padece un trastorno genético incurable.\n\n\nTras más de diez años de separación, el destino los ha vuelto a unir. Con ello llegan una canción inacabada, una palabra que nunca se dijeron y un tiempo que se agota. Antes de que todos los sonidos se desvanezcan, recomponen su amor hecho añicos.\n\n\nA través de la música, el lenguaje de signos y el silencio, antes de que la música desaparezca… para siempre.\n\n\nHay canciones que tardan toda una vida en escucharse hasta el final.",
+    "pages": null,
+    "isbn": null,
+    "wattpad": null,
+    "ship": [],
+    "genres": [
+      "Romance",
+      "Drama",
+      "Contemporánea"
+    ],
+    "subgenres": [
+      "GL Thai 🇹🇭",
+      "Música",
+      "Familia",
+      "Queer",
+      "Celebridad",
+      "Autodescubrimiento"
+    ],
+    "identidades": [
+      "Femme"
+    ],
+    "characters": [
+      "Artista",
+      "Música",
+      "Escritora"
+    ],
+    "protagonistas": [
+      {
+        "id": "pmvwctsnm8vm",
+        "nombre": "Clara Lin",
+        "profesiones": [
+          "Artista"
+        ],
+        "identidades": [
+          "Femme"
+        ],
+        "edad": 29
+      },
+      {
+        "id": "pmvwctsnm7uy",
+        "nombre": "New Nithan",
+        "profesiones": [
+          "Escritora"
+        ],
+        "identidades": [
+          "Femme"
+        ],
+        "edad": 28
+      }
+    ],
+    "dinamicas": [
+      "Ice Queen × Sunshine",
+      "Introvertida × Extrovertida"
+    ],
+    "tropes": [
+      "Childhood Friends",
+      "Friends to Lovers",
+      "Second Chance Romance",
+      "Forced Proximity"
+    ],
+    "edad": [
+      "25–39"
+    ],
+    "pais_cultura": [
+      "Tailandia"
+    ],
+    "ubicaciones": [
+      {
+        "pais": "Tailandia",
+        "region": null,
+        "ciudad": "Bangkok",
+        "localidad": null,
+        "lugares": []
+      },
+      {
+        "pais": "Francia",
+        "region": null,
+        "ciudad": "París",
+        "localidad": null,
+        "lugares": []
+      },
+      {
+        "pais": "Tailandia",
+        "region": null,
+        "ciudad": "Koh Chang",
+        "localidad": null,
+        "lugares": []
+      }
+    ],
+    "epoca": "Contemporánea",
+    "periodo": null,
+    "tipo_mundo": null,
+    "entornos": [
+      "Ciudad"
+    ],
+    "idioma_original": "Tailandés",
+    "pais_origen": null,
+    "ambientacion": [],
+    "content_warnings": [],
+    "spicy": 3,
+    "rapidez_romance": 3,
     "formato": null,
     "adaptacion": null,
     "sagaName": null,
