@@ -1040,7 +1040,6 @@
     "my_rec": false,
     "my_rec_categories": []
   },
-  
   {
     "id": "b_1792065465791_jthp8",
     "title": "Era of Us",
@@ -10778,7 +10777,6 @@
     "my_rec": false,
     "my_rec_categories": []
   },
-  
   {
     "id": "b_1793443876545_lfr8i",
     "title": "My Madam, My Biggest Fan",
@@ -11668,6 +11666,353 @@
     "sagaName": null,
     "sagaNum": null,
     "source": "thais",
+    "editions": [],
+    "saficlub": false,
+    "safi_categories": [],
+    "thaiclub": false,
+    "thai_categories": [],
+    "canal_rec": false,
+    "canal_month": null,
+    "my_rec": false,
+    "my_rec_categories": []
+  },
+  {
+    "id": "b_1793553880713_luqij",
+    "title": "Bet Against Me",
+    "authors": [
+      "Fiona Riley"
+    ],
+    "year": 2020,
+    "cover": "https://m.media-amazon.com/images/I/61g9Li4iEaL._SL1159_.jpg",
+    "synopsis": "Trina Lee vendería la casa de su propia madre a sus espaldas si eso le garantizara cerrar una venta, y no es broma. Su reputación como negociadora implacable y su récord de ventas en el mercado inmobiliario de lujo de Boston deberían haberle valido el premio a la Agente Inmobiliaria del Año, así que cuando el galardón recae en su rival, la recién llegada Kendall Yates, Trina se queda sin palabras. Y, vale, también se sintió excitada.\nKendall se ganó más enemigos que amigos la noche de su gran victoria, pero le daba completamente igual. Es la mejor, y tiene ese odioso pisapapeles de cristal para demostrarlo. Esa es la ventaja que necesita para escapar de la sombra de la reputación de su familia. Cuando su jefe acepta una apuesta amistosa de que ella puede cerrar el «santo grial» de las operaciones inmobiliarias, no está dispuesta a rendirse ante nadie. Y menos aún ante la excesivamente engreída y molesta Trina. Aunque eso le rompa el corazón.",
+    "pages": 288,
+    "isbn": "9781635557305",
+    "wattpad": null,
+    "ship": [],
+    "genres": [
+      "Romance",
+      "Contemporánea",
+      "Drama",
+      "Comedia Romántica"
+    ],
+    "subgenres": [
+      "Queer",
+      "Familia",
+      "Crimen",
+      "Bisexual",
+      "Erótica",
+      "Small Town"
+    ],
+    "identidades": [
+      "Femme"
+    ],
+    "characters": [
+      "Agente inmobiliaria"
+    ],
+    "protagonistas": [
+      {
+        "id": "pmvy3l25gj85",
+        "nombre": "Trina",
+        "profesiones": [
+          "Agente inmobiliaria"
+        ],
+        "identidades": [
+          "Femme"
+        ],
+        "edad": null
+      },
+      {
+        "id": "pmvy3l25gi8c",
+        "nombre": "Kendall",
+        "profesiones": [
+          "Agente inmobiliaria"
+        ],
+        "identidades": [
+          "Femme"
+        ],
+        "edad": null
+      }
+    ],
+    "dinamicas": [
+      "Femme × Femme",
+      "Boss × Employee"
+    ],
+    "tropes": [
+      "Enemies to Lovers",
+      "Rivals to Lovers",
+      "Forced Proximity",
+      "Workplace Romance"
+    ],
+    "edad": [
+      "25–39"
+    ],
+    "pais_cultura": [
+      "Estados Unidos"
+    ],
+    "ubicaciones": [
+      {
+        "pais": "Estados Unidos",
+        "region": null,
+        "ciudad": "Boston",
+        "localidad": null,
+        "lugares": [
+          "Seaport",
+          "Harborside",
+          "Brookline",
+          "Newbury Street y diferentes establecimientos y edificios de Boston"
+        ]
+      }
+    ],
+    "epoca": "Contemporánea",
+    "periodo": null,
+    "tipo_mundo": "Realista",
+    "entornos": [
+      "Ciudad"
+    ],
+    "idioma_original": "Inglés",
+    "pais_origen": null,
+    "ambientacion": [],
+    "content_warnings": [],
+    "spicy": 4,
+    "rapidez_romance": 4,
+    "formato": "Saga",
+    "adaptacion": null,
+    "sagaName": "A High Stakes",
+    "sagaNum": 1,
+    "source": "other",
+    "editions": [],
+    "saficlub": false,
+    "safi_categories": [],
+    "thaiclub": false,
+    "thai_categories": [],
+    "canal_rec": false,
+    "canal_month": null,
+    "my_rec": false,
+    "my_rec_categories": []
+  },
+  {
+    "id": "b_1793555110876_epalx",
+    "title": "The Muse",
+    "authors": [
+      "Meghan O’Brien"
+    ],
+    "year": 2015,
+    "cover": "https://m.media-amazon.com/images/I/61V95VQQQjL._SL1500_.jpg",
+    "synopsis": "La autora de literatura erótica Kate McMannis sufre un bloqueo creativo paralizante y tiene una fecha límite en menos de dos meses. Cuando una mujer guapísima llamada Erato aparece en su casa y afirma ser su musa, Kate no está segura de si Erato padece una enfermedad mental o es realmente su salvadora sobrenatural. Sea como sea, cuando el increíble sexo que le ofrece Erato le proporciona auténtica inspiración, Kate no se muestra dispuesta a rechazar su peculiar forma de ayuda.\n\nCuando cumplir una pequeña fantasía con Erato la lleva sin querer hasta la tímida y preciosa Olive Johnson, unos sentimientos inesperados amenazan con descarrilar la motivación de Kate una vez más. Erato está tan decidida a mantener su escritura por el buen camino como Kate a explorar su atracción muy real hacia Olive, lo que provoca un conflicto que pone en peligro no solo la capacidad de Kate para cumplir su fecha límite, sino también su floreciente romance con Olive.\n\nAtrapada entre una obligación contractual y su corazón, ¿hay alguna forma de que Kate pueda tenerlo todo?",
+    "pages": 2015,
+    "isbn": "9781626392809",
+    "wattpad": null,
+    "ship": [],
+    "genres": [
+      "Romance",
+      "Contemporánea",
+      "Fantasía",
+      "Comedia Romántica",
+      "Drama",
+      "Paranormal"
+    ],
+    "subgenres": [
+      "Queer",
+      "Erótica",
+      "Sobrenatural",
+      "Magia",
+      "Familia",
+      "Autodescubrimiento",
+      "BDSM",
+      "Mitología",
+      "Poliamor",
+      "Segunda Oportunidad",
+      "Small Town",
+      "Universidad"
+    ],
+    "identidades": [
+      "Femme",
+      "Otro"
+    ],
+    "characters": [
+      "Escritora",
+      "Empresaria"
+    ],
+    "protagonistas": [
+      {
+        "id": "pmvy4daloxk2",
+        "nombre": "Kate",
+        "profesiones": [
+          "Escritora"
+        ],
+        "identidades": [],
+        "edad": null
+      },
+      {
+        "id": "pmvy4dalomzb",
+        "nombre": "Olive",
+        "profesiones": [
+          "Empresaria"
+        ],
+        "identidades": [
+          "Femme"
+        ],
+        "edad": null
+      }
+    ],
+    "dinamicas": [
+      "Femme × Femme",
+      "Dominante × Sumisa"
+    ],
+    "tropes": [
+      "Strangers to Lovers",
+      "One Night Stand → More",
+      "Vacation Romance",
+      "Forced Proximity",
+      "Hurt/Comfort",
+      "Jealousy Trope",
+      "Love Triangle",
+      "Opposites Attract",
+      "Sex Toys / Juguetes Sexuales"
+    ],
+    "edad": [
+      "25–39"
+    ],
+    "pais_cultura": [
+      "Estados Unidos"
+    ],
+    "ubicaciones": [
+      {
+        "pais": "Estados Unidos",
+        "region": null,
+        "ciudad": null,
+        "localidad": null,
+        "lugares": [
+          "Apartamento de Kate",
+          "Club nocturno",
+          "Panadería familiar",
+          "Mercado agrícola",
+          "Parque local",
+          "Vivienda de Kate"
+        ]
+      }
+    ],
+    "epoca": "Contemporánea",
+    "periodo": null,
+    "tipo_mundo": "Realista con elementos sobrenaturales",
+    "entornos": [],
+    "idioma_original": "Inglés",
+    "pais_origen": null,
+    "ambientacion": [],
+    "content_warnings": [],
+    "spicy": 4,
+    "rapidez_romance": 4,
+    "formato": null,
+    "adaptacion": null,
+    "sagaName": null,
+    "sagaNum": null,
+    "source": "other",
+    "editions": [],
+    "saficlub": false,
+    "safi_categories": [],
+    "thaiclub": false,
+    "thai_categories": [],
+    "canal_rec": false,
+    "canal_month": null,
+    "my_rec": false,
+    "my_rec_categories": []
+  },
+  {
+    "id": "b_1793555189875_0t0os",
+    "title": "Gold",
+    "authors": [
+      "E. J. Noyes"
+    ],
+    "year": 2018,
+    "cover": "https://m.media-amazon.com/images/I/81gZvZgVsqL._SL1500_.jpg",
+    "synopsis": "Cuando pasas toda tu vida en la cima, solo hay un camino que puedes seguir.\nLa caída de la esquiadora alpina profesional Aspen Archer se produjo de la peor manera posible: un accidente que puso fin a su carrera durante una prueba en la que iba a por la medalla de oro en los Juegos Olímpicos de Vancouver de 2010. Aspen dejó atrás su vida destrozada, se recuperó de sus lesiones y ahora vive en un cómodo anonimato en estaciones de esquí de todo el mundo, dando clases a turistas e ignorando sus problemas.\nCate Tierney sabe quién es Aspen Archer, pero el último lugar en el que esperaba encontrarse con la exolímpica era durante un viaje de esquí a Australia. Herida por una relación pasada y con una hija adolescente a la que proteger, la reticencia inicial de Cate se ve rápidamente superada por su intensa atracción. Pero con las vacaciones de Cate a punto de terminar en unas pocas semanas y la aversión de Aspen a quedarse en un mismo lugar, ¿podrá su encuentro ser algo más que una aventura pasajera?\nCuando Cate descubre los secretos de Aspen, esta se ve obligada a enfrentarse a todo lo que había estado intentando olvidar. Y a todo lo que había olvidado que deseaba. Aspen ya sabe que el camino de principio a fin no siempre sale según lo planeado. Ahora tiene que averiguar cómo volver a encarrilar su vida de una vez por todas.",
+    "pages": 2018,
+    "isbn": "9781594936104",
+    "wattpad": null,
+    "ship": [],
+    "genres": [
+      "Romance",
+      "Contemporánea",
+      "Drama",
+      "Comedia Romántica"
+    ],
+    "subgenres": [
+      "Deporte",
+      "Queer",
+      "Familia",
+      "Autodescubrimiento",
+      "Segunda Oportunidad",
+      "BDSM",
+      "Bisexual",
+      "Celebridad",
+      "Coming Out",
+      "Erótica",
+      "Navidad",
+      "Small Town",
+      "Universidad"
+    ],
+    "identidades": [
+      "Otro",
+      "Femme"
+    ],
+    "characters": [
+      "Fisioterapeuta"
+    ],
+    "protagonistas": [
+      {
+        "id": "pmvy4evags9z",
+        "nombre": "Aspen Archer",
+        "profesiones": [],
+        "identidades": [],
+        "edad": 32
+      },
+      {
+        "id": "pmvy4evagzc3",
+        "nombre": "Cate",
+        "profesiones": [
+          "Fisioterapeuta"
+        ],
+        "identidades": [
+          "Femme"
+        ],
+        "edad": 40
+      }
+    ],
+    "dinamicas": [
+      "Femme × Femme",
+      "Butch × Femme"
+    ],
+    "tropes": [
+      "Vacation Romance",
+      "Strangers to Lovers",
+      "Age Gap",
+      "Opposites Attract",
+      "Hurt/Comfort",
+      "One Night Stand → More",
+      "Second Chance Romance",
+      "Workplace Romance"
+    ],
+    "edad": [
+      "25–39",
+      "+40"
+    ],
+    "pais_cultura": [],
+    "ubicaciones": [],
+    "epoca": "Contemporánea",
+    "periodo": "2017",
+    "tipo_mundo": "Realista",
+    "entornos": [],
+    "idioma_original": "Inglés",
+    "pais_origen": null,
+    "ambientacion": [],
+    "content_warnings": [],
+    "spicy": 5,
+    "rapidez_romance": 4,
+    "formato": "Saga",
+    "adaptacion": null,
+    "sagaName": "No pertenece a una serie identificada en el EPUB.",
+    "sagaNum": null,
+    "source": "other",
     "editions": [],
     "saficlub": false,
     "safi_categories": [],
