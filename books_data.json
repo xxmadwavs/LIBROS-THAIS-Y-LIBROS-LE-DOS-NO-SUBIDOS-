@@ -13150,5 +13150,118 @@
     "canal_month": null,
     "my_rec": false,
     "my_rec_categories": []
+  },
+  {
+    "id": "b_1794047951497_5der8",
+    "title": "Love Me to Hurt Me",
+    "authors": [
+      "Lalanon"
+    ],
+    "year": 2026,
+    "cover": "https://cdn-local.mebmarket.com/meb/server1/481099/Thumbnail/book_detail_large.gif?3",
+    "synopsis": "Kasira es fuerza, orgullo y pasión. Atthawadi es paciencia, sinceridad y devoción silenciosa. En su día fueron amantes, hasta que una dolorosa traición las separó. Años después, Kasira sigue sin poder perdonar a la mujer que creía que la había engañado.\n\nCuando Atthawadi vuelve a su vida, resurgen viejas heridas y sentimientos. Entonces, un despiadado hombre de negocios pone sus ojos en las tierras y la fortuna de la familia Maneeya.\n\nCon el amor y la familia en juego, ¿cómo afrontará Kasira las dos batallas que ahora se le presentan?",
+    "pages": 449,
+    "isbn": null,
+    "wattpad": null,
+    "ship": [
+      "TanYuyu"
+    ],
+    "genres": [
+      "Romance",
+      "Drama",
+      "Contemporánea"
+    ],
+    "subgenres": [
+      "Familia",
+      "Queer",
+      "Segunda Oportunidad"
+    ],
+    "identidades": [
+      "Femme"
+    ],
+    "characters": [
+      "Enfermera",
+      "Gestión"
+    ],
+    "protagonistas": [
+      {
+        "id": "pmw69rz6viea",
+        "nombre": "Kasira",
+        "profesiones": [
+          "Gestión"
+        ],
+        "identidades": [
+          "Femme"
+        ],
+        "edad": null
+      },
+      {
+        "id": "pmw69rz6v3jt",
+        "nombre": "Atthawadee",
+        "profesiones": [
+          "Enfermera"
+        ],
+        "identidades": [
+          "Femme"
+        ],
+        "edad": null
+      }
+    ],
+    "dinamicas": [
+      "Femme × Femme"
+    ],
+    "tropes": [
+      "Friends to Lovers",
+      "Second Chance Romance",
+      "Jealousy Trope",
+      "Hurt/Comfort",
+      "Secret Relationship"
+    ],
+    "edad": [],
+    "pais_cultura": [
+      "Tailandia"
+    ],
+    "ubicaciones": [
+      {
+        "pais": "Tailandia",
+        "region": null,
+        "ciudad": null,
+        "localidad": null,
+        "lugares": [
+          "Granja Manee-Ya",
+          "Viñedo",
+          "Hospital",
+          "Casa familiar y playa/isla en los capítulos finales"
+        ]
+      }
+    ],
+    "epoca": "Contemporánea",
+    "periodo": null,
+    "tipo_mundo": "Realista",
+    "entornos": [
+      "Hospital",
+      "Campo",
+      "Isla"
+    ],
+    "idioma_original": "Español",
+    "pais_origen": null,
+    "ambientacion": [],
+    "content_warnings": [],
+    "spicy": null,
+    "rapidez_romance": 4,
+    "formato": null,
+    "adaptacion": null,
+    "sagaName": null,
+    "sagaNum": null,
+    "source": "thais",
+    "editions": [],
+    "saficlub": false,
+    "safi_categories": [],
+    "thaiclub": false,
+    "thai_categories": [],
+    "canal_rec": false,
+    "canal_month": null,
+    "my_rec": false,
+    "my_rec_categories": []
   }
 ]
