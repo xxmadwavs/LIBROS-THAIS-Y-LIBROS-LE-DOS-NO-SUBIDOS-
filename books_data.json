@@ -13491,5 +13491,466 @@
     "canal_month": null,
     "my_rec": false,
     "my_rec_categories": []
+  },
+  {
+    "id": "b_1795799192980_xmcep",
+    "title": "Enemigas en Navidad",
+    "authors": [
+      "Eva Gonzay",
+      "Julia C. Brown"
+    ],
+    "year": 2026,
+    "cover": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/I/71qQtYPVfEL._SL1500_.jpg",
+    "synopsis": "Amber Carver tiene cuarenta y cinco años, un divorcio a sus espaldas y una afición que se toma mucho más en serio de lo que debería: la decoración navideña. Durante los últimos veinte años ha convertido su casa en la estrella de Ashby Hollow y ha ganado dieciséis veces el concurso del pueblo. Este año piensa repetir victoria.\nHasta que Elena Bishop se muda justo enfrente.\nCon treinta y cinco años, una sonrisa descarada y un entusiasmo por la Navidad que rivaliza con el suyo, Elena no solo amenaza con arrebatarle el primer puesto, sino que parece empeñada en sacarla de sus casillas… y de paso, conquistarla.\nLo que comienza como una guerra de luces, adornos y fachadas acaba convirtiéndose en una competición mucho más peligrosa cuando ambas empiezan a trabajar juntas en el hospital y la atracción entre ellas resulta imposible de ignorar.\nEsta Navidad, Amber descubrirá que no todas las competiciones se ganan con luces y guirnaldas. Y que el mayor riesgo quizá sea dejar de luchar contra lo que siente.",
+    "pages": 197,
+    "isbn": null,
+    "wattpad": null,
+    "ship": [],
+    "genres": [
+      "Romance",
+      "Contemporánea",
+      "Comedia Romántica",
+      "Drama"
+    ],
+    "subgenres": [],
+    "identidades": [
+      "Femme"
+    ],
+    "characters": [
+      "Enfermera",
+      "Médica de urgencias"
+    ],
+    "protagonistas": [
+      {
+        "id": "pmwz8fak4p97",
+        "nombre": "Amber",
+        "profesiones": [
+          "Médica de urgencias"
+        ],
+        "identidades": [
+          "Femme"
+        ],
+        "edad": 45
+      },
+      {
+        "id": "pmwz8fak4b93",
+        "nombre": "Elena",
+        "profesiones": [
+          "Enfermera"
+        ],
+        "identidades": [
+          "Femme"
+        ],
+        "edad": 35
+      }
+    ],
+    "dinamicas": [
+      "Femme × Femme",
+      "Boss × Employee",
+      "Jefa × Subordinada"
+    ],
+    "tropes": [
+      "Enemies to Lovers",
+      "Workplace Romance",
+      "Forced Proximity",
+      "Opposites Attract",
+      "Second Chance Romance",
+      "Jealousy Trope"
+    ],
+    "edad": [
+      "25–39",
+      "+40"
+    ],
+    "pais_cultura": [
+      "Estados Unidos"
+    ],
+    "ubicaciones": [
+      {
+        "pais": "Estados Unidos",
+        "region": null,
+        "ciudad": "Ashby Hollow",
+        "localidad": null,
+        "lugares": []
+      },
+      {
+        "pais": "Estados Unidos",
+        "region": null,
+        "ciudad": "Tampa",
+        "localidad": null,
+        "lugares": []
+      },
+      {
+        "pais": "Reino Unido",
+        "region": null,
+        "ciudad": "Londres",
+        "localidad": null,
+        "lugares": []
+      }
+    ],
+    "epoca": "Contemporánea",
+    "periodo": null,
+    "tipo_mundo": "Realista",
+    "entornos": [
+      "Hospital",
+      "Ciudad"
+    ],
+    "idioma_original": "Español",
+    "pais_origen": [
+      "España"
+    ],
+    "ambientacion": [],
+    "content_warnings": [],
+    "spicy": 3,
+    "rapidez_romance": 4,
+    "formato": null,
+    "adaptacion": null,
+    "sagaName": null,
+    "sagaNum": null,
+    "source": "spanish",
+    "traduccion": null,
+    "editions": [],
+    "saficlub": false,
+    "safi_categories": [],
+    "thaiclub": false,
+    "thai_categories": [],
+    "canal_rec": false,
+    "canal_month": null,
+    "my_rec": false,
+    "my_rec_categories": []
+  },
+  {
+    "id": "b_1795799250571_hz769",
+    "title": "Un trío por Navidad",
+    "authors": [
+      "Verónica Espinosa"
+    ],
+    "year": 2026,
+    "cover": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/I/81AoAMMOffL._SL1500_.jpg",
+    "synopsis": "Tres mujeres. Un pueblo nevado. Tres semanas para entender que el amor no siempre viene de dos en dos.\n\nGeno es fotógrafa de bodas y lleva doce años mirando el amor de los demás a través de un visor. Tania lleva quince años guardando bombones en un cajón y pidiendo permiso para todo. Natalia es la directora creativa más brillante de su agencia y tiene una frase perfecta para cada ocasión, salvo para las que importan.\n\nLas tres suben a Valdenieve, un pueblo perdido del Pirineo aragonés, para organizar la boda de Raúl y Víctor el día de Navidad. Lo que no esperan es que Natalia sea la ex que Geno nunca superó, ni que la voz que Tania lleva un año escuchando por el auricular tenga por fin cara, cuerpo y unos ojos verdes de infarto.\n\nUna nevada las deja atrapadas en una casa con tabiques de papel y una sola cama grande, en un pueblo de trescientos vecinos donde todo se sabe antes de que pase. Y para no perder la cabeza, firman un reglamento de siete normas. La primera dice que lo que pase entre dos lo sabrá la tercera antes de que acabe el día.\n\nNinguna contaba con lo difícil que iba a ser cumplirla.",
+    "pages": 361,
+    "isbn": null,
+    "wattpad": null,
+    "ship": [],
+    "genres": [
+      "Romance",
+      "Comedia Romántica",
+      "Contemporánea",
+      "Drama"
+    ],
+    "subgenres": [],
+    "identidades": [
+      "Femme",
+      "Butch"
+    ],
+    "characters": [
+      "Fotógrafa",
+      "Repostera",
+      "Directora creativa",
+      "Fotógrafa profesional"
+    ],
+    "protagonistas": [
+      {
+        "id": "pmwz8hgr637q",
+        "nombre": "Tania",
+        "profesiones": [
+          "Repostera"
+        ],
+        "identidades": [
+          "Femme"
+        ],
+        "edad": null
+      },
+      {
+        "id": "pmwz8hgr7hn1",
+        "nombre": "Natalia",
+        "profesiones": [
+          "Directora creativa"
+        ],
+        "identidades": [
+          "Femme"
+        ],
+        "edad": null
+      },
+      {
+        "id": "pmwz8hgr73fj",
+        "nombre": "Geno",
+        "profesiones": [
+          "Fotógrafa profesional"
+        ],
+        "identidades": [
+          "Butch"
+        ],
+        "edad": null
+      }
+    ],
+    "dinamicas": [
+      "Femme × Femme",
+      "Butch × Femme",
+      "Feroz × Tierna",
+      "Caos × Control"
+    ],
+    "tropes": [
+      "Forced Proximity",
+      "Opposites Attract",
+      "Workplace Romance",
+      "Jealousy Trope",
+      "Friends to Lovers"
+    ],
+    "edad": [
+      "25–39"
+    ],
+    "pais_cultura": [
+      "España"
+    ],
+    "ubicaciones": [
+      {
+        "pais": "España",
+        "region": "Aragón",
+        "ciudad": "Valdenieve",
+        "localidad": null,
+        "lugares": [
+          "Área de servicio de Biescas"
+        ]
+      },
+      {
+        "pais": "España",
+        "region": null,
+        "ciudad": "Madrid",
+        "localidad": null,
+        "lugares": []
+      },
+      {
+        "pais": "España",
+        "region": null,
+        "ciudad": "Valencia",
+        "localidad": null,
+        "lugares": []
+      },
+      {
+        "pais": "España",
+        "region": null,
+        "ciudad": "Jaca",
+        "localidad": null,
+        "lugares": []
+      },
+      {
+        "pais": "España",
+        "region": null,
+        "ciudad": "Borda",
+        "localidad": null,
+        "lugares": []
+      }
+    ],
+    "epoca": "Contemporánea",
+    "periodo": "2026",
+    "tipo_mundo": "Realista",
+    "entornos": [
+      "Pueblo pequeño",
+      "Ciudad"
+    ],
+    "idioma_original": "Español",
+    "pais_origen": null,
+    "ambientacion": [],
+    "content_warnings": [],
+    "spicy": 5,
+    "rapidez_romance": 4,
+    "formato": null,
+    "adaptacion": null,
+    "sagaName": null,
+    "sagaNum": null,
+    "source": "spanish",
+    "traduccion": null,
+    "editions": [],
+    "saficlub": false,
+    "safi_categories": [],
+    "thaiclub": false,
+    "thai_categories": [],
+    "canal_rec": false,
+    "canal_month": null,
+    "my_rec": false,
+    "my_rec_categories": []
+  },
+  {
+    "id": "b_1795799401199_dk2cs",
+    "title": "Hermanas Taylor",
+    "authors": [
+      "Eva Gonzay",
+      "Julia C. Brown"
+    ],
+    "year": 2026,
+    "cover": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/I/61H7VWaKAJL._SL1500_.jpg",
+    "synopsis": "Las cuatro hermanas Taylor en un solo libro.\n\n1 - Hotel Mallois\n2 - Cruceros Taylor\n3 - The Heaven\n4 - Pontia Taylor",
+    "pages": 607,
+    "isbn": null,
+    "wattpad": null,
+    "ship": [],
+    "genres": [
+      "Romance",
+      "Contemporánea",
+      "Comedia Romántica",
+      "Drama"
+    ],
+    "subgenres": [],
+    "identidades": [
+      "Femme"
+    ],
+    "characters": [
+      "Chef",
+      "Empresaria",
+      "Cocinera",
+      "Ejecutiva",
+      "Propietaria de The Heaven",
+      "Música profesional",
+      "Trabaja",
+      "Agente inmobiliaria"
+    ],
+    "protagonistas": [
+      {
+        "id": "pmwz8j63nncp",
+        "nombre": "Katherine",
+        "profesiones": [
+          "Empresaria"
+        ],
+        "identidades": [
+          "Femme"
+        ],
+        "edad": 42
+      },
+      {
+        "id": "pmwz8j63n2jm",
+        "nombre": "Jodie",
+        "profesiones": [
+          "Cocinera",
+          "Chef"
+        ],
+        "identidades": [
+          "Femme"
+        ],
+        "edad": null
+      },
+      {
+        "id": "pmwz8j63nwi8",
+        "nombre": "Caroline",
+        "profesiones": [
+          "Empresaria"
+        ],
+        "identidades": [
+          "Femme"
+        ],
+        "edad": 31
+      },
+      {
+        "id": "pmwz8j63ner8",
+        "nombre": "Indira",
+        "profesiones": [
+          "Empresaria",
+          "Ejecutiva"
+        ],
+        "identidades": [
+          "Femme"
+        ],
+        "edad": 43
+      },
+      {
+        "id": "pmwz8j63nywm",
+        "nombre": "Rachel",
+        "profesiones": [
+          "Empresaria",
+          "Propietaria de The Heaven"
+        ],
+        "identidades": [
+          "Femme"
+        ],
+        "edad": 50
+      },
+      {
+        "id": "pmwz8j63n4o7",
+        "nombre": "Camila",
+        "profesiones": [],
+        "identidades": [
+          "Femme"
+        ],
+        "edad": null
+      },
+      {
+        "id": "pmwz8j63nkuy",
+        "nombre": "Dakota",
+        "profesiones": [
+          "Música profesional",
+          "Trabaja"
+        ],
+        "identidades": [],
+        "edad": 32
+      },
+      {
+        "id": "pmwz8j63nw18",
+        "nombre": "Pontia",
+        "profesiones": [],
+        "identidades": [
+          "Femme"
+        ],
+        "edad": null
+      },
+      {
+        "id": "pmwz8j63njuj",
+        "nombre": "Lily",
+        "profesiones": [
+          "Agente inmobiliaria"
+        ],
+        "identidades": [
+          "Femme"
+        ],
+        "edad": 40
+      }
+    ],
+    "dinamicas": [
+      "Femme × Femme",
+      "Jefa × Subordinada",
+      "Feroz × Tierna",
+      "Caos × Control",
+      "Rich × Poor"
+    ],
+    "tropes": [
+      "Workplace Romance",
+      "Forced Proximity",
+      "Opposites Attract",
+      "Second Chance Romance",
+      "Friends to Lovers",
+      "Age Gap",
+      "Found Family"
+    ],
+    "edad": [
+      "+40",
+      "25–39"
+    ],
+    "pais_cultura": [],
+    "ubicaciones": [],
+    "epoca": "Contemporánea",
+    "periodo": null,
+    "tipo_mundo": "Realista",
+    "entornos": [
+      "Ciudad"
+    ],
+    "idioma_original": "Español",
+    "pais_origen": null,
+    "ambientacion": [],
+    "content_warnings": [],
+    "spicy": null,
+    "rapidez_romance": null,
+    "formato": null,
+    "adaptacion": null,
+    "sagaName": null,
+    "sagaNum": null,
+    "source": "spanish",
+    "traduccion": null,
+    "editions": [],
+    "saficlub": false,
+    "safi_categories": [],
+    "thaiclub": false,
+    "thai_categories": [],
+    "canal_rec": false,
+    "canal_month": null,
+    "my_rec": false,
+    "my_rec_categories": []
   }
 ]
