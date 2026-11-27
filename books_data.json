@@ -5891,7 +5891,7 @@
     "canal_month": null,
     "my_rec": false,
     "my_rec_categories": []
-  },  
+  },
   {
     "id": "b_1792927960361_jpdhe",
     "title": "Fake It",
@@ -11700,6 +11700,1067 @@
     "content_warnings": [],
     "spicy": null,
     "rapidez_romance": null,
+    "formato": null,
+    "adaptacion": null,
+    "sagaName": null,
+    "sagaNum": null,
+    "source": "spanish",
+    "traduccion": null,
+    "editions": [],
+    "saficlub": false,
+    "safi_categories": [],
+    "thaiclub": false,
+    "thai_categories": [],
+    "canal_rec": false,
+    "canal_month": null,
+    "my_rec": false,
+    "my_rec_categories": []
+  },
+  {
+    "id": "b_1795816114217_hxnhm",
+    "title": "Christmas in Heaven",
+    "authors": [
+      "Lise Gold"
+    ],
+    "year": 2022,
+    "cover": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/I/81oc1G-ZXUL._SL1500_.jpg",
+    "synopsis": "Helen trabaja para Heaven, una agencia matrimonial de lujo con un enfoque personalizado y a medida. Como es la casamentera número uno de la empresa, no puede de ninguna manera presentarse sola a la fiesta de Navidad de la empresa, pero le cuesta mucho encontrar una pareja.\n\nMatilda es una organizadora de eventos corporativos contratada por Helen para organizar la fiesta de Navidad de Heaven. En la época más ajetreada del año, está desbordada de trabajo, pero se ve distraída por la guapa casamentera, que tiene un enfoque terriblemente poco romántico a la hora de encontrar el amor.\n\nSegún Helen, son una pareja hecha en el infierno, y se aferra firmemente a su convicción de que el amor duradero solo se puede encontrar a través de un extenso cuestionario de compatibilidad. Pero quizá a su compleja fórmula le falte ese ingrediente crucial: una pizca de magia navideña.",
+    "pages": 138,
+    "isbn": null,
+    "wattpad": null,
+    "ship": [],
+    "genres": [
+      "Romance",
+      "Contemporánea",
+      "Comedia Romántica"
+    ],
+    "subgenres": [
+      "Navidad",
+      "Queer",
+      "Familia",
+      "Autodescubrimiento",
+      "Celebridad"
+    ],
+    "identidades": [
+      "Femme"
+    ],
+    "characters": [
+      "Casamentera profesional",
+      "Organizadora",
+      "Planificadora profesional de eventos"
+    ],
+    "protagonistas": [
+      {
+        "id": "pmwziimvwhc6",
+        "nombre": "Helen",
+        "profesiones": [
+          "Casamentera profesional"
+        ],
+        "identidades": [
+          "Femme"
+        ],
+        "edad": 35
+      },
+      {
+        "id": "pmwziimvwe3j",
+        "nombre": "Matilda",
+        "profesiones": [
+          "Organizadora",
+          "Planificadora profesional de eventos"
+        ],
+        "identidades": [
+          "Femme"
+        ],
+        "edad": 30
+      }
+    ],
+    "dinamicas": [
+      "Femme × Femme",
+      "Feroz × Tierna",
+      "Caos × Control",
+      "Top × Bottom"
+    ],
+    "tropes": [
+      "Workplace Romance",
+      "Opposites Attract",
+      "Friends to Lovers"
+    ],
+    "edad": [
+      "25–39"
+    ],
+    "pais_cultura": [
+      "Reino Unido"
+    ],
+    "ubicaciones": [
+      {
+        "pais": "Reino Unido",
+        "region": "Inglaterra",
+        "ciudad": "Londres",
+        "localidad": null,
+        "lugares": []
+      }
+    ],
+    "epoca": "Contemporánea",
+    "periodo": null,
+    "tipo_mundo": "Realista",
+    "entornos": [
+      "Empresa",
+      "Ciudad"
+    ],
+    "idioma_original": "Inglés",
+    "pais_origen": null,
+    "ambientacion": [],
+    "content_warnings": [],
+    "spicy": 4,
+    "rapidez_romance": 4,
+    "formato": null,
+    "adaptacion": null,
+    "sagaName": null,
+    "sagaNum": null,
+    "source": "other",
+    "traduccion": null,
+    "editions": [],
+    "saficlub": false,
+    "safi_categories": [],
+    "thaiclub": false,
+    "thai_categories": [],
+    "canal_rec": false,
+    "canal_month": null,
+    "my_rec": false,
+    "my_rec_categories": []
+  },
+  {
+    "id": "b_1795816300290_fye7v",
+    "title": "A Most Wonderful Time",
+    "authors": [
+      "Easter Kingston"
+    ],
+    "year": 2026,
+    "cover": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/I/71SFd2vfitL._SL1500_.jpg",
+    "synopsis": "Como nueva directora general de una empresa biomédica, Zoe ha sobrevivido a traiciones privadas, escándalos públicos y a su mejor amiga, Alma, que la ha dejado atrapada en medio de una ventisca en Colorado, sin más remedio que pasar las vacaciones con la familia de Alma. Pero lo que le espera a Zoe en la acogedora cabaña de montaña de su amiga podría ser su situación más peligrosa hasta la fecha:\n\nHanna Kaplan va a matarla.\n\nHanna es cautivadora, intrépida y tiene un físico como si acabara de llegar directamente del campo de batalla de Troya. También es la futura cuñada de Alma, lo que significa que está fuera de su alcance. Aterrorizada ante la idea de poner en peligro a la única familia de verdad que tiene por una relación que está abocada al desastre, Zoe hará lo que sea necesario para resistirse a la ardiente química que hay entre ellas, aunque eso signifique asesinar a Papá Noel, jugar al láser tag con Jesús y enfundarse una serie de atuendos cada vez más ridículos.",
+    "pages": 436,
+    "isbn": "9798995814511",
+    "wattpad": null,
+    "ship": [],
+    "genres": [
+      "Romance",
+      "Contemporánea",
+      "Comedia Romántica",
+      "Drama"
+    ],
+    "subgenres": [
+      "Navidad",
+      "Queer",
+      "Familia",
+      "Autodescubrimiento"
+    ],
+    "identidades": [
+      "Femme"
+    ],
+    "characters": [
+      "Profesora",
+      "Directora ejecutiva de Austra Biogenics",
+      "Profesora de inglés"
+    ],
+    "protagonistas": [
+      {
+        "id": "pmwzik8zrrr8",
+        "nombre": "Zoe",
+        "profesiones": [
+          "Directora ejecutiva de Austra Biogenics"
+        ],
+        "identidades": [
+          "Femme"
+        ],
+        "edad": 34
+      },
+      {
+        "id": "pmwzik8zr3io",
+        "nombre": "Hanna",
+        "profesiones": [
+          "Profesora de inglés"
+        ],
+        "identidades": [
+          "Femme"
+        ],
+        "edad": null
+      }
+    ],
+    "dinamicas": [
+      "Femme × Femme",
+      "Grumpy × Sunshine",
+      "Ice Queen × Sunshine",
+      "Caos × Control",
+      "Rich × Poor"
+    ],
+    "tropes": [
+      "Forced Proximity",
+      "Opposites Attract",
+      "One Night Stand → More",
+      "Strangers to Lovers",
+      "Friends to Lovers",
+      "Slow Burn"
+    ],
+    "edad": [
+      "25–39"
+    ],
+    "pais_cultura": [
+      "Estados Unidos"
+    ],
+    "ubicaciones": [
+      {
+        "pais": "Estados Unidos",
+        "region": "Colorado",
+        "ciudad": "Los Ángeles",
+        "localidad": null,
+        "lugares": [
+          "Centro escolar donde trabaja Hanna"
+        ]
+      },
+      {
+        "pais": "Estados Unidos",
+        "region": null,
+        "ciudad": "Denver",
+        "localidad": null,
+        "lugares": []
+      },
+      {
+        "pais": "Estados Unidos",
+        "region": null,
+        "ciudad": "Washington D. C.",
+        "localidad": null,
+        "lugares": []
+      }
+    ],
+    "epoca": "Contemporánea",
+    "periodo": null,
+    "tipo_mundo": "Realista",
+    "entornos": [
+      "Ciudad"
+    ],
+    "idioma_original": "Inglés",
+    "pais_origen": null,
+    "ambientacion": [],
+    "content_warnings": [],
+    "spicy": 4,
+    "rapidez_romance": 3,
+    "formato": null,
+    "adaptacion": null,
+    "sagaName": null,
+    "sagaNum": null,
+    "source": "other",
+    "traduccion": null,
+    "editions": [],
+    "saficlub": false,
+    "safi_categories": [],
+    "thaiclub": false,
+    "thai_categories": [],
+    "canal_rec": false,
+    "canal_month": null,
+    "my_rec": false,
+    "my_rec_categories": []
+  },
+  {
+    "id": "b_1795816392970_j5brb",
+    "title": "Christmas Mouse",
+    "authors": [
+      "Rachel Spangler"
+    ],
+    "year": 2022,
+    "cover": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/I/71MlpaYJbFL._SL1500_.jpg",
+    "synopsis": "¿Qué es lo que hace que una Navidad sea perfecta? ¿Dónde o cómo la pasas, o quizá con quién la compartes?\n\nA Ava Collins, una ebanista de un pueblecito, y a Bex Leone, una médica de la gran ciudad, les encanta la Navidad. Algunos podrían llegar incluso a decir que están obsesionadas. Les encanta la música navideña, la comida navideña, los villancicos y las películas navideñas. Cuando las dos mujeres se conocen durante una cena de Acción de Gracias, por un instante parece que por fin han encontrado a su media naranja bajo el muérdago, pero su conexión inicial se va al traste cuando se dan cuenta de que sus ideas sobre lo que constituye una Navidad ideal difieren tanto como los lugares que eligen para pasar las fiestas. Ava encaja en el idílico y rústico Vermont tanto como Bex en el brillo y el esplendor de la ciudad de Nueva York. Lo que empieza como una discusión amistosa sobre quién tiene la mejor forma de celebrar estas fiestas termina en una apuesta amistosa: el ratón del campo y el ratón de la ciudad se repartirán las fiestas a partes iguales en un intento por convencer a la otra de que su forma de celebrarlas es el camino más auténtico hacia la felicidad navideña.\n\nAva acepta pasar dos fines de semana en el territorio de Bex, en Manhattan, siempre y cuando Bex vaya a visitarla a las montañas de Vermont durante los otros dos. Durante un mes vertiginoso, cada una se esfuerza por mostrar sus tradiciones, recuerdos y momentos mágicos favoritos. A medida que los días nevados dan paso a noches iluminadas por las estrellas, Bex y Ava descubren que los ideales que las unieron ofrecen más puntos en común de lo que ninguna de las dos esperaba, pero, a medida que se van acercando más la una a la otra, comienzan a temer que, para dar rienda suelta a su conexión cada vez más profunda, cada una tenga que renunciar a partes muy queridas de sí misma.\n\nCon el gran día acercándose a pasos agigantados, las preguntas siguen sin respuesta: ¿Quién ganará la apuesta? Y, quizás lo más importante, ¿qué están dispuestas a perder en el proceso?",
+    "pages": 296,
+    "isbn": null,
+    "wattpad": null,
+    "ship": [],
+    "genres": [
+      "Romance",
+      "Contemporánea",
+      "Comedia Romántica",
+      "Drama"
+    ],
+    "subgenres": [
+      "Navidad",
+      "Queer",
+      "Familia",
+      "Autodescubrimiento",
+      "Small Town",
+      "Erótica"
+    ],
+    "identidades": [
+      "Andrógina",
+      "Femme"
+    ],
+    "characters": [
+      "Médica anestesióloga",
+      "Carpintera",
+      "Trabajadora de la madera"
+    ],
+    "protagonistas": [
+      {
+        "id": "pmwzio96w71q",
+        "nombre": "Bex",
+        "profesiones": [
+          "Médica anestesióloga"
+        ],
+        "identidades": [
+          "Andrógina"
+        ],
+        "edad": null
+      },
+      {
+        "id": "pmwzio96wzfi",
+        "nombre": "Ava",
+        "profesiones": [
+          "Carpintera",
+          "Trabajadora de la madera"
+        ],
+        "identidades": [
+          "Femme"
+        ],
+        "edad": null
+      }
+    ],
+    "dinamicas": [
+      "Andrógina × Femme",
+      "Rich × Poor"
+    ],
+    "tropes": [
+      "Age Gap",
+      "Opposites Attract",
+      "Forced Proximity",
+      "Strangers to Lovers",
+      "Slow Burn",
+      "Found Family"
+    ],
+    "edad": [
+      "25–39"
+    ],
+    "pais_cultura": [
+      "Estados Unidos"
+    ],
+    "ubicaciones": [
+      {
+        "pais": "Estados Unidos",
+        "region": "Vermont",
+        "ciudad": "Nueva York",
+        "localidad": null,
+        "lugares": [
+          "Tribeca",
+          "Manhattan",
+          "Central Park",
+          "Wollman Rink",
+          "Radio City Music Hall",
+          "Rockefeller Center",
+          "Macy’s",
+          "Lillie’s",
+          "Rolf’s",
+          "Union Square",
+          "Bryant Park Winter Village",
+          "Columbus Circle",
+          "Penn Station",
+          "Aeropuerto JFK"
+        ]
+      },
+      {
+        "pais": "Estados Unidos",
+        "region": null,
+        "ciudad": "Burlington",
+        "localidad": null,
+        "lugares": []
+      },
+      {
+        "pais": "Estados Unidos",
+        "region": null,
+        "ciudad": "Vermont",
+        "localidad": null,
+        "lugares": []
+      }
+    ],
+    "epoca": "Contemporánea",
+    "periodo": null,
+    "tipo_mundo": "Realista",
+    "entornos": [
+      "Ciudad"
+    ],
+    "idioma_original": "Inglés",
+    "pais_origen": null,
+    "ambientacion": [],
+    "content_warnings": [],
+    "spicy": 5,
+    "rapidez_romance": 3,
+    "formato": null,
+    "adaptacion": null,
+    "sagaName": null,
+    "sagaNum": null,
+    "source": "other",
+    "traduccion": null,
+    "editions": [],
+    "saficlub": false,
+    "safi_categories": [],
+    "thaiclub": false,
+    "thai_categories": [],
+    "canal_rec": false,
+    "canal_month": null,
+    "my_rec": false,
+    "my_rec_categories": []
+  },
+  {
+    "id": "b_1795816757800_16tkh",
+    "title": "Christmas Tree Farm",
+    "authors": [
+      "Rachel Spangler"
+    ],
+    "year": 2026,
+    "cover": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/I/81j+H43pAkL._SL1500_.jpg",
+    "synopsis": "Marlee Jacobs, que acaba de perder su trabajo en marketing, no busca un romance navideño. Solo espera sobrevivir a estas fiestas, una tarea que parece cada vez más insuperable cuando su coche se sale de la carretera durante una tormenta de nieve. Por suerte, la rescata el competente —aunque gruñón— Wynn Paxton, justo cuando él y su familia se están preparando para la ajetreada temporada en su querida, aunque en apuros, plantación de árboles de Navidad.\n\nAl considerar este encuentro una casualidad afortunada, los amigos y familiares de ambas mujeres las convencen para que acepten un acuerdo a regañadientes: Marlee se encargará de las redes sociales de la granja durante las fiestas a cambio de una parte de cada árbol vendido. ¿El problema? Solo cobrará si superan las cifras del año pasado.\n\nLas cosas no empiezan precisamente con buen pie. Wynn tiene que defender una tradición familiar de generaciones y le molesta que Marlee introduzca cambios, mientras que Marlee se cansa rápidamente de que le pongan trabas. Sin embargo, a medida que se ven obligadas a trabajar juntas, las tendencias de Internet y las diatribas sobre la tradición dan paso a vínculos más auténticos, tanto con el trabajo como entre ellas. Las noches nevadas, el chocolate caliente, el pino recién cortado y los besos bajo el muérdago resultan difíciles de resistir, pero ¿podrá la pareja que unió fuerzas únicamente para crear la magia navideña forjar algo real incluso cuando se acabe la temporada navideña?",
+    "pages": 282,
+    "isbn": null,
+    "wattpad": null,
+    "ship": [],
+    "genres": [
+      "Romance",
+      "Contemporánea",
+      "Comedia Romántica",
+      "Drama"
+    ],
+    "subgenres": [
+      "Navidad",
+      "Queer",
+      "Familia",
+      "Autodescubrimiento",
+      "Erótica"
+    ],
+    "identidades": [
+      "Femme"
+    ],
+    "characters": [
+      "Especialista en marketing",
+      "Gestión de redes sociales",
+      "Agricultora",
+      "Cultivadora de árboles de Navidad"
+    ],
+    "protagonistas": [
+      {
+        "id": "pmwzivzdke2u",
+        "nombre": "Marlee",
+        "profesiones": [
+          "Especialista en marketing",
+          "Gestión de redes sociales"
+        ],
+        "identidades": [
+          "Femme"
+        ],
+        "edad": null
+      },
+      {
+        "id": "pmwzivzdk0ze",
+        "nombre": "Wynn",
+        "profesiones": [
+          "Agricultora",
+          "Cultivadora de árboles de Navidad"
+        ],
+        "identidades": [],
+        "edad": null
+      }
+    ],
+    "dinamicas": [
+      "Grumpy × Sunshine",
+      "Caos × Control",
+      "Masc × Femme",
+      "Boss × Employee"
+    ],
+    "tropes": [
+      "Forced Proximity",
+      "Opposites Attract",
+      "Strangers to Lovers",
+      "Workplace Romance",
+      "Slow Burn",
+      "Found Family"
+    ],
+    "edad": [
+      "25–39"
+    ],
+    "pais_cultura": [
+      "Estados Unidos"
+    ],
+    "ubicaciones": [
+      {
+        "pais": "Estados Unidos",
+        "region": "Oeste de Nueva York",
+        "ciudad": "Buffalo",
+        "localidad": null,
+        "lugares": []
+      }
+    ],
+    "epoca": "Contemporánea",
+    "periodo": null,
+    "tipo_mundo": "Realista",
+    "entornos": [
+      "Campo",
+      "Ciudad"
+    ],
+    "idioma_original": "Inglés",
+    "pais_origen": null,
+    "ambientacion": [],
+    "content_warnings": [],
+    "spicy": 5,
+    "rapidez_romance": 3,
+    "formato": null,
+    "adaptacion": null,
+    "sagaName": null,
+    "sagaNum": null,
+    "source": "other",
+    "traduccion": null,
+    "editions": [],
+    "saficlub": false,
+    "safi_categories": [],
+    "thaiclub": false,
+    "thai_categories": [],
+    "canal_rec": false,
+    "canal_month": null,
+    "my_rec": false,
+    "my_rec_categories": []
+  },
+  {
+    "id": "b_1795816852053_w6a8d",
+    "title": "Una aventura navideña",
+    "authors": [
+      "Mónica Benítez"
+    ],
+    "year": 2024,
+    "cover": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/I/710b2vhFUaL._SL1500_.jpg",
+    "synopsis": "Una tormenta de nieve obliga a Violeta a interrumpir su viaje y quedarse en Huesca cuando se dirigía al pueblo de sus padres. Mientras cena en un bar cercano a su hostal, conoce a una mujer con la que pasa la que ella considera que es la mejor noche de su vida. No intercambian números, ni siquiera se dicen el nombre, ambas saben lo que ha sido y que jamás volverán a verse.\nPero ¿qué pasa si eso cambia?\n\nOlga ha heredado la casa de sus tíos en el pueblo y después de un divorcio que la tiene ahogada económicamente, por fin siente que la cuerda se afloja cuando tiene la oportunidad de mudarse. Allí se hace amiga de Maite, su vecina, y esta la contrata para trabajar en el horno que regenta.\n\nVioleta por fin tiene vacaciones de Navidad y vuelve a marcharse al pueblo, donde pasará esos días en compañía de su madre, la dueña del horno en el que ahora trabaja Olga. Cuando Maite las presenta, las dos se quedan tan impactadas que su primera reacción es fingir que no se conocen. Olga no quiere perder su puesto y Violeta no quiere que un hecho aislado afecte la relación de amistad entre su madre y su vecina.\n\nAl fin y al cabo, Violeta solo estará allí unos días y después se marchará, podrán soportarlo. ¿O no?",
+    "pages": 193,
+    "isbn": null,
+    "wattpad": null,
+    "ship": [],
+    "genres": [
+      "Romance",
+      "Contemporánea",
+      "Comedia Romántica",
+      "Drama"
+    ],
+    "subgenres": [
+      "Navidad",
+      "Queer",
+      "Familia",
+      "Small Town",
+      "Autodescubrimiento"
+    ],
+    "identidades": [
+      "Femme"
+    ],
+    "characters": [
+      "Empleada",
+      "Ayudante de panadería"
+    ],
+    "protagonistas": [
+      {
+        "id": "pmwziypz5loe",
+        "nombre": "Violeta",
+        "profesiones": [],
+        "identidades": [
+          "Femme"
+        ],
+        "edad": 32
+      },
+      {
+        "id": "pmwziypz55d4",
+        "nombre": "Olga",
+        "profesiones": [
+          "Empleada",
+          "Ayudante de panadería"
+        ],
+        "identidades": [
+          "Femme"
+        ],
+        "edad": 42
+      }
+    ],
+    "dinamicas": [
+      "Femme × Femme",
+      "Caos × Control"
+    ],
+    "tropes": [
+      "Age Gap",
+      "One Night Stand → More",
+      "Strangers to Lovers",
+      "Opposites Attract",
+      "Workplace Romance",
+      "Secret Relationship"
+    ],
+    "edad": [
+      "25–39",
+      "+40"
+    ],
+    "pais_cultura": [
+      "España"
+    ],
+    "ubicaciones": [
+      {
+        "pais": "España",
+        "region": "Huesca",
+        "ciudad": "Alquézar",
+        "localidad": null,
+        "lugares": []
+      },
+      {
+        "pais": "España",
+        "region": null,
+        "ciudad": "Huesca",
+        "localidad": null,
+        "lugares": []
+      },
+      {
+        "pais": "España",
+        "region": null,
+        "ciudad": "Madrid",
+        "localidad": null,
+        "lugares": []
+      },
+      {
+        "pais": "España",
+        "region": null,
+        "ciudad": "Barbastro",
+        "localidad": null,
+        "lugares": []
+      }
+    ],
+    "epoca": "Contemporánea",
+    "periodo": "2023",
+    "tipo_mundo": "Realista",
+    "entornos": [
+      "Ciudad"
+    ],
+    "idioma_original": "Español",
+    "pais_origen": null,
+    "ambientacion": [],
+    "content_warnings": [],
+    "spicy": 4,
+    "rapidez_romance": 3,
+    "formato": null,
+    "adaptacion": null,
+    "sagaName": null,
+    "sagaNum": null,
+    "source": "spanish",
+    "traduccion": null,
+    "editions": [],
+    "saficlub": false,
+    "safi_categories": [],
+    "thaiclub": false,
+    "thai_categories": [],
+    "canal_rec": false,
+    "canal_month": null,
+    "my_rec": false,
+    "my_rec_categories": []
+  },
+  {
+    "id": "b_1795816925182_d2520",
+    "title": "Besar a Papá Noel",
+    "authors": [
+      "Alba M. Hernández"
+    ],
+    "year": 2024,
+    "cover": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/I/81QI0i1T9GL._SL1500_.jpg",
+    "synopsis": "Julia y Paola trabajan en la misma juguetería. Pero se detestan. No pueden ni verse. Su relación se basa en los comentarios hirientes e irónicos que se regalan. Pero un contratiempo, en plena época navideña, hará que sus vidas se detengan por un momento y provocará que todo cambie entre ellas.",
+    "pages": 238,
+    "isbn": "9798302686688",
+    "wattpad": null,
+    "ship": [],
+    "genres": [
+      "Romance",
+      "Contemporánea",
+      "Comedia Romántica",
+      "Drama"
+    ],
+    "subgenres": [
+      "Navidad",
+      "Queer",
+      "Autodescubrimiento"
+    ],
+    "identidades": [
+      "Femme"
+    ],
+    "characters": [],
+    "protagonistas": [
+      {
+        "id": "pmwzj080xzep",
+        "nombre": "Julia",
+        "profesiones": [],
+        "identidades": [
+          "Femme"
+        ],
+        "edad": 32
+      },
+      {
+        "id": "pmwzj080xrf1",
+        "nombre": "Paola",
+        "profesiones": [],
+        "identidades": [
+          "Femme"
+        ],
+        "edad": null
+      }
+    ],
+    "dinamicas": [
+      "Femme × Femme",
+      "Seria × Divertida",
+      "Caos × Control"
+    ],
+    "tropes": [
+      "Enemies to Lovers",
+      "Forced Proximity",
+      "Workplace Romance",
+      "One Night Stand → More",
+      "Slow Burn"
+    ],
+    "edad": [
+      "25–39"
+    ],
+    "pais_cultura": [
+      "España"
+    ],
+    "ubicaciones": [
+      {
+        "pais": "España",
+        "region": null,
+        "ciudad": null,
+        "localidad": null,
+        "lugares": []
+      }
+    ],
+    "epoca": "Contemporánea",
+    "periodo": null,
+    "tipo_mundo": "Realista",
+    "entornos": [
+      "Ciudad"
+    ],
+    "idioma_original": "Español",
+    "pais_origen": null,
+    "ambientacion": [],
+    "content_warnings": [],
+    "spicy": 2,
+    "rapidez_romance": 3,
+    "formato": null,
+    "adaptacion": null,
+    "sagaName": null,
+    "sagaNum": null,
+    "source": "spanish",
+    "traduccion": null,
+    "editions": [],
+    "saficlub": false,
+    "safi_categories": [],
+    "thaiclub": false,
+    "thai_categories": [],
+    "canal_rec": false,
+    "canal_month": null,
+    "my_rec": false,
+    "my_rec_categories": []
+  },
+  {
+    "id": "b_1795817004701_3v1ur",
+    "title": "Una Navidad Inesperada",
+    "authors": [
+      "Viri Vallera"
+    ],
+    "year": 2024,
+    "cover": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/I/71FAlsLhQ6L._SL1500_.jpg",
+    "synopsis": "Carolina, una escritora de erótica lésbica que evita las reuniones familiares y los clichés navideños, ve su apacible vida interrumpida cuando Amanda, una comediante sarcástica y llena de vida, decide escapar de las tensiones familiares y refugiarse en la misma casa para las fiestas.",
+    "pages": 79,
+    "isbn": null,
+    "wattpad": null,
+    "ship": [],
+    "genres": [
+      "Romance",
+      "Contemporánea",
+      "Comedia Romántica"
+    ],
+    "subgenres": [
+      "Navidad",
+      "Queer",
+      "Autodescubrimiento",
+      "Familia"
+    ],
+    "identidades": [],
+    "characters": [
+      "Escritora"
+    ],
+    "protagonistas": [
+      {
+        "id": "pmwzj234m1kx",
+        "nombre": "Carolina",
+        "profesiones": [],
+        "identidades": [],
+        "edad": null
+      },
+      {
+        "id": "pmwzj234mo9i",
+        "nombre": "Amanda",
+        "profesiones": [],
+        "identidades": [],
+        "edad": null
+      }
+    ],
+    "dinamicas": [
+      "Seria × Divertida",
+      "Caos × Control"
+    ],
+    "tropes": [
+      "Forced Proximity",
+      "Opposites Attract",
+      "Roommates",
+      "Strangers to Lovers"
+    ],
+    "edad": [],
+    "pais_cultura": [],
+    "ubicaciones": [],
+    "epoca": "Contemporánea",
+    "periodo": null,
+    "tipo_mundo": "Realista",
+    "entornos": [
+      "Ciudad"
+    ],
+    "idioma_original": "Español",
+    "pais_origen": null,
+    "ambientacion": [],
+    "content_warnings": [],
+    "spicy": 3,
+    "rapidez_romance": 4,
+    "formato": null,
+    "adaptacion": null,
+    "sagaName": null,
+    "sagaNum": null,
+    "source": "spanish",
+    "traduccion": null,
+    "editions": [],
+    "saficlub": false,
+    "safi_categories": [],
+    "thaiclub": false,
+    "thai_categories": [],
+    "canal_rec": false,
+    "canal_month": null,
+    "my_rec": false,
+    "my_rec_categories": []
+  },
+  {
+    "id": "b_1795818693220_cpgcg",
+    "title": "Pequeña gruñona",
+    "authors": [
+      "Clara Ann Simons"
+    ],
+    "year": 2022,
+    "cover": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/I/61tJ24duk1L._SL1360_.jpg",
+    "synopsis": "Martina odia la Navidad.\n\nA lo largo de su vida todo lo malo le ocurre alrededor de esas fechas y eso no puede ser casualidad.\n\nCuando la empresa en la que trabaja decide no renovar su contrato y pilla a su novio en la cama con otra, todo su mundo se derrumba.\n\nSolamente su amistad con Aitana la mantiene a flote. Ella ha estado siempre a su lado, desde que eran unas niñas.\n\nLo único que quiere es una vida feliz. Un nuevo trabajo y una pareja que esté verdaderamente enamorada de ella.\n\nPero en Navidad existen los milagros y a veces, tus deseos se cumplen de un modo distinto al que esperabas.",
+    "pages": 112,
+    "isbn": null,
+    "wattpad": null,
+    "ship": [],
+    "genres": [
+      "Romance",
+      "Contemporánea",
+      "Comedia Romántica",
+      "Drama"
+    ],
+    "subgenres": [
+      "Navidad",
+      "Queer",
+      "Autodescubrimiento",
+      "Familia"
+    ],
+    "identidades": [],
+    "characters": [
+      "Empresaria"
+    ],
+    "protagonistas": [
+      {
+        "id": "pmwzj3bxpzel",
+        "nombre": "Martina Belcher",
+        "profesiones": [],
+        "identidades": [],
+        "edad": null
+      },
+      {
+        "id": "pmwzj3bxpa8q",
+        "nombre": "Aitana",
+        "profesiones": [],
+        "identidades": [],
+        "edad": null
+      }
+    ],
+    "dinamicas": [
+      "Grumpy × Sunshine",
+      "Boss × Employee",
+      "Femme × Femme"
+    ],
+    "tropes": [
+      "Childhood Friends",
+      "Friends to Lovers",
+      "Forced Proximity",
+      "Only One Bed",
+      "Opposites Attract",
+      "Workplace Romance",
+      "Hurt/Comfort"
+    ],
+    "edad": [],
+    "pais_cultura": [
+      "Estados Unidos"
+    ],
+    "ubicaciones": [
+      {
+        "pais": "Estados Unidos",
+        "region": "Nueva York",
+        "ciudad": "Nueva York",
+        "localidad": null,
+        "lugares": []
+      },
+      {
+        "pais": "Estados Unidos",
+        "region": null,
+        "ciudad": "Fairbanks",
+        "localidad": null,
+        "lugares": []
+      },
+      {
+        "pais": "Estados Unidos",
+        "region": null,
+        "ciudad": "Alaska",
+        "localidad": null,
+        "lugares": []
+      }
+    ],
+    "epoca": "Contemporánea",
+    "periodo": null,
+    "tipo_mundo": "Realista",
+    "entornos": [
+      "Ciudad"
+    ],
+    "idioma_original": null,
+    "pais_origen": null,
+    "ambientacion": [],
+    "content_warnings": [],
+    "spicy": 2,
+    "rapidez_romance": 4,
+    "formato": null,
+    "adaptacion": null,
+    "sagaName": null,
+    "sagaNum": null,
+    "source": "spanish",
+    "traduccion": null,
+    "editions": [],
+    "saficlub": false,
+    "safi_categories": [],
+    "thaiclub": false,
+    "thai_categories": [],
+    "canal_rec": false,
+    "canal_month": null,
+    "my_rec": false,
+    "my_rec_categories": []
+  },
+  {
+    "id": "b_1795819407384_a8swx",
+    "title": "Cantando bajo la nieve",
+    "authors": [
+      "Cris Ginsey"
+    ],
+    "year": 2023,
+    "cover": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/I/71G98G9s+HL._SL1500_.jpg",
+    "synopsis": "Alexa es deportista y el icono lésbico de la universidad, pero nadie sabe que tiene un crush inalcanzable con la que le encantaría mantener una relación estable. Visita diariamente la cafetería en la que trabaja solo por verla unos minutos.\n\nRaven tiene una relación ideal con un hombre mayor que ella y trabaja a media jornada en la cafetería donde una chica de ojos verdes, con cierta fama de ligona en el campus universitario, acude con frecuencia.\n\nDesde que sus padres están separados Raven odia la Navidad y a Alexa solo le gusta porque se reencuentra con su hermana pequeña. Este año, ambas descubrirán que las fiestas pueden ser muy diferentes y encontrarán aspectos de ellas mismas que desconocían.",
+    "pages": 206,
+    "isbn": "9788419879103",
+    "wattpad": null,
+    "ship": [],
+    "genres": [
+      "Romance",
+      "Contemporánea",
+      "Comedia Romántica",
+      "Drama"
+    ],
+    "subgenres": [
+      "Navidad",
+      "Queer",
+      "Autodescubrimiento",
+      "Coming Out",
+      "Universidad",
+      "Deporte",
+      "Familia",
+      "Música"
+    ],
+    "identidades": [],
+    "characters": [
+      "Estudiante",
+      "Camarera"
+    ],
+    "protagonistas": [
+      {
+        "id": "pmwzkh7lsknr",
+        "nombre": "Alexa Jones",
+        "profesiones": [],
+        "identidades": [],
+        "edad": null
+      },
+      {
+        "id": "pmwzkh7ls3wd",
+        "nombre": "Raven Reyes",
+        "profesiones": [],
+        "identidades": [],
+        "edad": null
+      }
+    ],
+    "dinamicas": [
+      "Femme × Femme",
+      "Introvertida × Extrovertida",
+      "Seria × Divertida"
+    ],
+    "tropes": [
+      "Strangers to Lovers",
+      "Opposites Attract",
+      "Coming Out tardío",
+      "Lesbian Awakening"
+    ],
+    "edad": [
+      "New Adult (18–24)"
+    ],
+    "pais_cultura": [
+      "Estados Unidos"
+    ],
+    "ubicaciones": [
+      {
+        "pais": "Estados Unidos",
+        "region": "California y Arizona",
+        "ciudad": "Palo Alto",
+        "localidad": null,
+        "lugares": []
+      },
+      {
+        "pais": "Estados Unidos",
+        "region": null,
+        "ciudad": "Phoenix",
+        "localidad": null,
+        "lugares": []
+      },
+      {
+        "pais": "Estados Unidos",
+        "region": null,
+        "ciudad": "Arizona",
+        "localidad": null,
+        "lugares": []
+      }
+    ],
+    "epoca": "Contemporánea",
+    "periodo": "2017",
+    "tipo_mundo": "Realista",
+    "entornos": [
+      "Cafetería",
+      "Universidad",
+      "Ciudad"
+    ],
+    "idioma_original": null,
+    "pais_origen": null,
+    "ambientacion": [],
+    "content_warnings": [],
+    "spicy": 3,
+    "rapidez_romance": 4,
     "formato": null,
     "adaptacion": null,
     "sagaName": null,
